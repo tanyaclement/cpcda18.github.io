@@ -98,14 +98,13 @@ Add Gitelman on raw data oxymoron
 
 ### Readings
 
-**[Canvas](https://utexas.instructure.com/courses/1204381/files/folder/Week_1)**
+**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_1)**
 
 -   Nick Montfort (2016) “Why Program?” In *Exploratory Programming for the Arts and Humanities*, 267–77. Cambridge, MA: The MIT Press.
 
--   danah boyd & Kate Crawford (2012) "Critical Questions for Big Data," *Information, Communication & Society*, 15:5, 662-679.
+-   Piper, Andrew. "There will be Numbers." *Journal of Cultural Analytics* 1, no. 1 (May 23, 2016). [http://culturalanalytics.org/2016/05/there-will-be-numbers/](http://culturalanalytics.org/2016/05/there-will-be-numbers/)
 
-To start for next week:
--   Neal Stephenson (1999) “In the Beginning Was the Command Line.” Cryptonomicon. [Note: This reading is due the second week of the course but it's quite long.] <http://www.cryptonomicon.com/beginning.html>. [TXT](http://www.cryptonomicon.com/command.zip).
+-   danah boyd & Kate Crawford (2012) "Critical Questions for Big Data," *Information, Communication & Society*, 15:5, 662-679.
 
 
 ##### [▸ In-class outline](week-01.md)
@@ -113,8 +112,6 @@ To start for next week:
 <!--
 http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 -->
-
-
 
 ----------------------------------------------------------------
 
@@ -125,19 +122,10 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 
 ### Readings
 
-**[Readings in Canvas](https://utexas.instructure.com/courses/1204381/files/folder/Week_2)**
+**[Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)**
 
--   Noria, Xavier. “Understanding Newlines.” *O’Reilly ONLamp*, August 17, 2006. [http://www.onlamp.com/pub/a/onlamp/2006/08/17/understanding-newlines.html](http://www.onlamp.com/pub/a/onlamp/2006/08/17/understanding-newlines.html)
+-   Pound, Scott. “Kenneth Goldsmith and the Poetics of Information.” PMLA, vol. 130, no. 2, Mar. 2015, pp. 315–30.
 
--   Oualline, Steve. “The End of Line Puzzle.” *The Practical Programmer*. [http://www.oualline.com/practical.programmer/eol.html](http://www.oualline.com/practical.programmer/eol.html)
-
--   Piper, Andrew. "There will be Numbers." *Journal of Cultural Analytics* 1, no. 1 (May 23, 2016). [http://culturalanalytics.org/2016/05/there-will-be-numbers/](http://culturalanalytics.org/2016/05/there-will-be-numbers/)
-
--   Stephenson, Neal. “In the Beginning Was the Command Line.” Cryptonomicon, 1999. <http://www.cryptonomicon.com/beginning.html>. [TXT](http://www.cryptonomicon.com/command.zip).
-
-<!--
-Kenneth Goldsmith and the Poetics of Information?
--->
 
 ### Optional
 Read pages 1–28 of Shieber’s Python tutorial and work through the code examples.
@@ -149,11 +137,17 @@ Work through Chris Albon’s tutorial on Python string operations.
 
 -   Neff, Gina, Tanweer, Anissa, Fiore-Gartland, Brittany, Osburn, Laura  Critique and Contribute: A Practice-Based Framework for Improving Critical Data Studies and Data Science. *Big Data* 5, no. 2, 2017.
 
+-   Noria, Xavier. “Understanding Newlines.” *O’Reilly ONLamp*, August 17, 2006. [http://www.onlamp.com/pub/a/onlamp/2006/08/17/understanding-newlines.html](http://www.onlamp.com/pub/a/onlamp/2006/08/17/understanding-newlines.html)
+
+-   Oualline, Steve. “The End of Line Puzzle.” *The Practical Programmer*. [http://www.oualline.com/practical.programmer/eol.html](http://www.oualline.com/practical.programmer/eol.html)
+
+-   Stephenson, Neal. “In the Beginning Was the Command Line.” Cryptonomicon, 1999. <http://www.cryptonomicon.com/beginning.html>. [TXT](http://www.cryptonomicon.com/command.zip).
+
 
 ### Assignment
 
 
-[WA #1](https://utexas.instructure.com/courses/1204381/discussion_topics/2826310)
+Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 
 ##### [▸ In-class outline](week-02.md)
@@ -166,7 +160,7 @@ Work through Chris Albon’s tutorial on Python string operations.
 # <a name="week3"></a>Week 3 (9/25): Collections as Data: Meaning making
 
 ### Readings
-**[Canvas](https://utexas.instructure.com/courses/1204381/files/folder/Week_3)**
+**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_3)**
 
 - “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
 
@@ -198,7 +192,7 @@ Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingd
 
 ### Assignment
 
-[WA #2](https://utexas.instructure.com/courses/1204381/discussion_topics/2840058)
+Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 
 ##### [▸ In-class outline](week-03.md)
@@ -211,7 +205,7 @@ Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingd
 
 ### Readings
 
-**[Canvas](https://utexas.instructure.com/courses/1204381/files/folder/Week_4)**
+**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_4)**
 
 -   Fortune, Stephen. “A Brief History of Databases.” *Avant*, February 27th 2014. [https://web.archive.org/web/20150220031213/http://avant.org/media/history-of-databases](https://web.archive.org/web/20150220031213/http://avant.org/media/history-of-databases)
 
@@ -236,7 +230,7 @@ Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingd
 
 ### Assignment
 
-[WA #3](https://utexas.instructure.com/courses/1204381/discussion_topics/2841839)
+Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 ##### [▸ In-class outline](week-04.md)
 
@@ -264,7 +258,7 @@ Note: assign Text II this week -- have them turn in their Jupyter notebook.
 
 ### Readings
 
-**[Canvas](https://utexas.instructure.com/courses/1204381/files/folder/Week_5)**
+**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_5)**
 
 -   Burrows, John. “Textual Analysis.” In *Companion to Digital Humanities*, edited by Susan Schreibman, Ray Siemens, and John Unsworth. [Link](http://digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&doc.view=print&chunk.id=ss1-4-4&toc.depth=1&toc.id=0).
 
@@ -280,7 +274,7 @@ Note: assign Text II this week -- have them turn in their Jupyter notebook.
 ### Assignment
 
 
-[WA #4](https://utexas.instructure.com/courses/1204381/discussion_topics/2841813)
+Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 ##### [▸ In-class outline](week-05.md)
 
@@ -303,7 +297,7 @@ Notes 2018: We decided to skip working with APIs on Monday due to limited time. 
 
 ### Readings
 
-**[Canvas](https://utexas.instructure.com/courses/1204381/files/folder/Week_6)**
+**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_6)**
 
 -   Pomerantz, Jeffrey. “The Future of Metadata.” In *Metadata*. The MIT Press Essential Knowledge Series. Cambridge, MA ; London, England: The MIT Press, 2015.
 
@@ -329,7 +323,7 @@ Notes 2018: We decided to skip working with APIs on Monday due to limited time. 
 
 ### Assignment
 
-[WA #5](https://utexas.instructure.com/courses/1204381/discussion_topics/2841854)
+Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 ##### [▸ In-class outline](week-06.md)
 
@@ -347,7 +341,7 @@ we'll work with APIs in week 7 and return to parsing JSON files. Proposals will 
 
 -->
 
-**[Canvas](https://utexas.instructure.com/courses/1204381/files/folder/Week_7)**
+**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_7)**
 
 -  Christen, Kim. “Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness.” International Journal of Communication 6 (2012), 2870–2893.
 
@@ -366,7 +360,7 @@ we'll work with APIs in week 7 and return to parsing JSON files. Proposals will 
 
 ### Assignment
 
-[WA #6](https://utexas.instructure.com/courses/1204381/discussion_topics/2841926)
+Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 ##### [▸ In-class outline](week-07.md)
 
@@ -391,7 +385,7 @@ Install [matplotlib](http://matplotlib.org/) visualization library for Python.
 
 ### Readings
 
-**[Canvas](https://utexas.instructure.com/courses/1204381/files/folder/Week_9)**
+**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_9)**
 
 <!--
 
@@ -419,6 +413,7 @@ Note:  2018, assign Text III and Burrows this week.
 
 ### Assignment
 
+
 ##### [▸ In-class outline](week-08.md)
 
 ----------------------------------------------------------------
@@ -430,7 +425,7 @@ Note:  2018, assign Text III and Burrows this week.
 
 ### Assignment
 
-[Due: Proposal](https://utexas.instructure.com/courses/1204381/assignments/4166696)
+[Due: Proposal](https://utexas.instructure.com/courses/1216881/assignments/4166696)
 
 ##### [▸ In-class outline](week-09.md)
 
@@ -442,7 +437,7 @@ Note:  2018, assign Text III and Burrows this week.
 
 ### Readings
 
-**[Canvas](https://utexas.instructure.com/courses/1204381/files/folder/Week_10)**
+**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_10)**
 
 -   Berendt, Bettina, Preibusch, Soren. Toward Accountable Discrimination-Aware Data Mining:The Importance of Keeping the Human in the Loop—and Under the Looking Glass.Big DataVolume 5, Number 2, 2017.
 
@@ -468,7 +463,7 @@ Note:  2018, assign Text III and Burrows this week.
 
 ### Assignment
 
-[WA #7](https://utexas.instructure.com/courses/1204381/discussion_topics/2842235)
+Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 ##### [▸ In-class outline](week-10.md)
 
@@ -484,7 +479,7 @@ add -   Seaver, Nick ["Algorithms as culture: Some tactics for the ethnography o
 ### Readings
 
 
-**[Canvas](https://utexas.instructure.com/courses/1204381/files/folder/Week_11)**
+**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_11)**
 
 
 -   Hall, Gary. “Toward a Postdigital Humanities: Cultural Analytics and the Computational Turn to Data-Driven Scholarship.” *American Literature* 85, no. 4 (January 1, 2013): 781–809.
@@ -503,7 +498,7 @@ add -   Seaver, Nick ["Algorithms as culture: Some tactics for the ethnography o
 
 ### Assignment
 
-[WA #8](https://utexas.instructure.com/courses/1204381/discussion_topics/2842240)
+Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 <! --
 Getting their and getting it structured;
@@ -520,7 +515,7 @@ Getting their and getting it structured;
 
 ### Readings
 
-**[Canvas](https://utexas.instructure.com/courses/1204381/files/folder/Week_13)**
+**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_13)**
 
 
 -   Benkler, Yochai, and Helen Nissenbaum. “Commons-Based Peer Production and Virtue.” Journal of Political Philosophy 14, no. 4 (2006): 394–419. [https://www.nyu.edu/projects/nissenbaum/papers/jopp_235.pdf](https://www.nyu.edu/projects/nissenbaum/papers/jopp_235.pdf).
@@ -539,7 +534,7 @@ Getting their and getting it structured;
 
 ### Assignment
 
-[WA #9](https://utexas.instructure.com/courses/1204381/discussion_topics/2842243)
+Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 <! -
 Machine learning in class
@@ -553,7 +548,7 @@ Machine learning in class
 
 ### Readings
 
-**[Canvas](https://utexas.instructure.com/courses/1204381/files/folder/Week_12)**
+**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_12)**
 
 -   Sims, Nancy. “Library Licensing and Criminal Law: The Aaron Swartz Case.” *College & Research Libraries News* 72, no. 9 (2011): 534–37. [http://crln.acrl.org/content/72/9/534.short](http://crln.acrl.org/content/72/9/534.short).
 
@@ -573,7 +568,7 @@ Machine learning in class
 
 ### Assignment
 
-[WA #10](https://utexas.instructure.com/courses/1204381/discussion_topics/2842250)
+Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 ##### [▸ In-class outline](week-12.md)
 
@@ -586,11 +581,11 @@ Steve talks about copyright and helps students
 
 # <a name="week14"></a>Week 14 (12/11): Final Presentations
 
-[Final Presentation due](https://utexas.instructure.com/courses/1204381/assignments/4166564)
+[Final Presentation due](https://utexas.instructure.com/courses/1216881/assignments/4166564)
 
 -- **[Installation Tutorials](tutorials/)**
 
-12/18: [Final Project due](https://utexas.instructure.com/courses/1204381/assignments/4166548)
+12/18: [Final Project due](https://utexas.instructure.com/courses/1216881/assignments/4166548)
 
 ----------------------------------------------------------------
 # Additional resources:
