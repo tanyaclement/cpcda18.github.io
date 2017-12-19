@@ -18,14 +18,14 @@ Instructor: Tanya Clement
 
 Office hours: Mondays 1–3 p.m., UTA 5.558
 
-##### Course Schedule
+## Course Schedule
 
 [Week 1](#week1) | [Week 2](#week2) | [Week 3](#week3) | [Week 4](#week4) |
 [Week 5](#week5) | [Week 6](#week6) | [Week 7](#week7) | [Week 8](#week8) |
 [Week 9](#week9) | [Week 10](#week10) | [Week 11](#week11) | [Week 12](#week12)
  | [Week 13](#week13) | [Week 14](#week14)
 
-### Course Objectives
+## Course Objectives
 
 Prerequsites: advanced-level undergraduate or graduate coursework in the humanities; no or very little programming experience preferred;
 
@@ -43,9 +43,9 @@ Learning goals:
 
 -  Familiarity with scripting-style programming in Python and Unix-like systems, emphasizing literacy in finding and using free and open source software; techniques for collecting, transforming, and analyzing media and metadata available on the Web; with commonly used data models and their standard formats, including CSV, JSON, and XML; with text analysis techniques such as natural language processing (NLP), sentiment analysis, and machine learning classification; and with tools for analyzing cultural data via visualization and statistical tests, emphasizing critical reflection on the limitations of these approaches.
 
-### Course Principles
+## Course Principles
 
--  Writing critically about data requires both a level of knowldege about data and data wrangling as it requires a level of knowledge about thinking and writing from critical perspectives learned in cultural studies. While this course does not *teach* cultural studies, an understanding of and experience in humanities theory and research and the principles of cultural studies are essential.
+-  Writing critically about data requires both a level of knowledge about data and data wrangling as it requires a level of knowledge about thinking and writing from critical perspectives learned in cultural studies. While this course does not *teach* cultural studies, an understanding of and experience in humanities theory and research and the principles of cultural studies are essential.
 
 -  Imitating and modifying others’ code is essential in learning to program. You can many examples and explanations on [Stack Exchange](http://stackexchange.com) and similar online forums. Taking one or two lines without attribution is OK; if you use a longer chunk of code found online, add a #comment with the source’s URL.
 
@@ -55,7 +55,39 @@ Learning goals:
 
 -   Learning to code takes trial and error. Work through weekly programming tutorials before class and continue polishing in-class coding assignments at home.
 
+## Course materials
+
+There is one required text for this course:
+Montfort, Nick. Exploratory Programming for the Arts and Humanities. Cambridge, MA: The MIT Press, 2016.
+
+All other readings will either be available online and linked below or [posted on Canvas](https://utexas.instructure.com/courses/1216881/files).
+
 ## Assignments
+
+### Discussion Posts (35%)
+
+Except when indicated, there will be required readings each week.
+
+Assignments should be posted on Canvas by midnight the day before class.
+
+<!--
+### Resources
+
+-   Software Tools
+
+-   Sample Data Sources
+
+Add Gitelman on raw data oxymoron
+-->
+
+### Data Set Review (15%)
+[Adapted from Cultural Analytics [Data Set Reviews submissions[(http://culturalanalytics.org/2017/10/introducing-data-sets-a-new-section/)]]
+
+Submission: 2,000 to 3,000 words. Also required is a works cited page (not included in the word count).
+
+Any data set that you think is relevant to the study of culture is eligible for this section. An appropriate essay is one that addresses questions like: What questions does your data enable others to ask? What other kinds of data is your data in conversation with? What are the representational problems you faced when collecting your data -- what is your data representative of? How are you trying to address the under- or mis-representation of some aspect of culture or some cultural community? What steps did you take to prepare your data for computational analysis? What problems or concerns do you have about the biases encoded in your data? What in short are the limits of this data?
+
+Data does not directly reflect the world it claims to represent. It does so with human interests, institutional investments, and a good deal of randomness built into the collection process. We are only just at the beginning of thinking about how data collection impacts the analysis of culture.  You are welcome to describe a newly discovered data set or engage in an extended analysis of data that has been used in existing studies. Understanding the way data represents culture is one of the primary aims of cultural analytics.
 
 ### Final Project: Critical Data Analysis (50%)
 
@@ -73,28 +105,10 @@ Your final project will include the following elements:
 
 -   12 page critical essay, with an appendix of 3–4 data visualizations (30%)
 
-### Weekly Assignments (WA) (50%)
-
-Except when indicated, there will be required readings each week. The required readings will either be available online and linked below or posted on Canvas, so there are no books to buy or papers to acquire for the class.
-
-Assignments should be posted on Canvas by midnight the day before class.
-
-<!--
-### Resources
-
--   Software Tools
-
--   Sample Data Sources
-
-Add Gitelman on raw data oxymoron
--->
-
-
-
 ----------------------------------------------------------------
 
 
-# <a name="week1"></a>Week 1 (9/11): Introductions & Command Line Basics
+# <a name="week1"></a>Week 1 (1/22): Introductions & Command Line Basics
 
 ### Readings
 
@@ -117,7 +131,7 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 
 
 
-# <a name="week2"></a>Week 2 (9/18): The Operating System in Context
+# <a name="week2"></a>Week 2 (1/28): The Operating System in Context
 
 
 ### Readings
@@ -157,7 +171,7 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 ----------------------------------------------------------------
 
-# <a name="week3"></a>Week 3 (9/25): Collections as Data: Meaning making
+# <a name="week3"></a>Week 3 (2/5): Collections as Data: Meaning making
 
 ### Readings
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_3)**
@@ -201,7 +215,7 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 ----------------------------------------------------------------
 
-# <a name="week4"></a>Week 4 (10/2): Collections as Data: Data Models
+# <a name="week4"></a>Week 4 (2/12): Collections as Data: Data Models
 
 ### Readings
 
@@ -240,7 +254,7 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 
 
-# <a name="week5"></a>Week 5 (10/9): An Algorithmic Criticism: Word-Level Text Analysis
+# <a name="week5"></a>Week 5 (2/19): An Algorithmic Criticism: Word-Level Text Analysis
 
 
 <!--
@@ -283,7 +297,7 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 ----------------------------------------------------------------
 
 
-# <a name="week6"></a>Week 6 (10/16): The Rise of Free Culture: Web Scraping & APIs
+# <a name="week6"></a>Week 6 (2/26): The Rise of Free Culture: Web Scraping & APIs
 
 <!--
 Install [Beauitful Soup](https://www.crummy.com/software/BeautifulSoup/) library for parsing HTML.
@@ -331,7 +345,7 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 ----------------------------------------------------------------
 
-# <a name="week7"></a>Week 7 (10/23) The Politics of Open Data
+# <a name="week7"></a>Week 7 (3/5) The Politics of Open Data
 
 ### Readings
 
@@ -365,9 +379,9 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 ##### [▸ In-class outline](week-07.md)
 
 ----------------------------------------------------------------
+# SPRING BREAK (3/12)
 
-
-# <a name="week8"></a>Week 8 (10/30): Statistics and Visualization
+# <a name="week8"></a>Week 8 (3/19): Statistics and Visualization
 
 <!--
 Install [numpy](http://www.numpy.org/) scientific computing library for Python.
@@ -419,7 +433,7 @@ Note:  2018, assign Text III and Burrows this week.
 ----------------------------------------------------------------
 
 
-# <a name="week9"></a>Week 9 (11/6): Your Data, Your culture
+# <a name="week9"></a>Week 9 (3/26): Your Data, Your culture
 
 ### No Readings
 
@@ -433,7 +447,7 @@ Note:  2018, assign Text III and Burrows this week.
 ----------------------------------------------------------------
 
 
-# <a name="week10"></a>Week 10 (11/13): Machine Learning
+# <a name="week10"></a>Week 10 (4/2): Machine Learning
 
 ### Readings
 
@@ -474,7 +488,7 @@ add -   Seaver, Nick ["Algorithms as culture: Some tactics for the ethnography o
 ----------------------------------------------------------------
 
 
-# <a name="week11"></a>Week 11 (11/20): Critical Text Analysis
+# <a name="week11"></a>Week 11 (4/9): Critical Text Analysis
 
 ### Readings
 
@@ -511,7 +525,7 @@ Getting their and getting it structured;
 ----------------------------------------------------------------
 
 
-# <a name="week12"></a>Week 12 (11/27): Peer Production & Crowdsourcing
+# <a name="week12"></a>Week 12 (4/16): Peer Production & Crowdsourcing
 
 ### Readings
 
@@ -544,7 +558,7 @@ Machine learning in class
 
 ----------------------------------------------------------------
 
-# <a name="week13"></a>Week 13 (12/4): Copyright and the Information Commons
+# <a name="week13"></a>Week 13 (4/23): Copyright and the Information Commons
 
 ### Readings
 
@@ -579,13 +593,13 @@ Steve talks about copyright and helps students
 
 ----------------------------------------------------------------
 
-# <a name="week14"></a>Week 14 (12/11): Final Presentations
+# <a name="week14"></a>Week 14 (4/30): Final Presentations
 
 [Final Presentation due](https://utexas.instructure.com/courses/1216881/assignments/4166564)
 
 -- **[Installation Tutorials](tutorials/)**
 
-12/18: [Final Project due](https://utexas.instructure.com/courses/1216881/assignments/4166548)
+5/7: [Final Project due](https://utexas.instructure.com/courses/1216881/assignments/4166548)
 
 ----------------------------------------------------------------
 # Additional resources:
