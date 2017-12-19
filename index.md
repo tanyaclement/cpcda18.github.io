@@ -1,3 +1,12 @@
+Notes: 
+Best, Stephen, and Sharon Marcus. “Surface Reading: An Introduction.” Representations, vol. 108, no. 1, 1 Nov. 2009, pp. 1–21. JSTOR, doi:http://dx.doi.org/10.1525/rep.2009.108.1.1. 
+
+Manipulating strings, replacing and splitting
+list comprehensions
+working with lists, slice notation, 
+different data types: integer, float, string, can't mash them together, boolean true and false values; different lists in python. 
+
+
 
 # Syllabus: Critical Perspectives in Cultural Data Analysis
 
@@ -130,7 +139,7 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 -   Stephenson, Neal. “In the Beginning Was the Command Line.” Cryptonomicon, 1999. <http://www.cryptonomicon.com/beginning.html>. [TXT](http://www.cryptonomicon.com/command.zip).
 
 <!--
-Kenneth Goldsmith and the Poetics of INformation?
+Kenneth Goldsmith and the Poetics of Information?
 -->
 
 ### Optional
@@ -449,7 +458,6 @@ Note:  2018, assign Text III and Burrows this week.
 -   Geitgey, Adam. “Machine Learning is Fun!” *Medium*. [https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
 
-
 ### Optional Readings
 
 -   Norvig, Peter. “Natural Language Corpus Data.” In *Beautiful Data: The Stories Behind Elegant Data Solutions*, edited by Toby Segaran and Jeff Hammerbacher, 1st ed. Beijing ; Sebastopol, CA: O’Reilly, 2009.
@@ -467,7 +475,9 @@ Note:  2018, assign Text III and Burrows this week.
 
 ##### [▸ In-class outline](week-10.md)
 
-
+<!--
+add -   Seaver, Nick ["Algorithms as culture: Some tactics for the ethnography of algorithmic systems"](http://journals.sagepub.com/doi/10.1177/2053951717738104) Big Data and Society. 9 Nov. 2017
+-->
 
 ----------------------------------------------------------------
 
@@ -498,7 +508,7 @@ Note:  2018, assign Text III and Burrows this week.
 
 [WA #8](https://utexas.instructure.com/courses/1204381/discussion_topics/2842240)
 
-<!--
+<! --
 Getting their and getting it structured;
 -->
 
@@ -515,6 +525,7 @@ Getting their and getting it structured;
 
 **[Canvas](https://utexas.instructure.com/courses/1204381/files/folder/Week_13)**
 
+
 -   Benkler, Yochai, and Helen Nissenbaum. “Commons-Based Peer Production and Virtue.” Journal of Political Philosophy 14, no. 4 (2006): 394–419. [https://www.nyu.edu/projects/nissenbaum/papers/jopp_235.pdf](https://www.nyu.edu/projects/nissenbaum/papers/jopp_235.pdf).
 
 -   Bodó, Balázs. “Set the Fox to Watch the Geese: Voluntary IP Regimes in Piratical File-sharing Communities.” In Piracy: Leakages from Modernity, edited by James Arvanitakis and Martin Fredriksson, 241–63. Sacramento, CA: Litwin Books, 2014.
@@ -523,14 +534,17 @@ Getting their and getting it structured;
 
 -   Manzo, Christina, Geoff Kaufman, Sukdith Punjasthitkul, and Mary Flanagan. “‘By the People, For the People’: Assessing the Value of Crowdsourced, User-Generated Metadata.” *Digital Humanities Quarterly* 9, no. 1 (2015). [http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html](http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html)
 
+
 ### Optional Readings
 
+
 -   Benkler, Yochai. “Peer Production and Sharing.” In *The Wealth of Networks: How Social Production Transforms Markets and Freedom*, 59–90. New Haven [Conn.]: Yale University Press, 2006.
+
 ### Assignment
 
 [WA #9](https://utexas.instructure.com/courses/1204381/discussion_topics/2842243)
 
-<!--
+<! -
 Machine learning in class
 -->
 
@@ -570,19 +584,18 @@ Machine learning in class
 Steve talks about copyright and helps students
 -->
 
+
 ----------------------------------------------------------------
 
 # <a name="week14"></a>Week 14 (12/11): Final Presentations
 
 [Final Presentation due](https://utexas.instructure.com/courses/1204381/assignments/4166564)
 
-
+-- **[Installation Tutorials](tutorials/)**
 
 12/18: [Final Project due](https://utexas.instructure.com/courses/1204381/assignments/4166548)
 
 ----------------------------------------------------------------
 # Additional resources:
--- **[Installation Tutorials](tutorials/)**
 [Jeroen Janssens Seven Command Line Tools for Data Science (2013) workbench.](https://hub.docker.com/r/wlanderson/dsatclwb/)
 Juola, P. and Ramsay, S. [Six Septembers: Mathematics for the Humanist](http://digitalcommons.unl.edu/zeabook/55/). Zea E-Books.
-Seaver, Nick ["Algorithms as culture: Some tactics for the ethnography of algorithmic systems"](http://journals.sagepub.com/doi/10.1177/2053951717738104) Big Data and Society. 9 Nov. 2017
