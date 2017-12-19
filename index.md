@@ -1,25 +1,22 @@
-Notes: 
-Best, Stephen, and Sharon Marcus. “Surface Reading: An Introduction.” Representations, vol. 108, no. 1, 1 Nov. 2009, pp. 1–21. JSTOR, doi:http://dx.doi.org/10.1525/rep.2009.108.1.1. 
+<!--
+Notes:
+Best, Stephen, and Sharon Marcus. “Surface Reading: An Introduction.” Representations, vol. 108, no. 1, 1 Nov. 2009, pp. 1–21. JSTOR, doi:http://dx.doi.org/10.1525/rep.2009.108.1.1.
 
 Manipulating strings, replacing and splitting
 list comprehensions
-working with lists, slice notation, 
-different data types: integer, float, string, can't mash them together, boolean true and false values; different lists in python. 
+working with lists, slice notation,
+different data types: integer, float, string, can't mash them together, boolean true and false values; different lists in python.
 
-
-
+-->
 # Syllabus: Critical Perspectives in Cultural Data Analysis
 
 #### University of Texas at Austin School of Information
 
-Fall 2017, Mondays 3–6 p.m.
+Spring 2018, Mondays 3–6 p.m. UTA 1.210A
 
 Instructor: Tanya Clement
 
-TA: Steve McLaughlin
-
 Office hours: Mondays 1–3 p.m., UTA 5.558
-
 
 ##### Course Schedule
 
