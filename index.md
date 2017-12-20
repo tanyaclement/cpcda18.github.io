@@ -20,10 +20,7 @@ Office hours: Mondays 1–3 p.m., UTA 5.558
 
 ## Course Schedule
 
-[Week 1](#week1) | [Week 2](#week2) | [Week 3](#week3) | [Week 4](#week4) |
-[Week 5](#week5) | [Week 6](#week6) | [Week 7](#week7) | [Week 8](#week8) |
-[Week 9](#week9) | [Week 10](#week10) | [Week 11](#week11) | [Week 12](#week12)
- | [Week 13](#week13) | [Week 14](#week14)
+[Week 1](#week1) | [Week 2](#week2) | [Week 3](#week3) | [Week 4](#week4) | [Week 5](#week5) | [Week 6](#week6) | [Week 7](#week7) | [Week 8](#week8) | [Week 9](#week9) | [Week 10](#week10) | [Week 11](#week11) | [Week 12](#week12) | [Week 13](#week13) | [Week 14](#week14)
 
 ## Course Objectives
 
@@ -114,12 +111,9 @@ Your final project will include the following elements:
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_1)**
 
--   Nick Montfort (2016) “Why Program?” In *Exploratory Programming for the Arts and Humanities*, 267–77. Cambridge, MA: The MIT Press.
+-  Piper, Andrew. "There will be Numbers." *Journal of Cultural Analytics* 1, no. 1 (May 23, 2016). [http://culturalanalytics.org/2016/05/there-will-be-numbers/](http://culturalanalytics.org/2016/05/there-will-be-numbers/)
 
--   Piper, Andrew. "There will be Numbers." *Journal of Cultural Analytics* 1, no. 1 (May 23, 2016). [http://culturalanalytics.org/2016/05/there-will-be-numbers/](http://culturalanalytics.org/2016/05/there-will-be-numbers/)
-
--   danah boyd & Kate Crawford (2012) "Critical Questions for Big Data," *Information, Communication & Society*, 15:5, 662-679.
-
+-  Bod, Rens. "Introduction: the Quest for Principles and Patterns." A New History of the Humanities: The Search for Principles and Patterns from Antiquity to the Present. Oxford University Press, 2013, pp. 1 - 12.You must be logged in as a UT student to retrieve this text: [http://catalog.lib.utexas.edu/record=b8902003~S29](http://catalog.lib.utexas.edu/record=b8902003~S29)
 
 ##### [▸ In-class outline](week-01.md)
 
@@ -129,22 +123,54 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 
 ----------------------------------------------------------------
 
-
-
-# <a name="week2"></a>Week 2 (1/28): The Operating System in Context
+# <a name="week2"></a>Week 2 (1/28): Collections as Data: Meaning making
 
 
 ### Readings
 
 **[Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)**
+- danah boyd & Kate Crawford (2012) "Critical Questions for Big Data," *Information, Communication & Society*, 15:5, 662-679.
 
--   Pound, Scott. “Kenneth Goldsmith and the Poetics of Information.” PMLA, vol. 130, no. 2, Mar. 2015, pp. 315–30.
+- Liu, Alan. “The Meaning of the Digital Humanities.” *PMLA* 128, no. 2 (March 2013): 409–23.
 
+- Padilla, T. "On a Collections as Data Imperative." [PDF](http://digitalpreservation.gov/meetings/dcs16/tpadilla_OnaCollectionsasDataImperative_final.pdf).
+
+- Pound, Scott. “Kenneth Goldsmith and the Poetics of Information.” PMLA, vol. 130, no. 2, Mar. 2015, pp. 315–30.
 
 ### Optional
+
+-  Gallinger, M. and Daniel Chudnov "Library of Congress Lab: Library of Congress Digital Scholars Lab Pilot Project Report."
+-  Posner, Miriam. “Humanities Data: A Necessary Contradiction.” *Miriam Posner’s Blog*, June 25, 2015. [http://miriamposner.com/blog/humanities-data-a-necessary-contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction)
+
+### Assignment
+
+Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
+
+##### [▸ In-class outline](week-02.md)
+
+
+----------------------------------------------------------------
+
+# <a name="week3"></a>Week 3 (2/5): Collections as Data: Programming
+
+### Readings
+**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_3)**
+
+-   Nick Montfort (2016) “Why Program?” In *Exploratory Programming for the Arts and Humanities*, 267–77. Cambridge, MA: The MIT Press.
+
+-   Introna, L. D. “The Enframing of Code: Agency, Originality and the Plagiarist.” *Theory, Culture & Society* 28, no. 6 (November 1, 2011): 113–41.
+
+-   Vee, Annette. "Sociomaterialities of Programming and Writing." Coding Literacy: How Computer Programming Is Changing Writing. The MIT Press, 2017.
+
+-   “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
+
+- Allardice, Simon. “Foundations of Programming: Fundamentals, parts 1-3; part 5, just "part 5, Breaking your code apart"; and part 14, just “Python” and “Libraries and frameworks”. [http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html](http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html) [To access Lynda.com. follow links below, click “Log in,” then “Organizational Login,” and enter your UT EID and password.]
+
 Read pages 1–28 of Shieber’s Python tutorial and work through the code examples.
 
 -   Shieber, Stuart M., *Programming for Humanists* pages 1–28, 2014. [http://blogs.harvard.edu/programmingforhumanists/files/2014/12/proghum.pdf](http://blogs.harvard.edu/programmingforhumanists/files/2014/12/proghum.pdf)
+
+### Optional
 
 Work through Chris Albon’s tutorial on Python string operations.
 -   Albon, Chris. “String Operations.” [http://chrisalbon.com/python/string_operations.html](http://chrisalbon.com/python/string_operations.html)
@@ -157,37 +183,6 @@ Work through Chris Albon’s tutorial on Python string operations.
 
 -   Stephenson, Neal. “In the Beginning Was the Command Line.” Cryptonomicon, 1999. <http://www.cryptonomicon.com/beginning.html>. [TXT](http://www.cryptonomicon.com/command.zip).
 
-
-### Assignment
-
-
-Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
-
-
-##### [▸ In-class outline](week-02.md)
-
-
-
-
-----------------------------------------------------------------
-
-# <a name="week3"></a>Week 3 (2/5): Collections as Data: Meaning making
-
-### Readings
-**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_3)**
-
-- “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
-
-<!--move the below to week 2-->
-- Allardice, Simon. “Foundations of Programming: Fundamentals, parts 1-3; part 5, just "part 5, Breaking your code apart"; and part 14, just “Python” and “Libraries and frameworks”. [http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html](http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html) [To access Lynda.com. follow links below, click “Log in,” then “Organizational Login,” and enter your UT EID and password.]
-
-- Clement, T. and McLaughlin, S. “Measured Applause: Toward a Cultural Analysis of Audio Collections.” Cultural Analytics, vol. 1, no. 1, 2016. [http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/](http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/)
-
-- Introna, L. D. “The Enframing of Code: Agency, Originality and the Plagiarist.” *Theory, Culture & Society* 28, no. 6 (November 1, 2011): 113–41.
-
-- Liu, Alan. “The Meaning of the Digital Humanities.” *PMLA* 128, no. 2 (March 2013): 409–23.
-
-- Padilla, T. "On a Collections as Data Imperative." [PDF](http://digitalpreservation.gov/meetings/dcs16/tpadilla_OnaCollectionsasDataImperative_final.pdf).
 <!--
 2018 note: maybe add Witmore's piece on Latour and the two kingdoms or first chapter of Bens. Move Padilla to optional readings. What about Fish and interpretive communities?  
 Assign Text I this week.
@@ -196,9 +191,6 @@ Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingd
 -->
 
 ### Optional
-
--  Gallinger, M. and Daniel Chudnov "Library of Congress Lab: Library of Congress Digital Scholars Lab Pilot Project Report."
--  Posner, Miriam. “Humanities Data: A Necessary Contradiction.” *Miriam Posner’s Blog*, June 25, 2015. [http://miriamposner.com/blog/humanities-data-a-necessary-contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction)
 
 -  Marini, Joe. “Up and Running with Python.” Lynda.com.
             [http://www.lynda.com/Python-tutorials/Welcome/122467/142550-4.html](http://www.lynda.com/Python-tutorials/Welcome/122467/142550-4.html)
@@ -215,11 +207,17 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 ----------------------------------------------------------------
 
-# <a name="week4"></a>Week 4 (2/12): Collections as Data: Data Models
+# <a name="week4"></a>Week 4 (2/12):
 
 ### Readings
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_4)**
+
+
+<!-- later when you talk about features with Witmore
+
+- Clement, T. and McLaughlin, S. “Measured Applause: Toward a Cultural Analysis of Audio Collections.” Cultural Analytics, vol. 1, no. 1, 2016. [http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/](http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/)
+-->
 
 -   Fortune, Stephen. “A Brief History of Databases.” *Avant*, February 27th 2014. [https://web.archive.org/web/20150220031213/http://avant.org/media/history-of-databases](https://web.archive.org/web/20150220031213/http://avant.org/media/history-of-databases)
 
@@ -254,7 +252,9 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 
 
-# <a name="week5"></a>Week 5 (2/19): An Algorithmic Criticism: Word-Level Text Analysis
+# <a name="week5"></a>Week 5 (2/19): Collections as Data: Data Models
+
+An Algorithmic Criticism: Word-Level Text Analysis
 
 
 <!--
@@ -264,7 +264,7 @@ pip install --user -U textblob
 
 python -m textblob.download_corpora
 -->
-<! --
+<!--
 Note: assign Text II this week -- have them turn in their Jupyter notebook.
 -->
 
