@@ -287,7 +287,12 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 ----------------------------------------------------------------
 
-# <a name="week7"></a>Week 7 (3/5): Data and Interpretive Framing, I
+# <a name="week7"></a>Week 7 (3/5): Data and Interpretive Framing I: Audience
+
+### Readings
+
+
+**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_7)**
 
 -  Final project: Booth chp. 2 "Connecting with your Reader"
 
@@ -299,17 +304,7 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 - Pound, Scott. “Kenneth Goldsmith and the Poetics of Information.” PMLA, vol. 130, no. 2, Mar. 2015, pp. 315–30.
 
-
-### Readings
-
-
-**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_7)**
-
-
-
 -   Greenwald, Glenn. “Chapter 1: Contact.” In *No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State*, 2015.
-
-
 
 -   American Civil Liberties Union. "First Amendment Lawsuit Brought on Behalf of Academic Researchers and Journalists Who Fear Prosecution Under the Computer Fraud and Abuse Act." [https://www.aclu.org/news/aclu-challenges-law-preventing-studies-big-data-discrimination](https://www.aclu.org/news/aclu-challenges-law-preventing-studies-big-data-discrimination)
 
@@ -387,35 +382,11 @@ Install [matplotlib](http://matplotlib.org/) visualization library for Python.
 ----------------------------------------------------------------
 
 
-# <a name="week9"></a>Week 9 (3/26): Data and Interpretive Framing, II
+# <a name="week9"></a>Week 9 (3/26): Data and Interpretive Framing II: Methods
 
 ### Readings
 
-- Final project: Booth chp. 3 "From Topics to Questions" and chp. 4 "From Questions to a Problem"
-
-- Ramsay, Stephen. “Chapter 1: An Algorithmic Criticism.” In *Reading Machines: Toward an Algorithmic Criticism*, 1–17. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2011.
-
-- Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingdom of Knowledge.” New Literary History 47 (2): 353–75.
-
-- Freelon, Deen Goodwin, Charlton D. McIlwain, and Meredith D. Clark. “Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice,” 2016. [http://cmsimpact.org/wp-content/uploads/2016/03/beyond_the_hashtags_2016.pdf](http://cmsimpact.org/wp-content/uploads/2016/03/beyond_the_hashtags_2016.pdf)
-
-- Hitchcock, Tim. “Digital Searching and the Re-formulation of Historical Knowledge” 2008. In *The Virtual Representation of the Past*, edited by Mark Greenglass and Lorna Hughes, 81-90. Ashgate: 2008.
-
-### Assignment
-
-[Due: Proposal](https://utexas.instructure.com/courses/1216881/assignments/4166696)
-
-##### [▸ In-class outline](week-09.md)
-
-
-----------------------------------------------------------------
-
-
-# <a name="week10"></a>Week 10 (4/2): Machine Learning
-
-### Readings
-
-**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_10)**
+- Montfort chp. 10 "Text III"
 
 -   Berendt, Bettina, Preibusch, Soren. Toward Accountable Discrimination-Aware Data Mining:The Importance of Keeping the Human in the Loop—and Under the Looking Glass.Big DataVolume 5, Number 2, 2017.
 
@@ -433,8 +404,33 @@ Install [matplotlib](http://matplotlib.org/) visualization library for Python.
 
 -   Wolfram, S. Machine Learning for Middle Schoolers. Stephen Wolfram Blog. 11 May 2017. [http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments](http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments)
 
--   “Working With Text Data.” scikit-learn.
-                      [http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
+
+### Assignment
+
+[Due: Proposal](https://utexas.instructure.com/courses/1216881/assignments/4166696)
+
+##### [▸ In-class outline](week-09.md)
+
+
+----------------------------------------------------------------
+
+
+# <a name="week10"></a>Week 10 (4/2): Data and Interpretive Framing II: Problem
+
+### Readings
+
+**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_10)**
+
+- Final project: Booth chp. 3 "From Topics to Questions" and chp. 4 "From Questions to a Problem"
+
+- Ramsay, Stephen. “Chapter 1: An Algorithmic Criticism.” In *Reading Machines: Toward an Algorithmic Criticism*, 1–17. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2011.
+
+- Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingdom of Knowledge.” New Literary History 47 (2): 353–75.
+
+- Freelon, Deen Goodwin, Charlton D. McIlwain, and Meredith D. Clark. “Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice,” 2016. [http://cmsimpact.org/wp-content/uploads/2016/03/beyond_the_hashtags_2016.pdf](http://cmsimpact.org/wp-content/uploads/2016/03/beyond_the_hashtags_2016.pdf)
+
+- Hitchcock, Tim. “Digital Searching and the Re-formulation of Historical Knowledge” 2008. In *The Virtual Representation of the Past*, edited by Mark Greenglass and Lorna Hughes, 81-90. Ashgate: 2008.
+
 
 ### Assignment
 
@@ -442,14 +438,10 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 ##### [▸ In-class outline](week-10.md)
 
-<!--
-add -   Seaver, Nick ["Algorithms as culture: Some tactics for the ethnography of algorithmic systems"](http://journals.sagepub.com/doi/10.1177/2053951717738104) Big Data and Society. 9 Nov. 2017
--->
-
 ----------------------------------------------------------------
 
 
-# <a name="week11"></a>Week 11 (4/9): Critical Text Analysis
+# <a name="week11"></a>Week 11 (4/9):
 
 ### Readings
 
@@ -466,16 +458,15 @@ add -   Seaver, Nick ["Algorithms as culture: Some tactics for the ethnography o
 -   Marche, Stephen. “Literature Is not Data: Against Digital Humanities.” *Los Angeles Review of Books*, October 28th, 2012.
                       [https://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities](https://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities)
 
+
 ### Optional Reading
 
--   Ramsay, Stephen. “Chapter 3: Potential Readings.” In *Reading Machines: Toward an Algorithmic Criticism*, 33–57. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2011.
-
+-   “Working With Text Data.” scikit-learn.
+                      [http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
 
 ### Assignment
 
 Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
-
-
 
 ##### [▸ In-class outline](week-11.md)
 
@@ -483,48 +474,45 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 ----------------------------------------------------------------
 
 
-# <a name="week12"></a>Week 12 (4/16): Data and Interpretive Framing, III
+# <a name="week12"></a>Week 12 (4/16): Data and Interpretive Framingm III: Features
 
 ### Readings
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_13)**
 
+
 - Clement, T. and McLaughlin, S. “Measured Applause: Toward a Cultural Analysis of Audio Collections.” Cultural Analytics, vol. 1, no. 1, 2016. [http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/](http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/)
 
 - Neff, Gina, Tanweer, Anissa, Fiore-Gartland, Brittany, Osburn, Laura  Critique and Contribute: A Practice-Based Framework for Improving Critical Data Studies and Data Science. *Big Data* 5, no. 2, 2017.
 
+- Ramsay, Stephen. “Chapter 3: Potential Readings.” In *Reading Machines: Toward an Algorithmic Criticism*, 33–57. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2011.
 
-### Optional Readings
-
+- Seaver, Nick ["Algorithms as culture: Some tactics for the ethnography of algorithmic systems"](http://journals.sagepub.com/doi/10.1177/2053951717738104) Big Data and Society. 9 Nov. 2017
 
 ### Assignment
 
 Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
 
-<! -
-Machine learning in class
--->
 
 ##### [▸ In-class outline](week-13.md)
 
 ----------------------------------------------------------------
 
-# <a name="week13"></a>Week 13 (4/23): Copyright and the Information Commons
+# <a name="week13"></a>Week 13 (4/23): Statistics and visualization
 
 ### Readings
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_12)**
 
+-   Manovich, Lev. “What Is Visualisation?” *Visual Studies* 26, no. 1 (March 15, 2011): 36–49. <http://www.tandfonline.com/doi/abs/10.1080/1472586X.2011.548488>.
 
--   Montfort, Nick. “Statistics and Visualization.” In *Exploratory Programming for the Arts and Humanities*, 215–40. Cambridge, MA: The MIT Press, 2016.
+-   Montfort chp. 11 “Statistics and Visualization.”
 
 -   Krumme, Coco. “What Data Doesn’t Do.” In *Beautiful Data: The Stories behind Elegant Data Solutions*, edited by Toby Segaran and Jeff Hammerbacher, 1st ed. Beijing ; Sebastopol, CA: O’Reilly, 2009.
 
 -   McCandles, David. *Information is Beautiful*. *http://www.informationisbeautiful.net*
 
-
 -   Brew, Chris. “Language Processing: Statistical Methods.” In Encyclopedia of Language & Linguistics, edited by Keith Brown, 2nd ed., 12:597–604. Elsevier, 2006.
-
 
 
 ### Optional Readings
@@ -533,10 +521,7 @@ Machine learning in class
 
 -   Thompson, Clive. “The Surprising History of the Infographic.” <http://www.smithsonianmag.com/history/surprising-history-infographic-180959563/?no-ist>
 
--   Manovich, Lev. “What Is Visualisation?” *Visual Studies* 26, no. 1 (March 15, 2011): 36–49. <http://www.tandfonline.com/doi/abs/10.1080/1472586X.2011.548488>.
-
 -   Moretti, Franco. “Graphs.” In *Graphs, Maps, Trees: Abstract Models for Literary History*, 3–33. London ; New York: Verso, 2007.
-
 
 -   Sims, Nancy. “Library Licensing and Criminal Law: The Aaron Swartz Case.” *College & Research Libraries News* 72, no. 9 (2011): 534–37. [http://crln.acrl.org/content/72/9/534.short](http://crln.acrl.org/content/72/9/534.short).
 
@@ -546,10 +531,6 @@ Machine learning in class
 Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 ##### [▸ In-class outline](week-12.md)
-
-<!--
-Steve talks about copyright and helps students
--->
 
 
 ----------------------------------------------------------------
