@@ -123,7 +123,7 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 
 ----------------------------------------------------------------
 
-# <a name="week2"></a>Week 2 (1/28): Collections as Data:
+# <a name="week2"></a>Week 2 (1/28): Collections as Data: Provocations
 
 
 ### Readings
@@ -155,7 +155,7 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 ----------------------------------------------------------------
 
-# <a name="week3"></a>Week 3 (2/5): Collections as Data: Programming
+# <a name="week3"></a>Week 3 (2/5): Collections as Data: Programming I
 
 ### Readings
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_3)**
@@ -190,7 +190,7 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 ----------------------------------------------------------------
 
-# <a name="week4"></a>Week 4 (2/12):
+# <a name="week4"></a>Week 4 (2/12): Collections as Data: Programming II
 
 ### Readings
 
@@ -251,7 +251,7 @@ Due: Data Set Review https://utexas.instructure.com/courses/1216881/assignments/
 ----------------------------------------------------------------
 
 
-# <a name="week6"></a>Week 6 (2/26): The Politics of Open Data and the Rise of Free Culture: Web Scraping & APIs
+# <a name="week6"></a>Week 6 (2/26): Data Politics
 
 ### Readings
 
@@ -287,7 +287,7 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 ----------------------------------------------------------------
 
-# <a name="week7"></a>Week 7 (3/5): Data and Interpretive Framing I: Audience
+# <a name="week7"></a>Week 7 (3/5): Data and Interpretive Framing: Audience
 
 ### Readings
 
@@ -382,13 +382,13 @@ Install [matplotlib](http://matplotlib.org/) visualization library for Python.
 ----------------------------------------------------------------
 
 
-# <a name="week9"></a>Week 9 (3/26): Data and Interpretive Framing II: Methods
+# <a name="week9"></a>Week 9 (3/26): Data and Interpretive Framing: Methods I
 
 ### Readings
 
 - Montfort chp. 10 "Text III"
 
--   Berendt, Bettina, Preibusch, Soren. Toward Accountable Discrimination-Aware Data Mining:The Importance of Keeping the Human in the Loop—and Under the Looking Glass.Big DataVolume 5, Number 2, 2017.
+-   Berendt, Bettina, Preibusch, Soren. Toward Accountable Discrimination-Aware Data Mining: The Importance of Keeping the Human in the Loop—and Under the Looking Glass.Big DataVolume 5, Number 2, 2017.
 
 -   Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica. “Machine Bias.” *ProPublica*. May 23, 2016. [https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
@@ -415,7 +415,7 @@ Install [matplotlib](http://matplotlib.org/) visualization library for Python.
 ----------------------------------------------------------------
 
 
-# <a name="week10"></a>Week 10 (4/2): Data and Interpretive Framing II: Problem
+# <a name="week10"></a>Week 10 (4/2): Data and Interpretive Framing: Theory
 
 ### Readings
 
@@ -441,7 +441,7 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 ----------------------------------------------------------------
 
 
-# <a name="week11"></a>Week 11 (4/9):
+# <a name="week11"></a>Week 11 (4/9): Data and Interpretive Framing: Methods II
 
 ### Readings
 
@@ -474,7 +474,7 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 ----------------------------------------------------------------
 
 
-# <a name="week12"></a>Week 12 (4/16): Data and Interpretive Framingm III: Features
+# <a name="week12"></a>Week 12 (4/16): Data and Interpretive Framing: Interpretations and Results
 
 ### Readings
 
@@ -498,7 +498,7 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 ----------------------------------------------------------------
 
-# <a name="week13"></a>Week 13 (4/23): Statistics and visualization
+# <a name="week13"></a>Week 13 (4/23): Data and Interpretive Framing: Methods III
 
 ### Readings
 
