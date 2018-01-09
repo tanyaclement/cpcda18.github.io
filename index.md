@@ -67,15 +67,6 @@ Except when indicated, there will be required readings each week.
 
 Assignments should be posted on Canvas by midnight the day before class.
 
-<!--
-### Resources
-
--   Software Tools
-
--   Sample Data Sources
-
-Add Gitelman on raw data oxymoron
--->
 
 ### Data Set Review (15%)
 [Adapted from Cultural Analytics [Data Set Reviews submissions[(http://culturalanalytics.org/2017/10/introducing-data-sets-a-new-section/)]]
@@ -90,7 +81,7 @@ Data does not directly reflect the world it claims to represent. It does so with
 
 For your final project, you will use a dataset drawn from online sources and analyze those data in a critical essay. You may either present an argument about the data (e.g., describing bias in the way the data were chosen and arranged) or you may use your dataset as the basis for an argument about culture (e.g., tracing a stylistic shift in a literary community). You should conceive and execute your project with a specific audience in mind, such as literary scholars, newspaper readers, or policy advocates.
 
-Your dataset should comprise at least 200 texts or other media files, or at least 2000 metadata records. The size of your collection should be appropriate to your technical skills and the complexity of each record. Rather than using an entire pre-existing dataset, you may choose to extend or limit the dataset in some way. This might mean curating material from multiple sources, mashing up two or more datasets, augmenting records using machine learning or natural language processing, or using a creative technique to organize messy data.
+Your dataset should comprise at least 200 texts or other media files, or at least 2000 metadata records. The size of your collection should be appropriate to your technical skills and your argument. Rather than using an entire pre-existing dataset, you may choose to extend or limit the dataset in some way. This might mean curating material from multiple sources, mashing up two or more datasets, augmenting records using machine learning or natural language processing, or using a creative technique to organize messy data.
 
 Your final project will include the following elements:
 
@@ -123,14 +114,14 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 
 ----------------------------------------------------------------
 
-# <a name="week2"></a>Week 2 (1/28): Collections as Data: Provocations
+# <a name="week2"></a>Week 2 (1/28): Provocations
 
 
 ### Readings
 
 **[Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)**
 
-- Montfort, "Introduction" and "Installation and Setup"
+- Montfort, chp. 1 "Introduction"; "Installation and Setup" (just read it for your information);
 
 - danah boyd & Kate Crawford (2012) "Critical Questions for Big Data," *Information, Communication & Society*, 15:5, 662-679.
 
@@ -148,23 +139,23 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 
 ### Assignment
 
-Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
+[Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 ##### [▸ In-class outline](week-02.md)
 
 
 ----------------------------------------------------------------
 
-# <a name="week3"></a>Week 3 (2/5): Collections as Data: Programming I
+# <a name="week3"></a>Week 3 (2/5): Programming
 
 ### Readings
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_3)**
 
 -   Montfort “Why Program?” (p.267–77); Chp. 2 "Calculating" and Chp. 3 "Double, Double"
 
--   Introna, L. D. “The Enframing of Code: Agency, Originality and the Plagiarist.” *Theory, Culture & Society* 28, no. 6 (November 1, 2011): 113–41.
+-  Introna, L. D. “The Enframing of Code: Agency, Originality and the Plagiarist.” *Theory, Culture & Society* 28, no. 6 (November 1, 2011): 113–41.
 
--   Vee, Annette. "Sociomaterialities of Programming and Writing." Coding Literacy: How Computer Programming Is Changing Writing. The MIT Press, 2017.
+-  Vee, Annette. "Sociomaterialities of Programming and Writing." Coding Literacy: How Computer Programming Is Changing Writing. The MIT Press, 2017.
 
 - Allardice, Simon. “Foundations of Programming: Fundamentals, parts 1-3; part 5, just "part 5, Breaking your code apart"; and part 14, just “Python” and “Libraries and frameworks”. [http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html](http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html) [To access Lynda.com. follow links below, click “Log in,” then “Organizational Login,” and enter your UT EID and password.]
 
@@ -181,7 +172,7 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 ### Assignment
 
-Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
+[Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 
 ##### [▸ In-class outline](week-03.md)
@@ -190,33 +181,27 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 ----------------------------------------------------------------
 
-# <a name="week4"></a>Week 4 (2/12): Collections as Data: Programming II
+# <a name="week4"></a>Week 4 (2/12): Data
 
 ### Readings
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_4)**
 
--   Borgman, chp 2 "What are Data?"
+- Montfort chp 4. "Programming Fundamentals";
 
--   Montfort chp 4. "Programming Fundamentals"; chp. 5 "Standard Starting Points"; Montfort chp. 6 "Text I"
+- Borgman, chp 2 "What are Data?"
 
-Work through Chris Albon’s tutorial on Python string operations.
--   Albon, Chris. “String Operations.” [http://chrisalbon.com/python/string_operations.html](http://chrisalbon.com/python/string_operations.html)
+- Rosenthal, "Data Before the Fact." In Gitelman, Lisa *"Raw Data" is an Oxymoron*. Cambridge: MIT Press, 2013.
 
--   Noria, Xavier. “Understanding Newlines.” *O’Reilly ONLamp*, August 17, 2006. [http://www.onlamp.com/pub/a/onlamp/2006/08/17/understanding-newlines.html](http://www.onlamp.com/pub/a/onlamp/2006/08/17/understanding-newlines.html)
+- Noria, Xavier. “Understanding Newlines.” *O’Reilly ONLamp*, August 17, 2006. [http://www.onlamp.com/pub/a/onlamp/2006/08/17/understanding-newlines.html](http://www.onlamp.com/pub/a/onlamp/2006/08/17/understanding-newlines.html)
 
--   Oualline, Steve. “The End of Line Puzzle.” *The Practical Programmer*. [http://www.oualline.com/practical.programmer/eol.html](http://www.oualline.com/practical.programmer/eol.html)
+- Oualline, Steve. “The End of Line Puzzle.” *The Practical Programmer*. [http://www.oualline.com/practical.programmer/eol.html](http://www.oualline.com/practical.programmer/eol.html)
 
--  Fortune, Stephen. “A Brief History of Databases.” *Avant*, February 27th 2014. [https://web.archive.org/web/20150220031213/http://avant.org/media/history-of-databases](https://web.archive.org/web/20150220031213/http://avant.org/media/history-of-databases)
-
-
-### Optional Readings
-
-
+- Fortune, Stephen. “A Brief History of Databases.” *Avant*, February 27th 2014. [https://web.archive.org/web/20150220031213/http://avant.org/media/history-of-databases](https://web.archive.org/web/20150220031213/http://avant.org/media/history-of-databases)
 
 ### Assignment
 
-Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
+[Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 ##### [▸ In-class outline](week-04.md)
 
@@ -225,20 +210,21 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 ----------------------------------------------------------------
 
 
-# <a name="week5"></a>Week 5 (2/19): Data Scholarship
+# <a name="week5"></a>Week 5 (2/19): Scholarship
 
--  Borgman chp. 3 "Data Scholarship"
+- Montfort, chp. 5 "Standard Starting Points";
 
--  Joerges, B. “Do Politics Have Artefacts?” *Social Studies of Science* 29, no. 3 (June 1, 1999): 411–31.
+- Borgman chp. 3 "Data Scholarship"
 
--  Sacasas, Michael. “Do Artifacts Have Ethics?” *The Frailest Thing*, November 29, 2014. [http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics](http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics/)
+- Joerges, B. “Do Politics Have Artefacts?” *Social Studies of Science* 29, no. 3 (June 1, 1999): 411–31.
 
--  Winner, Langdon. “Do Artifacts Have Politics?” *Daedalus* 109, no. 1 (1980): 121–36.
+- Sacasas, Michael. “Do Artifacts Have Ethics?” *The Frailest Thing*, November 29, 2014. [http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics](http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics/)
+
+- Winner, Langdon. “Do Artifacts Have Politics?” *Daedalus* 109, no. 1 (1980): 121–36.
 
 ### Readings
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_5)**
-
 
 ### Assignment
 
@@ -257,7 +243,15 @@ Due: Data Set Review https://utexas.instructure.com/courses/1216881/assignments/
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_6)**
 
--   Montfort chp. 7 "Text II"
+Montfort chp. 6 "Text I"
+
+Work through Chris Albon’s tutorial on Python string operations.
+-   Albon, Chris. “String Operations.” [http://chrisalbon.com/python/string_operations.html](http://chrisalbon.com/python/string_operations.html)
+
+
+### Optional Readings
+-   Sanger, David E., and Eric Schmitt. “Snowden Used Low-Cost Tool to Best N.S.A.” The New York Times. February 8, 2014. [http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html](http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html)
+
 
 -   “HTML Introduction” and “HTML5 Introduction.” W3Schools.
 
@@ -265,21 +259,9 @@ Due: Data Set Review https://utexas.instructure.com/courses/1216881/assignments/
 
     -   [http://www.w3schools.com/html/html5_intro.asp](http://www.w3schools.com/html/html5_intro.asp)
 
--   Peters, Justin. *The Idealist: Aaron Swartz and the Rise of Free Culture on the Internet*, Chapters 7 and 8. New York: Scribner, 2016.
-
--   Swartz, Aaron. “Building a Platform: Providing APIs.” In *Aaron Swartz’s ‘A Programmable Web’: An Unfinished Work*, 31–39. San Rafael, CA: Morgan & Claypool Publishers, 2013.
-
--   Sanger, David E., and Eric Schmitt. “Snowden Used Low-Cost Tool to Best N.S.A.” The New York Times. February 8, 2014. [http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html](http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html)
-
-
-### Optional Readings
-
-
--   Kazil, Jacqueline, and Katharine Jarmul. “PDFs and Problem Solving in Python.” In *Data Wrangling with Python: Tips and Tools to Make Your Life Easier*, 91–126. O’Reilly, 2016.
-
 ### Assignment
 
-Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
+[Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 ##### [▸ In-class outline](week-06.md)
 
@@ -294,37 +276,34 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_7)**
 
--  Final project: Booth chp. 2 "Connecting with your Reader"
+- Montfort chp. 7 "Text II"
 
--  Christen, Kim. “Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness.” International Journal of Communication 6 (2012), 2870–2893.
+- Final project directory: Booth chp. 2 "Connecting with your Reader"
 
--   Kelly, Chelsea Emelie. “Beyond Digital: Open Collections & Cultural Institutions,” 2014.  [https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions](https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions)
+- Kelly, Chelsea Emelie. “Beyond Digital: Open Collections & Cultural Institutions,” 2014.  [https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions](https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions)
 
 - Liu, Alan. “The Meaning of the Digital Humanities.” *PMLA* 128, no. 2 (March 2013): 409–23.
 
 - Pound, Scott. “Kenneth Goldsmith and the Poetics of Information.” PMLA, vol. 130, no. 2, Mar. 2015, pp. 315–30.
 
--   Greenwald, Glenn. “Chapter 1: Contact.” In *No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State*, 2015.
+- Greenwald, Glenn. “Chapter 1: Contact.” In *No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State*, 2015.
 
--   American Civil Liberties Union. "First Amendment Lawsuit Brought on Behalf of Academic Researchers and Journalists Who Fear Prosecution Under the Computer Fraud and Abuse Act." [https://www.aclu.org/news/aclu-challenges-law-preventing-studies-big-data-discrimination](https://www.aclu.org/news/aclu-challenges-law-preventing-studies-big-data-discrimination)
+- American Civil Liberties Union. "First Amendment Lawsuit Brought on Behalf of Academic Researchers and Journalists Who Fear Prosecution Under the Computer Fraud and Abuse Act." [https://www.aclu.org/news/aclu-challenges-law-preventing-studies-big-data-discrimination](https://www.aclu.org/news/aclu-challenges-law-preventing-studies-big-data-discrimination)
 
 ### Optional Readings
 
 -   Day, Ronald E. “Governing Expression: Social Big Data and Neoliberalism.” In *Indexing It All: The Subject in the Age of Documentation*, Information, and Data, 123–44. History and Foundations of Information Science. Cambridge, Massachusetts: The MIT Press, 2014.
 
-
 ### Assignment
 
-Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
+[Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 ##### [▸ In-class outline](week-07.md)
 
 ----------------------------------------------------------------
 # SPRING BREAK (3/12)
 
-# <a name="week8"></a>Week 8 (3/19): Data Models
-
-
+# <a name="week8"></a>Week 8 (3/19): Data and Interpretive Framing: Data Models
 
 <!--
 Install [numpy](http://www.numpy.org/) scientific computing library for Python.
@@ -344,25 +323,13 @@ Install [matplotlib](http://matplotlib.org/) visualization library for Python.
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_9)**
 
--   Borgman chp. 4 "Data Diversity"
+- Montfort chp. 8 "Image I"
 
--   Pomerantz, Jeffrey. “The Future of Metadata.” In *Metadata*. The MIT Press Essential Knowledge Series. Cambridge, MA ; London, England: The MIT Press, 2015.
+- Borgman chp. 4 "Data Diversity"
 
--   van Hooland, Seth, and Ruben Verborgh. “Modelling.” In *Linked Data for Libraries, Archives and Museums: How to Clean, Link and Publish Your Metadata*, 11–70. Chicago: Neal-Schuman, 2014.
+- Pomerantz, Jeffrey. “The Future of Metadata.” In *Metadata*. The MIT Press Essential Knowledge Series. Cambridge, MA ; London, England: The MIT Press, 2015.
 
--   Albon, Chris. “Parse JSON File.” [http://chrisalbon.com/python/json_parse_file.html](https://github.com/chrisalbon/code_py/blob/master/json_parse_file.ipynb)
-
--   Lundh, Fredrik. “Elements and Element Trees.” [http://effbot.org/zone/element.htm](http://effbot.org/zone/element.htm) [Python XML tutorial]
-
--   Beazley, David, and Brian K. Jones. “Chapter 6: Data Encoding and Processing.” In Python Cookbook: *recipes for Mastering Python 3*, 3. ed., 175–216. Bejing: O’Reilly, 2013.
-
--   Zhuang, Atima Han, Ishita Vedvyas, and Rishikesh Dole. “Tutorial: OpenRefine,” 2013. [http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf](http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf)
-
--   O’Sullivan, Michael. “Aaron Swartz, New Technologies, and the Myth of Open Access.” In *Academic Barbarism, Universities and Inequality*. Palgrave Critical University Studies. Houndmills, Basingstoke, Hampshire ; New York, NY: Palgrave Macmillan, 2016.
-
-
-- Manzo, Christina, Geoff Kaufman, Sukdith Punjasthitkul, and Mary Flanagan. “‘By the People, For the People’: Assessing the Value of Crowdsourced, User-Generated Metadata.” *Digital Humanities Quarterly* 9, no. 1 (2015). [http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html](http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html)
-
+- van Hooland, Seth, and Ruben Verborgh. “Modelling.” In *Linked Data for Libraries, Archives and Museums: How to Clean, Link and Publish Your Metadata*, 11–70. Chicago: Neal-Schuman, 2014.
 
 ### Optional Readings
 
@@ -374,36 +341,44 @@ Install [matplotlib](http://matplotlib.org/) visualization library for Python.
 
 -   DRM article: [http://infojustice.org/wp-content/uploads/2015/03/band03102015.pdf](http://infojustice.org/wp-content/uploads/2015/03/band03102015.pdf)
 
-### Assignment
+- Kazil, Jacqueline, and Katharine Jarmul. “PDFs and Problem Solving in Python.” In *Data Wrangling with Python: Tips and Tools to Make Your Life Easier*, 91–126. O’Reilly, 2016.
 
+- Albon, Chris. “Parse JSON File.” [http://chrisalbon.com/python/json_parse_file.html](https://github.com/chrisalbon/code_py/blob/master/json_parse_file.ipynb)
+
+- Lundh, Fredrik. “Elements and Element Trees.” [http://effbot.org/zone/element.htm](http://effbot.org/zone/element.htm) [Python XML tutorial]
+
+- Beazley, David, and Brian K. Jones. “Chapter 6: Data Encoding and Processing.” In Python Cookbook: *recipes for Mastering Python 3*, 3. ed., 175–216. Bejing: O’Reilly, 2013.
+
+- Zhuang, Atima Han, Ishita Vedvyas, and Rishikesh Dole. “Tutorial: OpenRefine,” 2013. [http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf](http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf)
+
+- Manzo, Christina, Geoff Kaufman, Sukdith Punjasthitkul, and Mary Flanagan. “‘By the People, For the People’: Assessing the Value of Crowdsourced, User-Generated Metadata.” *Digital Humanities Quarterly* 9, no. 1 (2015). [http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html](http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html)
+
+### Assignment
+[Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 ##### [▸ In-class outline](week-08.md)
 
 ----------------------------------------------------------------
 
 
-# <a name="week9"></a>Week 9 (3/26): Data and Interpretive Framing: Methods I
+# <a name="week9"></a>Week 9 (3/26): Data and Interpretive Framing: Open Access
 
 ### Readings
 
-- Montfort chp. 10 "Text III"
+- Montfort chp. 9 "Image II"
 
--   Berendt, Bettina, Preibusch, Soren. Toward Accountable Discrimination-Aware Data Mining: The Importance of Keeping the Human in the Loop—and Under the Looking Glass.Big DataVolume 5, Number 2, 2017.
+- Christen, Kim. “Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness.” International Journal of Communication 6 (2012), 2870–2893.
 
--   Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica. “Machine Bias.” *ProPublica*. May 23, 2016. [https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+- Peters, Justin. *The Idealist: Aaron Swartz and the Rise of Free Culture on the Internet*, Chapters 7 and 8. New York: Scribner, 2016.
 
--   Geitgey, Adam. “Machine Learning is Fun!” *Medium*. [https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+- Swartz, Aaron. “Building a Platform: Providing APIs.” In *Aaron Swartz’s ‘A Programmable Web’: An Unfinished Work*, 31–39. San Rafael, CA: Morgan & Claypool Publishers, 2013.
 
--   Schmidt, B. "Do Digital Humanists Need to Understand Algorithms? <http://dhdebates.gc.cuny.edu/debates/text/99>
+- O’Sullivan, Michael. “Aaron Swartz, New Technologies, and the Myth of Open Access.” In *Academic Barbarism, Universities and Inequality*. Palgrave Critical University Studies. Houndmills, Basingstoke, Hampshire ; New York, NY: Palgrave Macmillan, 2016.
+
 
 ### Optional Readings
 
--   Norvig, Peter. “Natural Language Corpus Data.” In *Beautiful Data: The Stories Behind Elegant Data Solutions*, edited by Toby Segaran and Jeff Hammerbacher, 1st ed. Beijing ; Sebastopol, CA: O’Reilly, 2009.
-
--   Baharudin, Baharum, Lam Hong Lee, and Khairullah Khan. “A Review of Machine Learning Algorithms for Text-Documents Classification.” *Journal of Advances in Information Technology* 1, no. 1 (February 1, 2010).
-
--   Wolfram, S. Machine Learning for Middle Schoolers. Stephen Wolfram Blog. 11 May 2017. [http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments](http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments)
-
+-   Sims, Nancy. “Library Licensing and Criminal Law: The Aaron Swartz Case.” *College & Research Libraries News* 72, no. 9 (2011): 534–37. [http://crln.acrl.org/content/72/9/534.short](http://crln.acrl.org/content/72/9/534.short).
 
 ### Assignment
 
@@ -421,7 +396,9 @@ Install [matplotlib](http://matplotlib.org/) visualization library for Python.
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_10)**
 
-- Final project: Booth chp. 3 "From Topics to Questions" and chp. 4 "From Questions to a Problem"
+- Final project directory: Booth chp. 3 "From Topics to Questions" and chp. 4 "From Questions to a Problem"
+
+- Montfort chp. 10 "Text III"
 
 - Ramsay, Stephen. “Chapter 1: An Algorithmic Criticism.” In *Reading Machines: Toward an Algorithmic Criticism*, 1–17. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2011.
 
@@ -434,26 +411,39 @@ Install [matplotlib](http://matplotlib.org/) visualization library for Python.
 
 ### Assignment
 
-Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
+[Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 ##### [▸ In-class outline](week-10.md)
 
 ----------------------------------------------------------------
 
 
-# <a name="week11"></a>Week 11 (4/9): Data and Interpretive Framing: Methods II
+# <a name="week11"></a>Week 11 (4/9): Data and Interpretive Framing: Methods
 
 ### Readings
 
-
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_11)**
+
+- Berendt, Bettina, Preibusch, Soren. Toward Accountable Discrimination-Aware Data Mining: The Importance of Keeping the Human in the Loop—and Under the Looking Glass.Big DataVolume 5, Number 2, 2017.
+
+- Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica. “Machine Bias.” *ProPublica*. May 23, 2016. [https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+
+- Geitgey, Adam. “Machine Learning is Fun!” *Medium*. [https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+
+- Schmidt, B. "Do Digital Humanists Need to Understand Algorithms? <http://dhdebates.gc.cuny.edu/debates/text/99>
+
+- Norvig, Peter. “Natural Language Corpus Data.” In *Beautiful Data: The Stories Behind Elegant Data Solutions*, edited by Toby Segaran and Jeff Hammerbacher, 1st ed. Beijing ; Sebastopol, CA: O’Reilly, 2009.
+
+- Baharudin, Baharum, Lam Hong Lee, and Khairullah Khan. “A Review of Machine Learning Algorithms for Text-Documents Classification.” *Journal of Advances in Information Technology* 1, no. 1 (February 1, 2010).
+
+- Wolfram, S. Machine Learning for Middle Schoolers. Stephen Wolfram Blog. 11 May 2017. [http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments](http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments)
+
+
 
 
 -   Hall, Gary. “Toward a Postdigital Humanities: Cultural Analytics and the Computational Turn to Data-Driven Scholarship.” *American Literature* 85, no. 4 (January 1, 2013): 781–809.
 
--   Hammond, Adam. "The double bind of validation: distant reading and the digital humanities' 'trough of disillusionment." *Literature Compass* 14, no. 8 (August 1, 2017): no. pg.
 
--   Jockers, Matthew Lee. “Chapter 8: Theme.” In *Macroanalysis: Digital Methods and Literary History*, 118–53. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2013.
 
 -   Marche, Stephen. “Literature Is not Data: Against Digital Humanities.” *Los Angeles Review of Books*, October 28th, 2012.
                       [https://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities](https://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities)
@@ -466,7 +456,7 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 ### Assignment
 
-Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
+[Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 ##### [▸ In-class outline](week-11.md)
 
@@ -480,33 +470,9 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_13)**
 
-
-- Clement, T. and McLaughlin, S. “Measured Applause: Toward a Cultural Analysis of Audio Collections.” Cultural Analytics, vol. 1, no. 1, 2016. [http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/](http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/)
-
-- Neff, Gina, Tanweer, Anissa, Fiore-Gartland, Brittany, Osburn, Laura  Critique and Contribute: A Practice-Based Framework for Improving Critical Data Studies and Data Science. *Big Data* 5, no. 2, 2017.
-
-- Ramsay, Stephen. “Chapter 3: Potential Readings.” In *Reading Machines: Toward an Algorithmic Criticism*, 33–57. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2011.
-
-- Seaver, Nick ["Algorithms as culture: Some tactics for the ethnography of algorithmic systems"](http://journals.sagepub.com/doi/10.1177/2053951717738104) Big Data and Society. 9 Nov. 2017
-
-### Assignment
-
-Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
-
-
-##### [▸ In-class outline](week-13.md)
-
-----------------------------------------------------------------
-
-# <a name="week13"></a>Week 13 (4/23): Data and Interpretive Framing: Methods III
-
-### Readings
-
-**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_12)**
+-   Montfort chp. 11 “Statistics and Visualization.”
 
 -   Manovich, Lev. “What Is Visualisation?” *Visual Studies* 26, no. 1 (March 15, 2011): 36–49. <http://www.tandfonline.com/doi/abs/10.1080/1472586X.2011.548488>.
-
--   Montfort chp. 11 “Statistics and Visualization.”
 
 -   Krumme, Coco. “What Data Doesn’t Do.” In *Beautiful Data: The Stories behind Elegant Data Solutions*, edited by Toby Segaran and Jeff Hammerbacher, 1st ed. Beijing ; Sebastopol, CA: O’Reilly, 2009.
 
@@ -522,13 +488,36 @@ Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topic
 -   Thompson, Clive. “The Surprising History of the Infographic.” <http://www.smithsonianmag.com/history/surprising-history-infographic-180959563/?no-ist>
 
 -   Moretti, Franco. “Graphs.” In *Graphs, Maps, Trees: Abstract Models for Literary History*, 3–33. London ; New York: Verso, 2007.
+### Assignment
 
--   Sims, Nancy. “Library Licensing and Criminal Law: The Aaron Swartz Case.” *College & Research Libraries News* 72, no. 9 (2011): 534–37. [http://crln.acrl.org/content/72/9/534.short](http://crln.acrl.org/content/72/9/534.short).
+[Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
+
+##### [▸ In-class outline](week-13.md)
+
+----------------------------------------------------------------
+
+# <a name="week13"></a>Week 13 (4/23): Data and Interpretive Framing:
+
+### Readings
+
+**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_12)**
+
+- Clement, T. and McLaughlin, S. “Measured Applause: Toward a Cultural Analysis of Audio Collections.” Cultural Analytics, vol. 1, no. 1, 2016. [http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/](http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/)
+
+- Neff, Gina, Tanweer, Anissa, Fiore-Gartland, Brittany, Osburn, Laura  Critique and Contribute: A Practice-Based Framework for Improving Critical Data Studies and Data Science. *Big Data* 5, no. 2, 2017.
+
+- Ramsay, Stephen. “Chapter 3: Potential Readings.” In *Reading Machines: Toward an Algorithmic Criticism*, 33–57. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2011.
+
+- Seaver, Nick ["Algorithms as culture: Some tactics for the ethnography of algorithmic systems"](http://journals.sagepub.com/doi/10.1177/2053951717738104) Big Data and Society. 9 Nov. 2017
+
+-   Hammond, Adam. "The double bind of validation: distant reading and the digital humanities' 'trough of disillusionment." *Literature Compass* 14, no. 8 (August 1, 2017): no. pg.
+
+-   Jockers, Matthew Lee. “Chapter 8: Theme.” In *Macroanalysis: Digital Methods and Literary History*, 118–53. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2013.
 
 ### Assignment
 
-Discussion post (https://utexas.instructure.com/courses/1216881/discussion_topics)
+[Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 ##### [▸ In-class outline](week-12.md)
 
