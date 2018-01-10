@@ -23,6 +23,19 @@ And enter the following line to launch the Python shell.
 ```
 python3
 ```
+Chapter 1:
+(http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
+variable
+value
+assignment to variables
+difference between variables and values
+strings
+integers
+varying variables
+
+
+<!--
+
 
 Assign a sentence to the variable `sentence` — in this case the opening line from John Kennedy Toole’s  _A Confederacy of Dunces_. Type the name of the variable and hit return to view your new string.
 
@@ -440,6 +453,7 @@ Note that we can cast Unicode text to ASCII with the `str()` function.
 
     str(unicode_text)
 -->
+<!--
 
 #### Quick Exercises
 
@@ -583,6 +597,8 @@ The `os` library contains many useful tools for working with local files and eve
 <!--
 > **Tip:** The `os` library won’t recognize the `~/` shortcut for a user’s local files. Instead, we can use `os.path.expanduser('~/path/to/file.txt')`.
 -->
+
+<!--
 
 The `os.system` function lets us issue commands at the level of the system shell. The following example will print the contents of your desktop. Note that whereas `os.listdir()` returns a list object containing filenames, the following simply displays a list of files as if you were using the Bash shell.
 

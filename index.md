@@ -55,6 +55,7 @@ Learning goals:
 ## Course materials
 
 There is one required text for this course:
+
 Montfort, Nick. Exploratory Programming for the Arts and Humanities. Cambridge, MA: The MIT Press, 2016.
 
 All other readings will either be available online and linked below or [posted on Canvas](https://utexas.instructure.com/courses/1216881/files).
@@ -68,7 +69,7 @@ Except when indicated, there will be required readings each week.
 Assignments should be posted on Canvas by midnight the day before class.
 
 
-### Data Set Review (15%)
+### Data Set Review (20%)
 [Adapted from Cultural Analytics [Data Set Reviews submissions[(http://culturalanalytics.org/2017/10/introducing-data-sets-a-new-section/)]]
 
 Submission: 2,000 to 3,000 words. Also required is a works cited page (not included in the word count).
@@ -77,7 +78,7 @@ Any data set that you think is relevant to the study of culture is eligible for 
 
 Data does not directly reflect the world it claims to represent. It does so with human interests, institutional investments, and a good deal of randomness built into the collection process. We are only just at the beginning of thinking about how data collection impacts the analysis of culture.  You are welcome to describe a newly discovered data set or engage in an extended analysis of data that has been used in existing studies. Understanding the way data represents culture is one of the primary aims of cultural analytics.
 
-### Final Project: Critical Data Analysis (50%)
+### Final Project: Critical Data Analysis (40%)
 
 For your final project, you will use a dataset drawn from online sources and analyze those data in a critical essay. You may either present an argument about the data (e.g., describing bias in the way the data were chosen and arranged) or you may use your dataset as the basis for an argument about culture (e.g., tracing a stylistic shift in a literary community). You should conceive and execute your project with a specific audience in mind, such as literary scholars, newspaper readers, or policy advocates.
 
@@ -85,13 +86,15 @@ Your dataset should comprise at least 200 texts or other media files, or at leas
 
 Your final project will include the following elements:
 
--   Proposal (7%)
+-   Proposal (5%)
 
--   Proposal Peer Review (3%)
+<!--
+-   Proposal Peer Review (2%)
+-->
 
 -   In-class presentation (week 14) (10%)
 
--   12 page critical essay, with an appendix of 3–4 data visualizations (30%)
+-   12 page critical essay, with an appendix of 3–4 data visualizations (25%)
 
 ----------------------------------------------------------------
 
@@ -123,19 +126,19 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 
 - Montfort, chp. 1 "Introduction"; "Installation and Setup" (just read it for your information);
 
-- danah boyd & Kate Crawford (2012) "Critical Questions for Big Data," *Information, Communication & Society*, 15:5, 662-679.
-
 - Borgman chp. 1 "Provocations"
 
 - Padilla, T. "On a Collections as Data Imperative." [PDF](http://digitalpreservation.gov/meetings/dcs16/tpadilla_OnaCollectionsasDataImperative_final.pdf).
 
--  Posner, Miriam. “Humanities Data: A Necessary Contradiction.” *Miriam Posner’s Blog*, June 25, 2015. [http://miriamposner.com/blog/humanities-data-a-necessary-contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction)
+- Posner, Miriam. “Humanities Data: A Necessary Contradiction.” *Miriam Posner’s Blog*, June 25, 2015. [http://miriamposner.com/blog/humanities-data-a-necessary-contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction)
 
--   “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
+- “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
 
 ### Optional
 
--  Gallinger, M. and Daniel Chudnov "Library of Congress Lab: Library of Congress Digital Scholars Lab Pilot Project Report."
+- danah boyd & Kate Crawford (2012) "Critical Questions for Big Data," *Information, Communication & Society*, 15:5, 662-679.
+
+- Gallinger, M. and Daniel Chudnov "Library of Congress Lab: Library of Congress Digital Scholars Lab Pilot Project Report."
 
 ### Assignment
 
@@ -151,11 +154,11 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 ### Readings
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_3)**
 
--   Montfort “Why Program?” (p.267–77); Chp. 2 "Calculating" and Chp. 3 "Double, Double"
+- Montfort “Why Program?” (p.267–77); Chp. 2 "Calculating" and Chp. 3 "Double, Double"
 
--  Introna, L. D. “The Enframing of Code: Agency, Originality and the Plagiarist.” *Theory, Culture & Society* 28, no. 6 (November 1, 2011): 113–41.
+- Introna, L. D. “The Enframing of Code: Agency, Originality and the Plagiarist.” *Theory, Culture & Society* 28, no. 6 (November 1, 2011): 113–41.
 
--  Vee, Annette. "Sociomaterialities of Programming and Writing." Coding Literacy: How Computer Programming Is Changing Writing. The MIT Press, 2017.
+- Vee, Annette. "Sociomaterialities of Programming and Writing." Coding Literacy: How Computer Programming Is Changing Writing. The MIT Press, 2017.
 
 - Allardice, Simon. “Foundations of Programming: Fundamentals, parts 1-3; part 5, just "part 5, Breaking your code apart"; and part 14, just “Python” and “Libraries and frameworks”. [http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html](http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html) [To access Lynda.com. follow links below, click “Log in,” then “Organizational Login,” and enter your UT EID and password.]
 
@@ -164,7 +167,9 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 
 -   Shieber, Stuart M., *Programming for Humanists* pages 1–28, 2014. [http://blogs.harvard.edu/programmingforhumanists/files/2014/12/proghum.pdf](http://blogs.harvard.edu/programmingforhumanists/files/2014/12/proghum.pdf)
 
+<!--
 -   Stephenson, Neal. “In the Beginning Was the Command Line.” Cryptonomicon, 1999. <http://www.cryptonomicon.com/beginning.html>. [TXT](http://www.cryptonomicon.com/command.zip).
+-->
 
 -  Marini, Joe. “Up and Running with Python.” Lynda.com.
             [http://www.lynda.com/Python-tutorials/Welcome/122467/142550-4.html](http://www.lynda.com/Python-tutorials/Welcome/122467/142550-4.html)
@@ -192,10 +197,6 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 - Borgman, chp 2 "What are Data?"
 
 - Rosenthal, "Data Before the Fact." In Gitelman, Lisa *"Raw Data" is an Oxymoron*. Cambridge: MIT Press, 2013.
-
-- Noria, Xavier. “Understanding Newlines.” *O’Reilly ONLamp*, August 17, 2006. [http://www.onlamp.com/pub/a/onlamp/2006/08/17/understanding-newlines.html](http://www.onlamp.com/pub/a/onlamp/2006/08/17/understanding-newlines.html)
-
-- Oualline, Steve. “The End of Line Puzzle.” *The Practical Programmer*. [http://www.oualline.com/practical.programmer/eol.html](http://www.oualline.com/practical.programmer/eol.html)
 
 - Fortune, Stephen. “A Brief History of Databases.” *Avant*, February 27th 2014. [https://web.archive.org/web/20150220031213/http://avant.org/media/history-of-databases](https://web.archive.org/web/20150220031213/http://avant.org/media/history-of-databases)
 
@@ -230,9 +231,11 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 
 Due: Data Set Review https://utexas.instructure.com/courses/1216881/assignments/4249399
 
+<!-- In class presentations of Data Set Reviews
+
 ##### [▸ In-class outline](week-05.md)
 
-
+-->
 
 ----------------------------------------------------------------
 

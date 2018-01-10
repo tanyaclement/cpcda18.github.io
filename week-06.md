@@ -1,8 +1,15 @@
-## Week 6 Outline: Web Scraping & Parsing XML
-
-### Exercise: Download XML-formatted finding aids from the Library of Congress and extract metadata fields
+## Week 6
 
 
+
+
+### Class Objective
+
+String manipulation
+concatenation (e.g. addition of strings)
+indexing
+slicing
+len()
 
 Open Terminal in macOS and launch our Docker container:
 
@@ -19,6 +26,14 @@ docker rm -f pcda_ubuntu
 docker pull pcda17/ubuntu-container
 docker run --name pcda_ubuntu -ti -p 8889:8889 --volume C:\Users\***username_here***\Desktop\sharedfolder:/sharedfolder/ pcda17/ubuntu-container
 ```
+
+Right click the following link and choose "Save as ...," then save the file in `sharedfolder` on your desktop.
+
+http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb
+
+Go to: String Manipulation.
+
+<!--
 
 Open a new browser window and navigate to the Library of Congress's list of XML finding aids by collection: [http://findingaids.loc.gov/source/main](http://findingaids.loc.gov/source/main).
 

@@ -4,11 +4,6 @@ Sample datasets from The Museum of Modern Art (MoMA) [via GitHub](https://github
 - [Artists.csv](https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artists.csv)
 - [Artworks.csv](https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artworks.csv)
 
-#### Install LibreOffice
-
-Before we start class, download and install LibreOffice:
-- [https://www.libreoffice.org/](https://www.libreoffice.org/)
-
 
 #### Run Docker container
 
@@ -30,6 +25,11 @@ docker run --name pcda_ubuntu -ti -p 8889:8889 --volume C:\Users\***username_her
 
 
 #### Open Jupyter Notebook (see notes in week 2)
+
+
+
+
+
 
 #### CSV I/O in Python
 Paste the following code snippet into a new Jupyter notebook.
