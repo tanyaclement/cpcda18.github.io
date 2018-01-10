@@ -30,6 +30,8 @@ In the data, information, knowledge, wisdom (DIKW) hierarchy that circulates thr
 
 Learning to think critically about data as information means rejecting common illusions about data more generally, including its objectivity, impersonality, atemporality, and authorlessness. To teach students to think about information from this more critical perspective means first understanding how a culture tends to understand what is informative.
 
+The aim of this course is to encourage students to generate high quality scholarship that applies computational and quantitative methods to the study of cultural artifacts (text, image, sound) at significantly larger scales than traditional methods. The final research paper is expected to combine critical theory, computational methods, and grounding in a particular humanities field towards the crafting of novel, thought-provoking arguments in the humanities.
+
 Towards these ends, this course takes on “data wrangling” in the context of humanist perspectives.
 
 Learning goals:
@@ -61,49 +63,18 @@ Montfort, Nick. Exploratory Programming for the Arts and Humanities. Cambridge, 
 All other readings will either be available online and linked below or [posted on Canvas](https://utexas.instructure.com/courses/1216881/files).
 
 ## Assignments
-
-### Discussion Posts (35%)
-
-Except when indicated, there will be required readings each week.
-
-Assignments should be posted on Canvas by midnight the day before class.
-
-
-### Data Set Review (20%)
-[Adapted from Cultural Analytics [Data Set Reviews submissions[(http://culturalanalytics.org/2017/10/introducing-data-sets-a-new-section/)]]
-
-Submission: 2,000 to 3,000 words. Also required is a works cited page (not included in the word count).
-
-Any data set that you think is relevant to the study of culture is eligible for this section. An appropriate essay is one that addresses questions like: What questions does your data enable others to ask? What other kinds of data is your data in conversation with? What are the representational problems you faced when collecting your data -- what is your data representative of? How are you trying to address the under- or mis-representation of some aspect of culture or some cultural community? What steps did you take to prepare your data for computational analysis? What problems or concerns do you have about the biases encoded in your data? What in short are the limits of this data?
-
-Data does not directly reflect the world it claims to represent. It does so with human interests, institutional investments, and a good deal of randomness built into the collection process. We are only just at the beginning of thinking about how data collection impacts the analysis of culture.  You are welcome to describe a newly discovered data set or engage in an extended analysis of data that has been used in existing studies. Understanding the way data represents culture is one of the primary aims of cultural analytics.
-
-### Final Project: Critical Data Analysis (40%)
-
-For your final project, you will use a dataset drawn from online sources and analyze those data in a critical essay. You may either present an argument about the data (e.g., describing bias in the way the data were chosen and arranged) or you may use your dataset as the basis for an argument about culture (e.g., tracing a stylistic shift in a literary community). You should conceive and execute your project with a specific audience in mind, such as literary scholars, newspaper readers, or policy advocates.
-
-Your dataset should comprise at least 200 texts or other media files, or at least 2000 metadata records. The size of your collection should be appropriate to your technical skills and your argument. Rather than using an entire pre-existing dataset, you may choose to extend or limit the dataset in some way. This might mean curating material from multiple sources, mashing up two or more datasets, augmenting records using machine learning or natural language processing, or using a creative technique to organize messy data.
-
-Your final project will include the following elements:
-
--   Proposal (5%)
-
-<!--
--   Proposal Peer Review (2%)
--->
-
--   In-class presentation (week 14) (10%)
-
--   12 page critical essay, with an appendix of 3–4 data visualizations (25%)
+### [Class Attendance and Participation (10%)](https://utexas.instructure.com/courses/1216881/assignments/4276538)
+### [Discussion Lead (5%)](https://utexas.instructure.com/courses/1216881/assignments/4276501)
+### [Weekly Discussion Posts (30%)](https://utexas.instructure.com/courses/1216881/assignments/4240876)
+### [Data Set Review (15%)](http://culturalanalytics.org/2017/10/introducing-data-sets-a-new-section/)
+### [Final Project: Critical Data Analysis Research Paper (40%)](https://utexas.instructure.com/courses/1216881/assignments/4240878)
 
 ----------------------------------------------------------------
 
 
-# <a name="week1"></a>Week 1 (1/22): Introductions & Command Line Basics
+# <a name="week1"></a>Week 1 (1/22): Introduction to Cultural Data Analysis
 
 ### Readings
-
-**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_1)**
 
 -  Piper, Andrew. "There will be Numbers." *Journal of Cultural Analytics* 1, no. 1 (May 23, 2016). [http://culturalanalytics.org/2016/05/there-will-be-numbers/](http://culturalanalytics.org/2016/05/there-will-be-numbers/)
 
@@ -181,7 +152,6 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 
 
 ##### [▸ In-class outline](week-03.md)
-
 
 
 ----------------------------------------------------------------
