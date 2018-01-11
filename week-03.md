@@ -3,10 +3,10 @@
 ###Objectives
 [Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
 ####String manipulation
-concatenation (e.g. addition of strings)
-indexing
-slicing
-len()
+* concatenation (e.g. addition of strings)
+* indexing
+* slicing
+* len()
 
 <!--
 Sample datasets from The Museum of Modern Art (MoMA) [via GitHub](https://github.com/MuseumofModernArt/collection). Download these files to your /sharedfolder/ on your desktop.

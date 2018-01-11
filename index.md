@@ -63,11 +63,11 @@ Montfort, Nick. Exploratory Programming for the Arts and Humanities. Cambridge, 
 All other readings will either be available online and linked below or [posted on Canvas](https://utexas.instructure.com/courses/1216881/files).
 
 ## Assignments
-###[Class Attendance and Participation (10%)](https://utexas.instructure.com/courses/1216881/assignments/4276538)
-###[Discussion Lead (5%)](https://utexas.instructure.com/courses/1216881/assignments/4276501)
-###[Weekly Discussion Posts (30%)](https://utexas.instructure.com/courses/1216881/assignments/4240876)
-###[Data Set Review (15%)](http://culturalanalytics.org/2017/10/introducing-data-sets-a-new-section/)
-###[Final Project: Critical Data Analysis Research Paper (40%)](https://utexas.instructure.com/courses/1216881/assignments/4240878)
+### [Class Attendance and Participation (10%)](https://utexas.instructure.com/courses/1216881/assignments/4276538)
+### [Discussion Lead (5%)](https://utexas.instructure.com/courses/1216881/assignments/4276501)
+### [Weekly Discussion Posts (30%)](https://utexas.instructure.com/courses/1216881/assignments/4240876)
+### [Data Set Review (15%)](http://culturalanalytics.org/2017/10/introducing-data-sets-a-new-section/)
+### [Final Project: Critical Data Analysis Research Paper (40%)](https://utexas.instructure.com/courses/1216881/assignments/4240878)
 
 ----------------------------------------------------------------
 
@@ -199,23 +199,22 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 
 ### Assignment
 
-Due: Data Set Review https://utexas.instructure.com/courses/1216881/assignments/4249399
+[Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
-
-
+##### [▸ In-class outline](week-05.md)
 ----------------------------------------------------------------
 
 
-# <a name="week6"></a>Week 6 (2/26): Data Politics
+# <a name="week6"></a>Week 6 (2/26): Data Set Reviews
 
 ### Readings
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_6)**
 
-Montfort chp. 6 "Text I"
+- Montfort chp. 6 "Text I"
 
 Work through Chris Albon’s tutorial on Python string operations.
--   Albon, Chris. “String Operations.” [http://chrisalbon.com/python/string_operations.html](http://chrisalbon.com/python/string_operations.html)
+- Albon, Chris. “String Operations.” [http://chrisalbon.com/python/string_operations.html](http://chrisalbon.com/python/string_operations.html)
 
 
 ### Optional Readings
@@ -228,13 +227,15 @@ Work through Chris Albon’s tutorial on Python string operations.
 
 ### Assignment
 
-[Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
+Due: Data Set Review https://utexas.instructure.com/courses/1216881/assignments/4249399
 
-##### [▸ In-class outline](week-06.md)
+
+
 
 <!-- In class presentations of Data Set Reviews
 
-##### [▸ In-class outline](week-05.md)
+##### [▸ In-class outline](week-06.md)
+
 
 -->
 
