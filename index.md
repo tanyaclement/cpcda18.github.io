@@ -63,11 +63,11 @@ Montfort, Nick. Exploratory Programming for the Arts and Humanities. Cambridge, 
 All other readings will either be available online and linked below or [posted on Canvas](https://utexas.instructure.com/courses/1216881/files).
 
 ## Assignments
-### [Class Attendance and Participation (10%)](https://utexas.instructure.com/courses/1216881/assignments/4276538)
-### [Discussion Lead (5%)](https://utexas.instructure.com/courses/1216881/assignments/4276501)
-### [Weekly Discussion Posts (30%)](https://utexas.instructure.com/courses/1216881/assignments/4240876)
-### [Data Set Review (15%)](http://culturalanalytics.org/2017/10/introducing-data-sets-a-new-section/)
-### [Final Project: Critical Data Analysis Research Paper (40%)](https://utexas.instructure.com/courses/1216881/assignments/4240878)
+[Class Attendance and Participation (10%)](https://utexas.instructure.com/courses/1216881/assignments/4276538)
+[Discussion Lead (5%)](https://utexas.instructure.com/courses/1216881/assignments/4276501)
+[Weekly Discussion Posts (30%)](https://utexas.instructure.com/courses/1216881/assignments/4240876)
+[Data Set Review (15%)](http://culturalanalytics.org/2017/10/introducing-data-sets-a-new-section/)
+[Final Project: Critical Data Analysis Research Paper (40%)](https://utexas.instructure.com/courses/1216881/assignments/4240878)
 
 ----------------------------------------------------------------
 
@@ -509,3 +509,5 @@ Install [matplotlib](http://matplotlib.org/) visualization library for Python.
 # Additional resources:
 [Jeroen Janssens Seven Command Line Tools for Data Science (2013) workbench.](https://hub.docker.com/r/wlanderson/dsatclwb/)
 Juola, P. and Ramsay, S. [Six Septembers: Mathematics for the Humanist](http://digitalcommons.unl.edu/zeabook/55/). Zea E-Books.
+Karsdorp, Folgert. [Python Programming for the Humanities](http://www.karsdorp.io/python-course/)
+Williamson, Evan Peter. [Fetching and Parsing Data from the Web with OpenRefine](https://programminghistorian.org/lessons/fetch-and-parse-data-with-openrefine#start-sonnets-project)
