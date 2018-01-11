@@ -1,6 +1,17 @@
-## Week 2 Outline: Python Intro and Text Manipulation
+## Week 2: Python Intro
 
-**Note:** For this class we’ll start by using Python’s read-eval-print loop (REPL) and then move on to Jupyter notebooks.
+### Objectives
+#### Defining data structures
+See [Python tutorial on data structures](https://docs.python.org/3/tutorial/datastructures.html)
+#### Defining basics
+[Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
+variable
+value
+assignment to variables
+difference between variables and values
+strings
+integers
+varying variables
 
 Open Terminal in macOS and launch our Docker container:
 
@@ -23,19 +34,10 @@ And enter the following line to launch the Python shell.
 ```
 python3
 ```
-Chapter 1:
-(http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
-variable
-value
-assignment to variables
-difference between variables and values
-strings
-integers
-varying variables
 
 
 <!--
-
+**Note:** For this class we’ll start by using Python’s read-eval-print loop (REPL) and then move on to Jupyter notebooks.
 
 Assign a sentence to the variable `sentence` — in this case the opening line from John Kennedy Toole’s  _A Confederacy of Dunces_. Type the name of the variable and hit return to view your new string.
 

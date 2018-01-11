@@ -1,10 +1,19 @@
-## Week 3 Outline: Data Modeling Outline
+## Week 3
 
+###Objectives
+[Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
+####String manipulation
+concatenation (e.g. addition of strings)
+indexing
+slicing
+len()
+
+<!--
 Sample datasets from The Museum of Modern Art (MoMA) [via GitHub](https://github.com/MuseumofModernArt/collection). Download these files to your /sharedfolder/ on your desktop.
 - [Artists.csv](https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artists.csv)
 - [Artworks.csv](https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artworks.csv)
 
-
+-->
 #### Run Docker container
 
 In macOS, open Terminal and enter the following commands to launch the Docker container:

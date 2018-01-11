@@ -63,11 +63,11 @@ Montfort, Nick. Exploratory Programming for the Arts and Humanities. Cambridge, 
 All other readings will either be available online and linked below or [posted on Canvas](https://utexas.instructure.com/courses/1216881/files).
 
 ## Assignments
-[Class Attendance and Participation (10%)](https://utexas.instructure.com/courses/1216881/assignments/4276538)
-[Discussion Lead (5%)](https://utexas.instructure.com/courses/1216881/assignments/4276501)
-[Weekly Discussion Posts (30%)](https://utexas.instructure.com/courses/1216881/assignments/4240876)
-[Data Set Review (15%)](http://culturalanalytics.org/2017/10/introducing-data-sets-a-new-section/)
-[Final Project: Critical Data Analysis Research Paper (40%)](https://utexas.instructure.com/courses/1216881/assignments/4240878)
+###[Class Attendance and Participation (10%)](https://utexas.instructure.com/courses/1216881/assignments/4276538)
+###[Discussion Lead (5%)](https://utexas.instructure.com/courses/1216881/assignments/4276501)
+###[Weekly Discussion Posts (30%)](https://utexas.instructure.com/courses/1216881/assignments/4240876)
+###[Data Set Review (15%)](http://culturalanalytics.org/2017/10/introducing-data-sets-a-new-section/)
+###[Final Project: Critical Data Analysis Research Paper (40%)](https://utexas.instructure.com/courses/1216881/assignments/4240878)
 
 ----------------------------------------------------------------
 
@@ -78,7 +78,7 @@ All other readings will either be available online and linked below or [posted o
 
 -  Piper, Andrew. "There will be Numbers." *Journal of Cultural Analytics* 1, no. 1 (May 23, 2016). [http://culturalanalytics.org/2016/05/there-will-be-numbers/](http://culturalanalytics.org/2016/05/there-will-be-numbers/)
 
--  Bod, Rens. "Introduction: the Quest for Principles and Patterns." A New History of the Humanities: The Search for Principles and Patterns from Antiquity to the Present. Oxford University Press, 2013, pp. 1 - 12.You must be logged in as a UT student to retrieve this text: [http://catalog.lib.utexas.edu/record=b8902003~S29](http://catalog.lib.utexas.edu/record=b8902003~S29)
+-  Bod, Rens. "Introduction: the Quest for Principles and Patterns." A New History of the Humanities: The Search for Principles and Patterns from Antiquity to the Present. Oxford University Press, 2013, pp. 1 - 12. *Note: You must be logged in as a UT student to retrieve this text*: [http://catalog.lib.utexas.edu/record=b8902003~S29](http://catalog.lib.utexas.edu/record=b8902003~S29)
 
 ##### [▸ In-class outline](week-01.md)
 
@@ -201,11 +201,7 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 
 Due: Data Set Review https://utexas.instructure.com/courses/1216881/assignments/4249399
 
-<!-- In class presentations of Data Set Reviews
 
-##### [▸ In-class outline](week-05.md)
-
--->
 
 ----------------------------------------------------------------
 
@@ -223,8 +219,6 @@ Work through Chris Albon’s tutorial on Python string operations.
 
 
 ### Optional Readings
--   Sanger, David E., and Eric Schmitt. “Snowden Used Low-Cost Tool to Best N.S.A.” The New York Times. February 8, 2014. [http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html](http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html)
-
 
 -   “HTML Introduction” and “HTML5 Introduction.” W3Schools.
 
@@ -238,7 +232,11 @@ Work through Chris Albon’s tutorial on Python string operations.
 
 ##### [▸ In-class outline](week-06.md)
 
+<!-- In class presentations of Data Set Reviews
 
+##### [▸ In-class outline](week-05.md)
+
+-->
 
 ----------------------------------------------------------------
 
@@ -265,7 +263,9 @@ Work through Chris Albon’s tutorial on Python string operations.
 
 ### Optional Readings
 
--   Day, Ronald E. “Governing Expression: Social Big Data and Neoliberalism.” In *Indexing It All: The Subject in the Age of Documentation*, Information, and Data, 123–44. History and Foundations of Information Science. Cambridge, Massachusetts: The MIT Press, 2014.
+- Day, Ronald E. “Governing Expression: Social Big Data and Neoliberalism.” In *Indexing It All: The Subject in the Age of Documentation*, Information, and Data, 123–44. History and Foundations of Information Science. Cambridge, Massachusetts: The MIT Press, 2014.
+
+- Sanger, David E., and Eric Schmitt. “Snowden Used Low-Cost Tool to Best N.S.A.” The New York Times. February 8, 2014. [http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html](http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html)
 
 ### Assignment
 
@@ -277,20 +277,6 @@ Work through Chris Albon’s tutorial on Python string operations.
 # SPRING BREAK (3/12)
 
 # <a name="week8"></a>Week 8 (3/19): Data and Interpretive Framing: Data Models
-
-<!--
-Install [numpy](http://www.numpy.org/) scientific computing library for Python.
-
-> pip install --user -U numpy
-
-Install [pandas](http://pandas.pydata.org/) data analysis library for Python.
-
-> pip install --user -U pandas
-
-Install [matplotlib](http://matplotlib.org/) visualization library for Python.
-
-> pip install --user -U matplotlib
--->
 
 ### Readings
 
@@ -484,9 +470,9 @@ Install [matplotlib](http://matplotlib.org/) visualization library for Python.
 
 - Seaver, Nick ["Algorithms as culture: Some tactics for the ethnography of algorithmic systems"](http://journals.sagepub.com/doi/10.1177/2053951717738104) Big Data and Society. 9 Nov. 2017
 
--   Hammond, Adam. "The double bind of validation: distant reading and the digital humanities' 'trough of disillusionment." *Literature Compass* 14, no. 8 (August 1, 2017): no. pg.
+- Hammond, Adam. "The double bind of validation: distant reading and the digital humanities' 'trough of disillusionment." *Literature Compass* 14, no. 8 (August 1, 2017): no. pg.
 
--   Jockers, Matthew Lee. “Chapter 8: Theme.” In *Macroanalysis: Digital Methods and Literary History*, 118–53. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2013.
+- Jockers, Matthew Lee. “Chapter 8: Theme.” In *Macroanalysis: Digital Methods and Literary History*, 118–53. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2013.
 
 ### Assignment
 

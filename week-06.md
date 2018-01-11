@@ -3,13 +3,24 @@
 
 
 
-### Class Objective
+### Objectives
+[Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
 
-String manipulation
-concatenation (e.g. addition of strings)
-indexing
-slicing
-len()
+####Conditions
+conditions
+indentation
+if
+elif
+else
+True
+False
+empty objects are false
+not
+in
+and
+or
+multiple conditions
+
 
 Open Terminal in macOS and launch our Docker container:
 
