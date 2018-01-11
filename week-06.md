@@ -6,7 +6,7 @@
 ### Objectives
 [Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
 
-####Conditions
+#### Conditions
 ```
 conditions
 indentation
