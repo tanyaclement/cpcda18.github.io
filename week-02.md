@@ -5,13 +5,13 @@
 See [Python tutorial on data structures](https://docs.python.org/3/tutorial/datastructures.html)
 #### Defining basics
 [Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
-variable
-value
-assignment to variables
-difference between variables and values
-strings
-integers
-varying variables
+* variable
+* value
+* assignment to variables
+* difference between variables and values
+* strings
+* integers
+* varying variables
 
 Open Terminal in macOS and launch our Docker container:
 
