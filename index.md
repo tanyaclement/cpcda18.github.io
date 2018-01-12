@@ -8,7 +8,7 @@ working with lists, slice notation,
 different data types: integer, float, string, can't mash them together, boolean true and false values; different lists in python.
 
 -->
-# Syllabus: Critical Perspectives in Cultural Data Analysis
+# Critical Perspectives in Cultural Data Analysis
 
 #### University of Texas at Austin School of Information
 
@@ -36,15 +36,15 @@ Towards these ends, this course takes on “data wrangling” in the context of 
 
 Learning goals:
 
--  Exploration of cultural implications of large-scale preservation of cultural materials.
+-  Exploring the cultural implications of large-scale data analysis with cultural materials.
 
 -  Writing using perspectives in critical data studies;
 
--  Familiarity with scripting-style programming in Python and Unix-like systems, emphasizing literacy in finding and using free and open source software; techniques for collecting, transforming, and analyzing media and metadata available on the Web; with commonly used data models and their standard formats, including CSV, JSON, and XML; with text analysis techniques such as natural language processing (NLP), sentiment analysis, and machine learning classification; and with tools for analyzing cultural data via visualization and statistical tests, emphasizing critical reflection on the limitations of these approaches.
+-  Gaining familiarity with scripting-style programming in Python and Unix-like systems with an emphasis on gaining critical perspectives on the  use of freely available data sets in the humanities and on free and open source software; in techniques for collecting, transforming, and analyzing media and metadata available on the Web; of commonly used data models and their standard formats, including CSV, JSON, and XML; of text analysis techniques such as natural language processing (NLP), sentiment analysis, and machine learning classification; and with tools for analyzing cultural data via visualization and statistical tests
 
 ## Course Principles
 
--  Writing critically about data requires both a level of knowledge about data and data wrangling as it requires a level of knowledge about thinking and writing from critical perspectives learned in cultural studies. While this course does not *teach* cultural studies, an understanding of and experience in humanities theory and research and the principles of cultural studies are essential.
+-  Writing critically about data requires both a level of knowledge about data and data wrangling as it requires a level of knowledge about thinking and writing from critical perspectives learned in cultural studies. While this course does not *teach* cultural studies per se, an understanding of and experience in humanities theory and research and the principles of cultural studies are essential for success in the course.
 
 -  Imitating and modifying others’ code is essential in learning to program. You can many examples and explanations on [Stack Exchange](http://stackexchange.com) and similar online forums. Taking one or two lines without attribution is OK; if you use a longer chunk of code found online, add a #comment with the source’s URL.
 
