@@ -214,7 +214,7 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 
 ### Assignment
 
-Due: Data Set Review https://utexas.instructure.com/courses/1216881/assignments/4249399
+[Data Set Review](https://utexas.instructure.com/courses/1216881/assignments/4249399)
 
 
 
