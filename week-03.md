@@ -2,11 +2,14 @@
 
 ###Objectives
 [Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
-####String manipulation
-* concatenation (e.g. addition of strings)
-* indexing
-* slicing
-* len()
+####Lists
+list
+mutable versus immutable
+.split()
+.append()
+nested lists
+.remove()
+.sort()
 
 <!--
 Sample datasets from The Museum of Modern Art (MoMA) [via GitHub](https://github.com/MuseumofModernArt/collection). Download these files to your /sharedfolder/ on your desktop.
@@ -31,14 +34,7 @@ docker rm -f pcda_ubuntu
 docker pull pcda17/ubuntu-container
 docker run --name pcda_ubuntu -ti -p 8889:8889 --volume C:\Users\***username_here***\Desktop\sharedfolder:/sharedfolder/ pcda17/ubuntu-container
 ```
-
-
-#### Open Jupyter Notebook (see notes in week 2)
-
-
-
-
-
+<!--
 
 #### CSV I/O in Python
 Paste the following code snippet into a new Jupyter notebook.
@@ -250,7 +246,8 @@ Note that 1151 artworks are missing an entry for “medium,” with the term “
 
 #### Quick Assignment
 Returning to our original MoMA metadata table, write a piece of code that extracts only works created in the 1960s (or another decade of your choosing). Since the date field in MoMA’s metadata doesn’t follow a strictly defined numerical format, you’ll have to think about how to interpret values like “1963,” “1963-5“, “c. 1963,” “c. 1960s,” etc.
-<!--Let students struggle with this a bit, then encourage them to settle on a relatively quick and dirty solution. The collection doesn’t have to be perfect; we’ll be cleaning the table in OpenRefine later.-->
+
+Let students struggle with this a bit, then encourage them to settle on a relatively quick and dirty solution. The collection doesn’t have to be perfect; we’ll be cleaning the table in OpenRefine later.
 
  _A simple solution with high recall and low precision:_
 
@@ -311,7 +308,7 @@ def date_span(date_string):
 ```
 
 Note that the code above is an example of a decision tree, the absolute simplest kind of “artificial intelligence” algorithm.
--->
+
 
 #### Sorting a Table by Column
 
@@ -353,7 +350,7 @@ with open(outpath, 'w') as fo:
 ```
 
 
-<!--
+
 ```python3
 outpath = "/sharedfolder/art_1960s.csv"
 o = open(outpath, 'w')
@@ -362,7 +359,7 @@ a.writerow(artwork_header)
 a.writerows(art_1960s_sorted)
 o.close()
 ```
--->
+
 
 
 Note that we call use `writerow` function first to write the header row, then `writerows` to write the actual data.
@@ -474,3 +471,4 @@ artist_dicts[12007]['DisplayName']
 ![](week/3/Image-7.png)
 
 If we want to create a list of artist names, birth years, etc., we can thus iterate through the `artists_dicts` list and specify the field we want by name.
+-->

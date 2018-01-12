@@ -3,14 +3,13 @@
 
 ##Objectives
 [Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
-####Lists
-list
-mutable versus immutable
-.split()
-.append()
-nested lists
-.remove()
-.sort()
+
+####Dictionaries
+* dictionary
+* indexing or accessing keys of dictionaries
+* adding items to a dictionary
+* .keys()
+* .values()
 
 
 Launch your Docker Container and open a new Jupyter Notebook.

@@ -95,7 +95,7 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 
 **[Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)**
 
-- Montfort, chp. 1 "Introduction"; "Installation and Setup" (just read it for your information);
+- Montfort, chp. 1 "Introduction"; "Installation and Setup" (just read it for your information); Chp. 2 "Calculating"
 
 - Borgman chp. 1 "Provocations"
 
@@ -125,7 +125,7 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 ### Readings
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_3)**
 
-- Montfort “Why Program?” (p.267–77); Chp. 2 "Calculating" and Chp. 3 "Double, Double"
+- Montfort “Why Program?” (p.267–77); Chp. 3 "Double, Double"
 
 - Introna, L. D. “The Enframing of Code: Agency, Originality and the Plagiarist.” *Theory, Culture & Society* 28, no. 6 (November 1, 2011): 113–41.
 
@@ -162,7 +162,7 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_4)**
 
-- Montfort chp 4. "Programming Fundamentals";
+- Montfort chp 4. "Programming Fundamentals"; Montfort, chp. 5 "Standard Starting Points";
 
 - Borgman, chp 2 "What are Data?"
 
@@ -177,13 +177,10 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 ##### [▸ In-class outline](week-04.md)
 
 
-
 ----------------------------------------------------------------
 
 
 # <a name="week5"></a>Week 5 (2/19): Scholarship
-
-- Montfort, chp. 5 "Standard Starting Points";
 
 - Borgman chp. 3 "Data Scholarship"
 
@@ -201,7 +198,10 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
+
+<!--
 ##### [▸ In-class outline](week-05.md)
+-->
 ----------------------------------------------------------------
 
 
@@ -211,19 +211,6 @@ http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_6)**
 
-- Montfort chp. 6 "Text I"
-
-Work through Chris Albon’s tutorial on Python string operations.
-- Albon, Chris. “String Operations.” [http://chrisalbon.com/python/string_operations.html](http://chrisalbon.com/python/string_operations.html)
-
-
-### Optional Readings
-
--   “HTML Introduction” and “HTML5 Introduction.” W3Schools.
-
-    -   [http://www.w3schools.com/html/html_intro.asp](http://www.w3schools.com/html/html_intro.asp)
-
-    -   [http://www.w3schools.com/html/html5_intro.asp](http://www.w3schools.com/html/html5_intro.asp)
 
 ### Assignment
 
@@ -248,7 +235,7 @@ Due: Data Set Review https://utexas.instructure.com/courses/1216881/assignments/
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_7)**
 
-- Montfort chp. 7 "Text II"
+- Montfort chp. 6 "Text I"
 
 - Final project directory: Booth chp. 2 "Connecting with your Reader"
 
@@ -264,9 +251,15 @@ Due: Data Set Review https://utexas.instructure.com/courses/1216881/assignments/
 
 ### Optional Readings
 
-- Day, Ronald E. “Governing Expression: Social Big Data and Neoliberalism.” In *Indexing It All: The Subject in the Age of Documentation*, Information, and Data, 123–44. History and Foundations of Information Science. Cambridge, Massachusetts: The MIT Press, 2014.
+Work through Chris Albon’s tutorial on Python string operations.
+- Albon, Chris. “String Operations.” [http://chrisalbon.com/python/string_operations.html](http://chrisalbon.com/python/string_operations.html)
 
-- Sanger, David E., and Eric Schmitt. “Snowden Used Low-Cost Tool to Best N.S.A.” The New York Times. February 8, 2014. [http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html](http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html)
+-   “HTML Introduction” and “HTML5 Introduction.” W3Schools.
+
+    -   [http://www.w3schools.com/html/html_intro.asp](http://www.w3schools.com/html/html_intro.asp)
+
+    -   [http://www.w3schools.com/html/html5_intro.asp](http://www.w3schools.com/html/html5_intro.asp)
+
 
 ### Assignment
 
@@ -283,7 +276,7 @@ Due: Data Set Review https://utexas.instructure.com/courses/1216881/assignments/
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_9)**
 
-- Montfort chp. 8 "Image I"
+- Montfort chp. 7 "Text II"
 
 - Borgman chp. 4 "Data Diversity"
 
@@ -325,7 +318,7 @@ Due: Data Set Review https://utexas.instructure.com/courses/1216881/assignments/
 
 ### Readings
 
-- Montfort chp. 9 "Image II"
+- Montfort chp. 8 "Image I"
 
 - Christen, Kim. “Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness.” International Journal of Communication 6 (2012), 2870–2893.
 
@@ -339,6 +332,10 @@ Due: Data Set Review https://utexas.instructure.com/courses/1216881/assignments/
 ### Optional Readings
 
 -   Sims, Nancy. “Library Licensing and Criminal Law: The Aaron Swartz Case.” *College & Research Libraries News* 72, no. 9 (2011): 534–37. [http://crln.acrl.org/content/72/9/534.short](http://crln.acrl.org/content/72/9/534.short).
+
+- Day, Ronald E. “Governing Expression: Social Big Data and Neoliberalism.” In *Indexing It All: The Subject in the Age of Documentation*, Information, and Data, 123–44. History and Foundations of Information Science. Cambridge, Massachusetts: The MIT Press, 2014.
+
+- Sanger, David E., and Eric Schmitt. “Snowden Used Low-Cost Tool to Best N.S.A.” The New York Times. February 8, 2014. [http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html](http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html)
 
 ### Assignment
 
@@ -358,7 +355,7 @@ Due: Data Set Review https://utexas.instructure.com/courses/1216881/assignments/
 
 - Final project directory: Booth chp. 3 "From Topics to Questions" and chp. 4 "From Questions to a Problem"
 
-- Montfort chp. 10 "Text III"
+- Montfort chp. 9 "Image II"
 
 - Ramsay, Stephen. “Chapter 1: An Algorithmic Criticism.” In *Reading Machines: Toward an Algorithmic Criticism*, 1–17. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2011.
 
@@ -384,6 +381,8 @@ Due: Data Set Review https://utexas.instructure.com/courses/1216881/assignments/
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_11)**
 
+- Montfort chp. 10 "Text III"
+
 - Berendt, Bettina, Preibusch, Soren. Toward Accountable Discrimination-Aware Data Mining: The Importance of Keeping the Human in the Loop—and Under the Looking Glass.Big DataVolume 5, Number 2, 2017.
 
 - Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica. “Machine Bias.” *ProPublica*. May 23, 2016. [https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
@@ -398,14 +397,9 @@ Due: Data Set Review https://utexas.instructure.com/courses/1216881/assignments/
 
 - Wolfram, S. Machine Learning for Middle Schoolers. Stephen Wolfram Blog. 11 May 2017. [http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments](http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments)
 
+- Hall, Gary. “Toward a Postdigital Humanities: Cultural Analytics and the Computational Turn to Data-Driven Scholarship.” *American Literature* 85, no. 4 (January 1, 2013): 781–809.
 
-
-
--   Hall, Gary. “Toward a Postdigital Humanities: Cultural Analytics and the Computational Turn to Data-Driven Scholarship.” *American Literature* 85, no. 4 (January 1, 2013): 781–809.
-
-
-
--   Marche, Stephen. “Literature Is not Data: Against Digital Humanities.” *Los Angeles Review of Books*, October 28th, 2012.
+- Marche, Stephen. “Literature Is not Data: Against Digital Humanities.” *Los Angeles Review of Books*, October 28th, 2012.
                       [https://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities](https://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities)
 
 

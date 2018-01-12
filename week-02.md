@@ -41,9 +41,9 @@ Type a line of code that prints a string. To run the current cell, either click 
 ![](week/2/Image-4.png)
 
 Note that each cell’s output is displayed right below to the the code that produced it, which is a major benefit of working in Jupyter.
-
-#### Defining basics
+### Exercises
 [Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
+#### Defining basics
 * variable
 * value
 * assignment to variables
@@ -51,6 +51,11 @@ Note that each cell’s output is displayed right below to the the code that pro
 * strings
 * integers
 * varying variables
+####String manipulation
+* concatenation (e.g. addition of strings)
+* indexing
+* slicing
+* len()
 
 Open Terminal in macOS and launch our Docker container:
 
