@@ -3,6 +3,45 @@
 ### Objectives
 #### Defining data structures
 See [Python tutorial on data structures](https://docs.python.org/3/tutorial/datastructures.html)
+#### Launching Jupyter
+First, leave the Docker terminal (ctrl+p, then ctrl+q, like we did at the end of last week). Restart the Docker container to run a browser instead of a Terminal applicationso that we can launch Jupyter.
+
+```
+docker rm -f pcda_ubuntu
+docker pull pcda17/ubuntu-container
+docker run --name pcda_ubuntu -ti -p 8889:8889 --volume ~/Desktop/sharedfolder/:/sharedfolder/ pcda17/ubuntu-container
+```
+
+Windows 10 version:
+```
+docker rm -f pcda_ubuntu
+docker pull pcda17/ubuntu-container
+docker run --name pcda_ubuntu -ti -p 8889:8889 --volume C:\Users\***username_here***\Desktop\sharedfolder:/sharedfolder/ pcda17/ubuntu-container
+```
+
+Open any browser and type (your Juypter Notebook will launch):
+```
+localhost:8889
+
+```
+![](week/2/Image-1.png)
+
+Click the "New" in the upper right, then choose "Python 3" from the drop-down menu.
+
+![](week/2/Image-2.png)
+
+![](week/2/Image-3.png)
+
+You’re now in the Jupyter environment. Here, you can create a series of "cells" for individual chunks of code, which can be saved and run repeatedly. Click the ✚ icon on the top left to add a new cell.
+
+Type a line of code that prints a string. To run the current cell, either click the `►❙` icon or go to the "Cell" menu and choose "Run Cells."
+
+    print("Hello Jupyter!")
+
+![](week/2/Image-4.png)
+
+Note that each cell’s output is displayed right below to the the code that produced it, which is a major benefit of working in Jupyter.
+
 #### Defining basics
 [Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
 * variable
@@ -505,45 +544,7 @@ _Exercise:_ Try using a different text and compare the results.
 >         print(line)
 
 
-#### Launching Jupyter
-First, leave the Docker terminal (ctrl+p, then ctrl+q, like we did at the end of last week). Restart the Docker container to run a browser instead of a Terminal applicationso that we can launch Jupyter.
 
-```
-docker rm -f pcda_ubuntu
-docker pull pcda17/ubuntu-container
-docker run --name pcda_ubuntu -ti -p 8889:8889 --volume ~/Desktop/sharedfolder/:/sharedfolder/ pcda17/ubuntu-container
-```
-
-Windows 10 version:
-```
-docker rm -f pcda_ubuntu
-docker pull pcda17/ubuntu-container
-docker run --name pcda_ubuntu -ti -p 8889:8889 --volume C:\Users\***username_here***\Desktop\sharedfolder:/sharedfolder/ pcda17/ubuntu-container
-```
-
-Open any browser and type (your Juypter Notebook will launch):
-```
-localhost:8889
-
-```
-![](week/2/Image-1.png)
-
-Click the "New" in the upper right, then choose "Python 3" from the drop-down menu.
-
-![](week/2/Image-2.png)
-
-![](week/2/Image-3.png)
-
-You’re now in the Jupyter environment. Here, you can create a series of "cells" for individual chunks of code, which can be saved and run repeatedly. Click the ✚ icon on the top left to add a new cell.
-
-Type a line of code that prints a string. To run the current cell, either click the `►❙` icon or go to the "Cell" menu and choose "Run Cells."
-
-    print("Hello Jupyter!")
-
-![](week/2/Image-4.png)
-
-
-Note that each cell’s output is displayed right below to the the code that produced it, which is a major benefit of working in Jupyter. We’ll learn more about the Jupyter environment next week. For now, switch back to Terminal.
 
 #### View list of all installed Python modules
 
