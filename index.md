@@ -76,38 +76,36 @@ All other readings will either be available online and linked below or [posted o
 
 ### Readings
 
--  Piper, Andrew. "There will be Numbers." *Journal of Cultural Analytics* 1, no. 1 (May 23, 2016). [http://culturalanalytics.org/2016/05/there-will-be-numbers/](http://culturalanalytics.org/2016/05/there-will-be-numbers/)
+- danah boyd & Kate Crawford (2012) "Critical Questions for Big Data," *Information, Communication & Society*, 15:5, 662-679.
 
--  Bod, Rens. "Introduction: the Quest for Principles and Patterns." A New History of the Humanities: The Search for Principles and Patterns from Antiquity to the Present. Oxford University Press, 2013, pp. 1 - 12. *Note: You must be logged in as a UT student to retrieve this text*: [http://catalog.lib.utexas.edu/record=b8902003~S29](http://catalog.lib.utexas.edu/record=b8902003~S29)
+- Piper, Andrew. "There will be Numbers." *Journal of Cultural Analytics* 1, no. 1 (May 23, 2016). [http://culturalanalytics.org/2016/05/there-will-be-numbers/](http://culturalanalytics.org/2016/05/there-will-be-numbers/)
+
+- Bod, Rens. "Introduction: the Quest for Principles and Patterns." A New History of the Humanities: The Search for Principles and Patterns from Antiquity to the Present. Oxford University Press, 2013, pp. 1 - 12. *Note: You must be logged in as a UT student to retrieve this text*: [http://catalog.lib.utexas.edu/record=b8902003~S29](http://catalog.lib.utexas.edu/record=b8902003~S29)
+
 
 ##### [▸ In-class outline](week-01.md)
 
-<!--
-http://sites.nationalacademies.org/cstb/currentprojects/cstb_175246
--->
 
 ----------------------------------------------------------------
 
 # <a name="week2"></a>Week 2 (1/28): Provocations
 
-
 ### Readings
+#### Coding and exercises
+- Montfort, chp. 1 "Introduction"; "Installation and Setup" (just read it for your information); Chp. 2 "Calculating"
+- “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
+#### For discussion
+- Borgman chp. 1 "Provocations"
 
 **[Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)**
 
-- Montfort, chp. 1 "Introduction"; "Installation and Setup" (just read it for your information); Chp. 2 "Calculating"
+- Liu. [“Drafts for Against the Cultural Singularity”](http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity/) Alan Liu. 2 May 2016.
 
-- Borgman chp. 1 "Provocations"
-
-- Padilla, T. "On a Collections as Data Imperative." [PDF](http://digitalpreservation.gov/meetings/dcs16/tpadilla_OnaCollectionsasDataImperative_final.pdf).
-
-- Posner, Miriam. “Humanities Data: A Necessary Contradiction.” *Miriam Posner’s Blog*, June 25, 2015. [http://miriamposner.com/blog/humanities-data-a-necessary-contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction)
-
-- “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
+- Padilla, T. ["On a Collections as Data Imperative."](http://digitalpreservation.gov/meetings/dcs16/tpadilla_OnaCollectionsasDataImperative_final.pdf).
 
 ### Optional
 
-- danah boyd & Kate Crawford (2012) "Critical Questions for Big Data," *Information, Communication & Society*, 15:5, 662-679.
+- Posner, Miriam. “Humanities Data: A Necessary Contradiction.” *Miriam Posner’s Blog*, June 25, 2015. [http://miriamposner.com/blog/humanities-data-a-necessary-contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction)
 
 - Gallinger, M. and Daniel Chudnov "Library of Congress Lab: Library of Congress Digital Scholars Lab Pilot Project Report."
 
