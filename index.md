@@ -99,11 +99,8 @@ All other readings will either be available online and linked below or [posted o
 - Borgman chp. 1 "Provocations"
 - Liu. [“Drafts for Against the Cultural Singularity”](http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity/) Alan Liu. 2 May 2016.
 - Padilla, T. ["On a Collections as Data Imperative."](http://digitalpreservation.gov/meetings/dcs16/tpadilla_OnaCollectionsasDataImperative_final.pdf).
-
 #### Optional
-
 - Posner, Miriam. “Humanities Data: A Necessary Contradiction.” *Miriam Posner’s Blog*, June 25, 2015. [http://miriamposner.com/blog/humanities-data-a-necessary-contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction)
-
 - Gallinger, M. and Daniel Chudnov "Library of Congress Lab: Library of Congress Digital Scholars Lab Pilot Project Report."
 
 ### Assignment
