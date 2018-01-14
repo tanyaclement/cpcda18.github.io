@@ -91,7 +91,7 @@ All other readings will either be available online and linked below or [posted o
 # <a name="week2"></a>Week 2 (1/28): Provocations
 ### Readings
 **[in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)**
-#### Coding and exercises
+##### Coding and exercises
 - Montfort, chp. 1 "Introduction"; "Installation and Setup" (just read it for your information); Chp. 2 "Calculating"
 - “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
 #### For discussion
