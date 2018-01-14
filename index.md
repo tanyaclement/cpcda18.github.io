@@ -91,7 +91,7 @@ All other readings will either be available online and linked below or [posted o
 # <a name="week2"></a>Week 2 (1/28): Provocations
 ### Readings
 **[in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)**
-##### Coding and exercises
+#### Coding, writing, and exercises
 - Montfort, chp. 1 "Introduction"; "Installation and Setup" (just read it for your information); Chp. 2 "Calculating"
 - “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
 #### For discussion
@@ -101,8 +101,6 @@ All other readings will either be available online and linked below or [posted o
 #### Optional
 - Posner, Miriam. “Humanities Data: A Necessary Contradiction.” *Miriam Posner’s Blog*, June 25, 2015. [http://miriamposner.com/blog/humanities-data-a-necessary-contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction)
 - Gallinger, M. and Daniel Chudnov "Library of Congress Lab: Library of Congress Digital Scholars Lab Pilot Project Report."
-
-
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
@@ -114,7 +112,7 @@ All other readings will either be available online and linked below or [posted o
 # <a name="week3"></a>Week 3 (2/5): Programming
 ### Readings
 **[in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_3)**
-#### Coding and exercises
+#### Coding, writing, and exercises
 - Montfort “Why Program?” (p.267–77); Chp. 3 "Double, Double"
 - Allardice, Simon. “Foundations of Programming: Fundamentals, parts 1-3; part 5, just "part 5, Breaking your code apart"; and part 14, just “Python” and “Libraries and frameworks”. [http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html](http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html) [To access Lynda.com. follow links below, click “Log in,” then “Organizational Login,” and enter your UT EID and password.]
 #### For discussion
@@ -147,7 +145,7 @@ All other readings will either be available online and linked below or [posted o
 
 ### Readings
 **[in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_4)**
-#### Coding and exercises
+#### Coding, writing, and exercises
 - Montfort chp 4. "Programming Fundamentals"; Montfort, chp. 5 "Standard Starting Points";
 #### For discussion
 - Borgman, chp 2 "What are Data?"
@@ -201,36 +199,21 @@ In class presentations of Data Set Reviews
 # <a name="week7"></a>Week 7 (3/5): Data and Interpretive Framing: Audience
 
 ### Readings
-
-
-**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_7)**
-
+**[in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_7)**
+#### Coding, writing, and exercises
 - Montfort chp. 6 "Text I"
-
 - Final project directory: Booth chp. 2 "Connecting with your Reader"
-
-- Kelly, Chelsea Emelie. “Beyond Digital: Open Collections & Cultural Institutions,” 2014.  [https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions](https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions)
-
-- Liu, Alan. “The Meaning of the Digital Humanities.” *PMLA* 128, no. 2 (March 2013): 409–23.
-
-- Pound, Scott. “Kenneth Goldsmith and the Poetics of Information.” PMLA, vol. 130, no. 2, Mar. 2015, pp. 315–30.
-
-- Greenwald, Glenn. “Chapter 1: Contact.” In *No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State*, 2015.
-
-- American Civil Liberties Union. "First Amendment Lawsuit Brought on Behalf of Academic Researchers and Journalists Who Fear Prosecution Under the Computer Fraud and Abuse Act." [https://www.aclu.org/news/aclu-challenges-law-preventing-studies-big-data-discrimination](https://www.aclu.org/news/aclu-challenges-law-preventing-studies-big-data-discrimination)
-
-### Optional Readings
-
-Work through Chris Albon’s tutorial on Python string operations.
 - Albon, Chris. “String Operations.” [http://chrisalbon.com/python/string_operations.html](http://chrisalbon.com/python/string_operations.html)
-
--   “HTML Introduction” and “HTML5 Introduction.” W3Schools.
-
-    -   [http://www.w3schools.com/html/html_intro.asp](http://www.w3schools.com/html/html_intro.asp)
-
-    -   [http://www.w3schools.com/html/html5_intro.asp](http://www.w3schools.com/html/html5_intro.asp)
-
-
+- “HTML Introduction” and “HTML5 Introduction.” W3Schools.
+    - [http://www.w3schools.com/html/html_intro.asp](http://www.w3schools.com/html/html_intro.asp)
+    - [http://www.w3schools.com/html/html5_intro.asp](http://www.w3schools.com/html/html5_intro.asp)
+#### For discussion
+- Kelly, Chelsea Emelie. “Beyond Digital: Open Collections & Cultural Institutions,” 2014.  [https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions](https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions)
+- Liu, Alan. “The Meaning of the Digital Humanities.” *PMLA* 128, no. 2 (March 2013): 409–23.
+- Pound, Scott. “Kenneth Goldsmith and the Poetics of Information.” PMLA, vol. 130, no. 2, Mar. 2015, pp. 315–30.
+### Optional Readings
+- Greenwald, Glenn. “Chapter 1: Contact.” In *No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State*, 2015.
+- American Civil Liberties Union. "First Amendment Lawsuit Brought on Behalf of Academic Researchers and Journalists Who Fear Prosecution Under the Computer Fraud and Abuse Act." [https://www.aclu.org/news/aclu-challenges-law-preventing-studies-big-data-discrimination](https://www.aclu.org/news/aclu-challenges-law-preventing-studies-big-data-discrimination)
 ### Assignment
 
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
@@ -243,17 +226,13 @@ Work through Chris Albon’s tutorial on Python string operations.
 # <a name="week8"></a>Week 8 (3/19): Data and Interpretive Framing: Data Models
 
 ### Readings
-
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_9)**
-
+#### Coding, writing, and exercises
 - Montfort chp. 7 "Text II"
-
+#### For discussion
 - Borgman chp. 4 "Data Diversity"
-
 - Pomerantz, Jeffrey. “The Future of Metadata.” In *Metadata*. The MIT Press Essential Knowledge Series. Cambridge, MA ; London, England: The MIT Press, 2015.
-
 - van Hooland, Seth, and Ruben Verborgh. “Modelling.” In *Linked Data for Libraries, Archives and Museums: How to Clean, Link and Publish Your Metadata*, 11–70. Chicago: Neal-Schuman, 2014.
-
 ### Optional Readings
 
 -   Code of Best Practices in Fair Use for Academic and Research Libraries*. Association of Research Libraries, 2012*. [http://www.arl.org/storage/documents/publications/code-of-best-practices-fair-use.pdf](http://www.arl.org/storage/documents/publications/code-of-best-practices-fair-use.pdf)
@@ -264,15 +243,7 @@ Work through Chris Albon’s tutorial on Python string operations.
 
 -   DRM article: [http://infojustice.org/wp-content/uploads/2015/03/band03102015.pdf](http://infojustice.org/wp-content/uploads/2015/03/band03102015.pdf)
 
-- Kazil, Jacqueline, and Katharine Jarmul. “PDFs and Problem Solving in Python.” In *Data Wrangling with Python: Tips and Tools to Make Your Life Easier*, 91–126. O’Reilly, 2016.
 
-- Albon, Chris. “Parse JSON File.” [http://chrisalbon.com/python/json_parse_file.html](https://github.com/chrisalbon/code_py/blob/master/json_parse_file.ipynb)
-
-- Lundh, Fredrik. “Elements and Element Trees.” [http://effbot.org/zone/element.htm](http://effbot.org/zone/element.htm) [Python XML tutorial]
-
-- Beazley, David, and Brian K. Jones. “Chapter 6: Data Encoding and Processing.” In Python Cookbook: *recipes for Mastering Python 3*, 3. ed., 175–216. Bejing: O’Reilly, 2013.
-
-- Zhuang, Atima Han, Ishita Vedvyas, and Rishikesh Dole. “Tutorial: OpenRefine,” 2013. [http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf](http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf)
 
 - Manzo, Christina, Geoff Kaufman, Sukdith Punjasthitkul, and Mary Flanagan. “‘By the People, For the People’: Assessing the Value of Crowdsourced, User-Generated Metadata.” *Digital Humanities Quarterly* 9, no. 1 (2015). [http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html](http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html)
 
@@ -287,9 +258,9 @@ Work through Chris Albon’s tutorial on Python string operations.
 # <a name="week9"></a>Week 9 (3/26): Data and Interpretive Framing: Open Access
 
 ### Readings
-
+#### Coding, writing, and exercises
 - Montfort chp. 8 "Image I"
-
+#### For discussion
 - Christen, Kim. “Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness.” International Journal of Communication 6 (2012), 2870–2893.
 
 - Peters, Justin. *The Idealist: Aaron Swartz and the Rise of Free Culture on the Internet*, Chapters 7 and 8. New York: Scribner, 2016.
@@ -300,11 +271,8 @@ Work through Chris Albon’s tutorial on Python string operations.
 
 
 ### Optional Readings
-
 -   Sims, Nancy. “Library Licensing and Criminal Law: The Aaron Swartz Case.” *College & Research Libraries News* 72, no. 9 (2011): 534–37. [http://crln.acrl.org/content/72/9/534.short](http://crln.acrl.org/content/72/9/534.short).
-
 - Day, Ronald E. “Governing Expression: Social Big Data and Neoliberalism.” In *Indexing It All: The Subject in the Age of Documentation*, Information, and Data, 123–44. History and Foundations of Information Science. Cambridge, Massachusetts: The MIT Press, 2014.
-
 - Sanger, David E., and Eric Schmitt. “Snowden Used Low-Cost Tool to Best N.S.A.” The New York Times. February 8, 2014. [http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html](http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html)
 
 ### Assignment
@@ -320,22 +288,15 @@ Work through Chris Albon’s tutorial on Python string operations.
 # <a name="week10"></a>Week 10 (4/2): Data and Interpretive Framing: Theory
 
 ### Readings
-
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_10)**
-
+#### Coding, writing, and exercises
 - Final project directory: Booth chp. 3 "From Topics to Questions" and chp. 4 "From Questions to a Problem"
-
 - Montfort chp. 9 "Image II"
-
-- Ramsay, Stephen. “Chapter 1: An Algorithmic Criticism.” In *Reading Machines: Toward an Algorithmic Criticism*, 1–17. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2011.
-
-- Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingdom of Knowledge.” New Literary History 47 (2): 353–75.
-
-- Freelon, Deen Goodwin, Charlton D. McIlwain, and Meredith D. Clark. “Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice,” 2016. [http://cmsimpact.org/wp-content/uploads/2016/03/beyond_the_hashtags_2016.pdf](http://cmsimpact.org/wp-content/uploads/2016/03/beyond_the_hashtags_2016.pdf)
-
+#### For discussion
 - Hitchcock, Tim. “Digital Searching and the Re-formulation of Historical Knowledge” 2008. In *The Virtual Representation of the Past*, edited by Mark Greenglass and Lorna Hughes, 81-90. Ashgate: 2008.
-
-
+- Ramsay, Stephen. “Chapter 1: An Algorithmic Criticism.” In *Reading Machines: Toward an Algorithmic Criticism*, 1–17. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2011.
+- Freelon, Deen Goodwin, Charlton D. McIlwain, and Meredith D. Clark. “Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice,” 2016. [http://cmsimpact.org/wp-content/uploads/2016/03/beyond_the_hashtags_2016.pdf](http://cmsimpact.org/wp-content/uploads/2016/03/beyond_the_hashtags_2016.pdf)
+- Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingdom of Knowledge.” New Literary History 47 (2): 353–75.
 ### Assignment
 
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
@@ -348,35 +309,28 @@ Work through Chris Albon’s tutorial on Python string operations.
 # <a name="week11"></a>Week 11 (4/9): Data and Interpretive Framing: Methods
 
 ### Readings
-
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_11)**
-
+#### Coding, writing, and exercises
 - Montfort chp. 10 "Text III"
-
-- Berendt, Bettina, Preibusch, Soren. Toward Accountable Discrimination-Aware Data Mining: The Importance of Keeping the Human in the Loop—and Under the Looking Glass.Big DataVolume 5, Number 2, 2017.
-
-- Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica. “Machine Bias.” *ProPublica*. May 23, 2016. [https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
-
-- Geitgey, Adam. “Machine Learning is Fun!” *Medium*. [https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
-
-- Schmidt, B. "Do Digital Humanists Need to Understand Algorithms? <http://dhdebates.gc.cuny.edu/debates/text/99>
-
-- Norvig, Peter. “Natural Language Corpus Data.” In *Beautiful Data: The Stories Behind Elegant Data Solutions*, edited by Toby Segaran and Jeff Hammerbacher, 1st ed. Beijing ; Sebastopol, CA: O’Reilly, 2009.
-
+- Kazil, Jacqueline, and Katharine Jarmul. “PDFs and Problem Solving in Python.” In *Data Wrangling with Python: Tips and Tools to Make Your Life Easier*, 91–126. O’Reilly, 2016.
+- Albon, Chris. “Parse JSON File.” [http://chrisalbon.com/python/json_parse_file.html](https://github.com/chrisalbon/code_py/blob/master/json_parse_file.ipynb)
+- Lundh, Fredrik. “Elements and Element Trees.” [http://effbot.org/zone/element.htm](http://effbot.org/zone/element.htm) [Python XML tutorial]
+- Beazley, David, and Brian K. Jones. “Chapter 6: Data Encoding and Processing.” In Python Cookbook: *recipes for Mastering Python 3*, 3. ed., 175–216. Bejing: O’Reilly, 2013.
+- Zhuang, Atima Han, Ishita Vedvyas, and Rishikesh Dole. “Tutorial: OpenRefine,” 2013. [http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf](http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf)
+- “Working With Text Data.” scikit-learn. [http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
 - Baharudin, Baharum, Lam Hong Lee, and Khairullah Khan. “A Review of Machine Learning Algorithms for Text-Documents Classification.” *Journal of Advances in Information Technology* 1, no. 1 (February 1, 2010).
-
 - Wolfram, S. Machine Learning for Middle Schoolers. Stephen Wolfram Blog. 11 May 2017. [http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments](http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments)
-
+- Norvig, Peter. “Natural Language Corpus Data.” In *Beautiful Data: The Stories Behind Elegant Data Solutions*, edited by Toby Segaran and Jeff Hammerbacher, 1st ed. Beijing ; Sebastopol, CA: O’Reilly, 2009.
+#### For discussion
+- Schmidt, B. "Do Digital Humanists Need to Understand Algorithms? <http://dhdebates.gc.cuny.edu/debates/text/99>
 - Hall, Gary. “Toward a Postdigital Humanities: Cultural Analytics and the Computational Turn to Data-Driven Scholarship.” *American Literature* 85, no. 4 (January 1, 2013): 781–809.
-
 - Marche, Stephen. “Literature Is not Data: Against Digital Humanities.” *Los Angeles Review of Books*, October 28th, 2012.
                       [https://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities](https://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities)
 
 
 ### Optional Reading
-
--   “Working With Text Data.” scikit-learn.
-                      [http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
+- Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica. “Machine Bias.” *ProPublica*. May 23, 2016. [https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+- Berendt, Bettina, Preibusch, Soren. Toward Accountable Discrimination-Aware Data Mining: The Importance of Keeping the Human in the Loop—and Under the Looking Glass.Big DataVolume 5, Number 2, 2017.
 
 ### Assignment
 
@@ -393,9 +347,9 @@ Work through Chris Albon’s tutorial on Python string operations.
 ### Readings
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_13)**
-
+#### Coding, writing, and exercises
 -   Montfort chp. 11 “Statistics and Visualization.”
-
+#### For discussion
 -   Manovich, Lev. “What Is Visualisation?” *Visual Studies* 26, no. 1 (March 15, 2011): 36–49. <http://www.tandfonline.com/doi/abs/10.1080/1472586X.2011.548488>.
 
 -   Krumme, Coco. “What Data Doesn’t Do.” In *Beautiful Data: The Stories behind Elegant Data Solutions*, edited by Toby Segaran and Jeff Hammerbacher, 1st ed. Beijing ; Sebastopol, CA: O’Reilly, 2009.
@@ -424,9 +378,9 @@ Work through Chris Albon’s tutorial on Python string operations.
 # <a name="week13"></a>Week 13 (4/23): Data and Interpretive Framing:
 
 ### Readings
-
+#### Coding, writing, and exercises
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_12)**
-
+#### For discussion
 - Clement, T. and McLaughlin, S. “Measured Applause: Toward a Cultural Analysis of Audio Collections.” Cultural Analytics, vol. 1, no. 1, 2016. [http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/](http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/)
 
 - Neff, Gina, Tanweer, Anissa, Fiore-Gartland, Brittany, Osburn, Laura  Critique and Contribute: A Practice-Based Framework for Improving Critical Data Studies and Data Science. *Big Data* 5, no. 2, 2017.
@@ -452,12 +406,11 @@ Work through Chris Albon’s tutorial on Python string operations.
 
 [Final Presentation due](https://utexas.instructure.com/courses/1216881/assignments/4166564)
 
--- **[Installation Tutorials](tutorials/)**
-
 5/7: [Final Project due](https://utexas.instructure.com/courses/1216881/assignments/4166548)
 
 ----------------------------------------------------------------
 # Additional resources:
+**[Installation Tutorials](tutorials/)**
 [Jeroen Janssens Seven Command Line Tools for Data Science (2013) workbench.](https://hub.docker.com/r/wlanderson/dsatclwb/)
 Juola, P. and Ramsay, S. [Six Septembers: Mathematics for the Humanist](http://digitalcommons.unl.edu/zeabook/55/). Zea E-Books.
 Karsdorp, Folgert. [Python Programming for the Humanities](http://www.karsdorp.io/python-course/)
