@@ -11,7 +11,6 @@ docker rm -f pcda_ubuntu
 docker pull pcda17/ubuntu-container
 docker run --name pcda_ubuntu -ti -p 8889:8889 --volume ~/Desktop/sharedfolder/:/sharedfolder/ pcda17/ubuntu-container
 ```
-
 Windows 10 version:
 ```
 docker rm -f pcda_ubuntu
@@ -41,6 +40,7 @@ Type a line of code that prints a string. To run the current cell, either click 
 ![](week/2/Image-4.png)
 
 Note that each cell’s output is displayed right below to the the code that produced it, which is a major benefit of working in Jupyter.
+
 ### Exercises
 [Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
 #### Defining basics
@@ -57,6 +57,7 @@ Note that each cell’s output is displayed right below to the the code that pro
 * slicing
 * len()
 
+### Getting started
 Open Terminal in macOS and launch our Docker container:
 
 ```

@@ -1,6 +1,7 @@
 ## Week 3
 
 ###Objectives
+Right click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
 [Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
 ####Lists
 list
@@ -17,8 +18,7 @@ Sample datasets from The Museum of Modern Art (MoMA) [via GitHub](https://github
 - [Artworks.csv](https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artworks.csv)
 
 -->
-#### Run Docker container
-
+### Getting started
 In macOS, open Terminal and enter the following commands to launch the Docker container:
 
 ```

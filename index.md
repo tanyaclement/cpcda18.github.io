@@ -85,11 +85,10 @@ All other readings will either be available online and linked below or [posted o
 
 ##### [▸ In-class outline](week-01.md)
 
-
 ----------------------------------------------------------------
 
 # <a name="week2"></a>Week 2 (1/28): Provocations
-## Readings
+### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)
 #### Coding, writing, and exercises
 - Montfort, chp. 1 "Introduction"; "Installation and Setup" (for your information); Chp. 2 "Calculating"
@@ -98,6 +97,9 @@ All other readings will either be available online and linked below or [posted o
 - Borgman chp. 1 "Provocations"
 - Liu. [“Drafts for Against the Cultural Singularity”](http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity/) Alan Liu. 2 May 2016.
 - Padilla, T. ["On a Collections as Data Imperative."](http://digitalpreservation.gov/meetings/dcs16/tpadilla_OnaCollectionsasDataImperative_final.pdf).
+<!--
+lauren klein
+-->
 #### Optional
 - Posner, Miriam. “Humanities Data: A Necessary Contradiction.” *Miriam Posner’s Blog*, June 25, 2015. [http://miriamposner.com/blog/humanities-data-a-necessary-contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction)
 - Gallinger, M. and Daniel Chudnov "Library of Congress Lab: Library of Congress Digital Scholars Lab Pilot Project Report."
@@ -111,7 +113,7 @@ All other readings will either be available online and linked below or [posted o
 
 # <a name="week3"></a>Week 3 (2/5): Programming
 ### Readings
-**[Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_3)**
+- [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_3)
 #### Coding, writing, and exercises
 - Montfort “Why Program?” (p.267–77); Chp. 3 "Double, Double"
 - Allardice, Simon. “Foundations of Programming: Fundamentals, parts 1-3; part 5, just "part 5, Breaking your code apart"; and part 14, just “Python” and “Libraries and frameworks”. [http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html](http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html) [To access Lynda.com. follow links below, click “Log in,” then “Organizational Login,” and enter your UT EID and password.]
@@ -144,7 +146,7 @@ All other readings will either be available online and linked below or [posted o
 # <a name="week4"></a>Week 4 (2/12): Data
 
 ### Readings
-**[Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_4)**
+- [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_4)
 #### Coding, writing, and exercises
 - Montfort chp 4. "Programming Fundamentals"; Montfort, chp. 5 "Standard Starting Points";
 #### For discussion
@@ -162,7 +164,7 @@ All other readings will either be available online and linked below or [posted o
 
 # <a name="week5"></a>Week 5 (2/19): Scholarship
 ### Readings
-**[Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_5)**
+- [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_5)
 #### For discussion
 - Borgman chp. 3 "Data Scholarship"
 - Joerges, B. “Do Politics Have Artefacts?” *Social Studies of Science* 29, no. 3 (June 1, 1999): 411–31.
@@ -178,20 +180,15 @@ All other readings will either be available online and linked below or [posted o
 
 # <a name="week6"></a>Week 6 (2/26): Data Set Reviews
 In class presentations of Data Set Reviews
-<!--
 ### Readings
-
-**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_6)**
--->
-
+- [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/)
+- Final project directory: Booth chp. 2 "Connecting with your Reader"
 ### Assignment
-
 [Data Set Review](https://utexas.instructure.com/courses/1216881/assignments/4249399)
 
 
 <!--
 ##### [▸ In-class outline](week-06.md)
-
 -->
 
 ----------------------------------------------------------------
@@ -199,16 +196,14 @@ In class presentations of Data Set Reviews
 # <a name="week7"></a>Week 7 (3/5): Data and Interpretive Framing: Audience
 
 ### Readings
-**[Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_7)**
+- [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_7)
 #### Coding, writing, and exercises
 - Montfort chp. 6 "Text I"
-- Final project directory: Booth chp. 2 "Connecting with your Reader"
 - Albon, Chris. “String Operations.” [http://chrisalbon.com/python/string_operations.html](http://chrisalbon.com/python/string_operations.html)
 - “HTML Introduction” and “HTML5 Introduction.” W3Schools.
     - [http://www.w3schools.com/html/html_intro.asp](http://www.w3schools.com/html/html_intro.asp)
     - [http://www.w3schools.com/html/html5_intro.asp](http://www.w3schools.com/html/html5_intro.asp)
 #### For discussion
-- Kelly, Chelsea Emelie. “Beyond Digital: Open Collections & Cultural Institutions,” 2014.  [https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions](https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions)
 - Liu, Alan. “The Meaning of the Digital Humanities.” *PMLA* 128, no. 2 (March 2013): 409–23.
 - Pound, Scott. “Kenneth Goldsmith and the Poetics of Information.” PMLA, vol. 130, no. 2, Mar. 2015, pp. 315–30.
 ### Optional Readings
@@ -224,27 +219,20 @@ In class presentations of Data Set Reviews
 # SPRING BREAK (3/12)
 
 # <a name="week8"></a>Week 8 (3/19): Data and Interpretive Framing: Data Models
-
 ### Readings
-**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_9)**
+- [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_8)
 #### Coding, writing, and exercises
 - Montfort chp. 7 "Text II"
+- Zhuang, Atima Han, Ishita Vedvyas, and Rishikesh Dole. “Tutorial: OpenRefine,” 2013. [http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf](http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf)
 #### For discussion
 - Borgman chp. 4 "Data Diversity"
 - Pomerantz, Jeffrey. “The Future of Metadata.” In *Metadata*. The MIT Press Essential Knowledge Series. Cambridge, MA ; London, England: The MIT Press, 2015.
 - van Hooland, Seth, and Ruben Verborgh. “Modelling.” In *Linked Data for Libraries, Archives and Museums: How to Clean, Link and Publish Your Metadata*, 11–70. Chicago: Neal-Schuman, 2014.
 ### Optional Readings
-
 -   Code of Best Practices in Fair Use for Academic and Research Libraries*. Association of Research Libraries, 2012*. [http://www.arl.org/storage/documents/publications/code-of-best-practices-fair-use.pdf](http://www.arl.org/storage/documents/publications/code-of-best-practices-fair-use.pdf)
-
 -   “The Digital Public Library of America Policy Statement on Metadata,” 2013. [http://dp.la/info/wp-content/uploads/2013/04/DPLAMetadataPolicy.pdf](http://dp.la/info/wp-content/uploads/2013/04/DPLAMetadataPolicy.pdf)
-
 -   “Creative Commons: About the Licenses.” [https://creativecommons.org/licenses/](https://creativecommons.org/licenses/)
-
 -   DRM article: [http://infojustice.org/wp-content/uploads/2015/03/band03102015.pdf](http://infojustice.org/wp-content/uploads/2015/03/band03102015.pdf)
-
-
-
 - Manzo, Christina, Geoff Kaufman, Sukdith Punjasthitkul, and Mary Flanagan. “‘By the People, For the People’: Assessing the Value of Crowdsourced, User-Generated Metadata.” *Digital Humanities Quarterly* 9, no. 1 (2015). [http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html](http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html)
 
 ### Assignment
@@ -253,22 +241,20 @@ In class presentations of Data Set Reviews
 ##### [▸ In-class outline](week-08.md)
 
 ----------------------------------------------------------------
-
-
 # <a name="week9"></a>Week 9 (3/26): Data and Interpretive Framing: Open Access
 
 ### Readings
+- [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_9)
 #### Coding, writing, and exercises
 - Montfort chp. 8 "Image I"
 #### For discussion
 - Christen, Kim. “Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness.” International Journal of Communication 6 (2012), 2870–2893.
-
 - Peters, Justin. *The Idealist: Aaron Swartz and the Rise of Free Culture on the Internet*, Chapters 7 and 8. New York: Scribner, 2016.
-
 - Swartz, Aaron. “Building a Platform: Providing APIs.” In *Aaron Swartz’s ‘A Programmable Web’: An Unfinished Work*, 31–39. San Rafael, CA: Morgan & Claypool Publishers, 2013.
 
 - O’Sullivan, Michael. “Aaron Swartz, New Technologies, and the Myth of Open Access.” In *Academic Barbarism, Universities and Inequality*. Palgrave Critical University Studies. Houndmills, Basingstoke, Hampshire ; New York, NY: Palgrave Macmillan, 2016.
 
+- Kelly, Chelsea Emelie. “Beyond Digital: Open Collections & Cultural Institutions,” 2014.  [https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions](https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions)
 
 ### Optional Readings
 -   Sims, Nancy. “Library Licensing and Criminal Law: The Aaron Swartz Case.” *College & Research Libraries News* 72, no. 9 (2011): 534–37. [http://crln.acrl.org/content/72/9/534.short](http://crln.acrl.org/content/72/9/534.short).
@@ -287,7 +273,7 @@ In class presentations of Data Set Reviews
 
 # <a name="week10"></a>Week 10 (4/2): Data and Interpretive Framing: Theory
 ### Readings
-**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_10)**
+- [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_10)
 #### Coding, writing, and exercises
 - Montfort chp. 9 "Image II"
 - Final project directory: Booth chp. 3 "From Topics to Questions" and chp. 4 "From Questions to a Problem"
@@ -304,18 +290,15 @@ In class presentations of Data Set Reviews
 
 ----------------------------------------------------------------
 
-
 # <a name="week11"></a>Week 11 (4/9): Data and Interpretive Framing: Methods
-
 ### Readings
-**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_11)**
+- [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_11)
 #### Coding, writing, and exercises
 - Montfort chp. 10 "Text III"
 - Kazil, Jacqueline, and Katharine Jarmul. “PDFs and Problem Solving in Python.” In *Data Wrangling with Python: Tips and Tools to Make Your Life Easier*, 91–126. O’Reilly, 2016.
 - Albon, Chris. “Parse JSON File.” [http://chrisalbon.com/python/json_parse_file.html](https://github.com/chrisalbon/code_py/blob/master/json_parse_file.ipynb)
 - Lundh, Fredrik. “Elements and Element Trees.” [http://effbot.org/zone/element.htm](http://effbot.org/zone/element.htm) [Python XML tutorial]
 - Beazley, David, and Brian K. Jones. “Chapter 6: Data Encoding and Processing.” In Python Cookbook: *recipes for Mastering Python 3*, 3. ed., 175–216. Bejing: O’Reilly, 2013.
-- Zhuang, Atima Han, Ishita Vedvyas, and Rishikesh Dole. “Tutorial: OpenRefine,” 2013. [http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf](http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf)
 - “Working With Text Data.” scikit-learn. [http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
 - Baharudin, Baharum, Lam Hong Lee, and Khairullah Khan. “A Review of Machine Learning Algorithms for Text-Documents Classification.” *Journal of Advances in Information Technology* 1, no. 1 (February 1, 2010).
 - Wolfram, S. Machine Learning for Middle Schoolers. Stephen Wolfram Blog. 11 May 2017. [http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments](http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments)
@@ -340,33 +323,23 @@ In class presentations of Data Set Reviews
 
 ----------------------------------------------------------------
 
-
 # <a name="week12"></a>Week 12 (4/16): Data and Interpretive Framing: Interpretations and Results
 
 ### Readings
-
-**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_13)**
+- [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_12)
 #### Coding, writing, and exercises
 -   Montfort chp. 11 “Statistics and Visualization.”
+-   Brew, Chris. “Language Processing: Statistical Methods.” In Encyclopedia of Language & Linguistics, edited by Keith Brown, 2nd ed., 12:597–604. Elsevier, 2006.
+-   Gries, Stefan. “Useful statistics for corpus linguistics.” <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.9846&rep=rep1&type=pdf>
 #### For discussion
 -   Manovich, Lev. “What Is Visualisation?” *Visual Studies* 26, no. 1 (March 15, 2011): 36–49. <http://www.tandfonline.com/doi/abs/10.1080/1472586X.2011.548488>.
-
 -   Krumme, Coco. “What Data Doesn’t Do.” In *Beautiful Data: The Stories behind Elegant Data Solutions*, edited by Toby Segaran and Jeff Hammerbacher, 1st ed. Beijing ; Sebastopol, CA: O’Reilly, 2009.
-
 -   McCandles, David. *Information is Beautiful*. *http://www.informationisbeautiful.net*
 
--   Brew, Chris. “Language Processing: Statistical Methods.” In Encyclopedia of Language & Linguistics, edited by Keith Brown, 2nd ed., 12:597–604. Elsevier, 2006.
-
-
 ### Optional Readings
-
--   Gries, Stefan. “Useful statistics for corpus linguistics.” <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.9846&rep=rep1&type=pdf>
-
 -   Thompson, Clive. “The Surprising History of the Infographic.” <http://www.smithsonianmag.com/history/surprising-history-infographic-180959563/?no-ist>
-
 -   Moretti, Franco. “Graphs.” In *Graphs, Maps, Trees: Abstract Models for Literary History*, 3–33. London ; New York: Verso, 2007.
 ### Assignment
-
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 
@@ -377,6 +350,7 @@ In class presentations of Data Set Reviews
 # <a name="week13"></a>Week 13 (4/23): Data and Interpretive Framing:
 
 ### Readings
+- [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_13)
 #### Coding, writing, and exercises
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_12)**
 #### For discussion
