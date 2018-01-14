@@ -91,7 +91,6 @@ All other readings will either be available online and linked below or [posted o
 # <a name="week2"></a>Week 2 (1/28): Provocations
 
 ### Readings
-**[Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)**
 #### Coding and exercises
 - Montfort, chp. 1 "Introduction"; "Installation and Setup" (just read it for your information); Chp. 2 "Calculating"
 - “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
@@ -102,9 +101,8 @@ All other readings will either be available online and linked below or [posted o
 #### Optional
 - Posner, Miriam. “Humanities Data: A Necessary Contradiction.” *Miriam Posner’s Blog*, June 25, 2015. [http://miriamposner.com/blog/humanities-data-a-necessary-contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction)
 - Gallinger, M. and Daniel Chudnov "Library of Congress Lab: Library of Congress Digital Scholars Lab Pilot Project Report."
-
+**[Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)**
 ### Assignment
-
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 ##### [▸ In-class outline](week-02.md)
