@@ -90,7 +90,7 @@ All other readings will either be available online and linked below or [posted o
 
 # <a name="week2"></a>Week 2 (1/28): Provocations
 ### Readings
-
+**[in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)**
 #### Coding and exercises
 - Montfort, chp. 1 "Introduction"; "Installation and Setup" (just read it for your information); Chp. 2 "Calculating"
 - “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
@@ -102,7 +102,6 @@ All other readings will either be available online and linked below or [posted o
 - Posner, Miriam. “Humanities Data: A Necessary Contradiction.” *Miriam Posner’s Blog*, June 25, 2015. [http://miriamposner.com/blog/humanities-data-a-necessary-contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction)
 - Gallinger, M. and Daniel Chudnov "Library of Congress Lab: Library of Congress Digital Scholars Lab Pilot Project Report."
 
-**[Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)**
 
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
@@ -113,37 +112,33 @@ All other readings will either be available online and linked below or [posted o
 ----------------------------------------------------------------
 
 # <a name="week3"></a>Week 3 (2/5): Programming
-
 ### Readings
-**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_3)**
-
+**[in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_3)**
+#### Coding and exercises
 - Montfort “Why Program?” (p.267–77); Chp. 3 "Double, Double"
-
+- Allardice, Simon. “Foundations of Programming: Fundamentals, parts 1-3; part 5, just "part 5, Breaking your code apart"; and part 14, just “Python” and “Libraries and frameworks”. [http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html](http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html) [To access Lynda.com. follow links below, click “Log in,” then “Organizational Login,” and enter your UT EID and password.]
+#### For discussion
 - Introna, L. D. “The Enframing of Code: Agency, Originality and the Plagiarist.” *Theory, Culture & Society* 28, no. 6 (November 1, 2011): 113–41.
-
 - Vee, Annette. "Sociomaterialities of Programming and Writing." Coding Literacy: How Computer Programming Is Changing Writing. The MIT Press, 2017.
 
-- Allardice, Simon. “Foundations of Programming: Fundamentals, parts 1-3; part 5, just "part 5, Breaking your code apart"; and part 14, just “Python” and “Libraries and frameworks”. [http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html](http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html) [To access Lynda.com. follow links below, click “Log in,” then “Organizational Login,” and enter your UT EID and password.]
-
-
+<!--
 ### Optional
 
 -   Shieber, Stuart M., *Programming for Humanists* pages 1–28, 2014. [http://blogs.harvard.edu/programmingforhumanists/files/2014/12/proghum.pdf](http://blogs.harvard.edu/programmingforhumanists/files/2014/12/proghum.pdf)
 
-<!--
+
 -   Stephenson, Neal. “In the Beginning Was the Command Line.” Cryptonomicon, 1999. <http://www.cryptonomicon.com/beginning.html>. [TXT](http://www.cryptonomicon.com/command.zip).
--->
+
 
 -  Marini, Joe. “Up and Running with Python.” Lynda.com.
             [http://www.lynda.com/Python-tutorials/Welcome/122467/142550-4.html](http://www.lynda.com/Python-tutorials/Welcome/122467/142550-4.html)
-
+-->
 
 ### Assignment
-
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 
-##### [▸ In-class outline](week-03.md)
+### [▸ In-class outline](week-03.md)
 
 
 ----------------------------------------------------------------
@@ -151,46 +146,32 @@ All other readings will either be available online and linked below or [posted o
 # <a name="week4"></a>Week 4 (2/12): Data
 
 ### Readings
-
-**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_4)**
-
+**[in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_4)**
+#### Coding and exercises
 - Montfort chp 4. "Programming Fundamentals"; Montfort, chp. 5 "Standard Starting Points";
-
+#### For discussion
 - Borgman, chp 2 "What are Data?"
-
-- Rosenthal, "Data Before the Fact." In Gitelman, Lisa *"Raw Data" is an Oxymoron*. Cambridge: MIT Press, 2013.
-
 - Fortune, Stephen. “A Brief History of Databases.” *Avant*, February 27th 2014. [https://web.archive.org/web/20150220031213/http://avant.org/media/history-of-databases](https://web.archive.org/web/20150220031213/http://avant.org/media/history-of-databases)
-
+- Rosenthal, "Data Before the Fact." In Gitelman, Lisa *"Raw Data" is an Oxymoron*. Cambridge: MIT Press, 2013.
 ### Assignment
-
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
-##### [▸ In-class outline](week-04.md)
+### [▸ In-class outline](week-04.md)
 
 
 ----------------------------------------------------------------
 
 
 # <a name="week5"></a>Week 5 (2/19): Scholarship
-
-- Borgman chp. 3 "Data Scholarship"
-
-- Joerges, B. “Do Politics Have Artefacts?” *Social Studies of Science* 29, no. 3 (June 1, 1999): 411–31.
-
-- Sacasas, Michael. “Do Artifacts Have Ethics?” *The Frailest Thing*, November 29, 2014. [http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics](http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics/)
-
-- Winner, Langdon. “Do Artifacts Have Politics?” *Daedalus* 109, no. 1 (1980): 121–36.
-
 ### Readings
-
-**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_5)**
-
+**[in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_5)**
+#### For discussion
+- Borgman chp. 3 "Data Scholarship"
+- Joerges, B. “Do Politics Have Artefacts?” *Social Studies of Science* 29, no. 3 (June 1, 1999): 411–31.
+- Sacasas, Michael. “Do Artifacts Have Ethics?” *The Frailest Thing*, November 29, 2014. [http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics](http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics/)
+- Winner, Langdon. “Do Artifacts Have Politics?” *Daedalus* 109, no. 1 (1980): 121–36.
 ### Assignment
-
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
-
-
 <!--
 ##### [▸ In-class outline](week-05.md)
 -->
@@ -198,23 +179,20 @@ All other readings will either be available online and linked below or [posted o
 
 
 # <a name="week6"></a>Week 6 (2/26): Data Set Reviews
-
+In class presentations of Data Set Reviews
+<!--
 ### Readings
 
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_6)**
-
+-->
 
 ### Assignment
 
 [Data Set Review](https://utexas.instructure.com/courses/1216881/assignments/4249399)
 
 
-
-
-<!-- In class presentations of Data Set Reviews
-
+<!--
 ##### [▸ In-class outline](week-06.md)
-
 
 -->
 
