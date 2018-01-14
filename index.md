@@ -89,8 +89,8 @@ All other readings will either be available online and linked below or [posted o
 ----------------------------------------------------------------
 
 # <a name="week2"></a>Week 2 (1/28): Provocations
-### Readings
-[in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)
+## Readings
+[Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)
 #### Coding, writing, and exercises
 - Montfort, chp. 1 "Introduction"; "Installation and Setup" (for your information); Chp. 2 "Calculating"
 - “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
@@ -111,7 +111,7 @@ All other readings will either be available online and linked below or [posted o
 
 # <a name="week3"></a>Week 3 (2/5): Programming
 ### Readings
-**[in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_3)**
+**[Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_3)**
 #### Coding, writing, and exercises
 - Montfort “Why Program?” (p.267–77); Chp. 3 "Double, Double"
 - Allardice, Simon. “Foundations of Programming: Fundamentals, parts 1-3; part 5, just "part 5, Breaking your code apart"; and part 14, just “Python” and “Libraries and frameworks”. [http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html](http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html) [To access Lynda.com. follow links below, click “Log in,” then “Organizational Login,” and enter your UT EID and password.]
@@ -144,7 +144,7 @@ All other readings will either be available online and linked below or [posted o
 # <a name="week4"></a>Week 4 (2/12): Data
 
 ### Readings
-**[in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_4)**
+**[Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_4)**
 #### Coding, writing, and exercises
 - Montfort chp 4. "Programming Fundamentals"; Montfort, chp. 5 "Standard Starting Points";
 #### For discussion
@@ -162,7 +162,7 @@ All other readings will either be available online and linked below or [posted o
 
 # <a name="week5"></a>Week 5 (2/19): Scholarship
 ### Readings
-**[in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_5)**
+**[Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_5)**
 #### For discussion
 - Borgman chp. 3 "Data Scholarship"
 - Joerges, B. “Do Politics Have Artefacts?” *Social Studies of Science* 29, no. 3 (June 1, 1999): 411–31.
@@ -199,7 +199,7 @@ In class presentations of Data Set Reviews
 # <a name="week7"></a>Week 7 (3/5): Data and Interpretive Framing: Audience
 
 ### Readings
-**[in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_7)**
+**[Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_7)**
 #### Coding, writing, and exercises
 - Montfort chp. 6 "Text I"
 - Final project directory: Booth chp. 2 "Connecting with your Reader"
