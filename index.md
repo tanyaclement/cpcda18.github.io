@@ -90,9 +90,9 @@ All other readings will either be available online and linked below or [posted o
 
 # <a name="week2"></a>Week 2 (1/28): Provocations
 ### Readings
-**[in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)**
+[in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)
 #### Coding, writing, and exercises
-- Montfort, chp. 1 "Introduction"; "Installation and Setup" (just read it for your information); Chp. 2 "Calculating"
+- Montfort, chp. 1 "Introduction"; "Installation and Setup" (for your information); Chp. 2 "Calculating"
 - “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
 #### For discussion
 - Borgman chp. 1 "Provocations"
@@ -286,12 +286,11 @@ In class presentations of Data Set Reviews
 
 
 # <a name="week10"></a>Week 10 (4/2): Data and Interpretive Framing: Theory
-
 ### Readings
 **[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_10)**
 #### Coding, writing, and exercises
-- Final project directory: Booth chp. 3 "From Topics to Questions" and chp. 4 "From Questions to a Problem"
 - Montfort chp. 9 "Image II"
+- Final project directory: Booth chp. 3 "From Topics to Questions" and chp. 4 "From Questions to a Problem"
 #### For discussion
 - Hitchcock, Tim. “Digital Searching and the Re-formulation of Historical Knowledge” 2008. In *The Virtual Representation of the Past*, edited by Mark Greenglass and Lorna Hughes, 81-90. Ashgate: 2008.
 - Ramsay, Stephen. “Chapter 1: An Algorithmic Criticism.” In *Reading Machines: Toward an Algorithmic Criticism*, 1–17. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2011.
