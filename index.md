@@ -103,6 +103,7 @@ lauren klein
 #### Optional
 - Posner, Miriam. “Humanities Data: A Necessary Contradiction.” *Miriam Posner’s Blog*, June 25, 2015. [http://miriamposner.com/blog/humanities-data-a-necessary-contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction)
 - Gallinger, M. and Daniel Chudnov "Library of Congress Lab: Library of Congress Digital Scholars Lab Pilot Project Report."
+
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
