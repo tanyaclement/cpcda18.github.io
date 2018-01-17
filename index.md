@@ -93,16 +93,16 @@ All other readings will either be available online and linked below or [posted o
 #### Coding, writing, and exercises
 - Montfort, chp. 1 "Introduction"; "Installation and Setup" (for your information); chp. 2 "Calculating"
 - “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
-- [Booth][https://utexas.instructure.com/courses/1216881/files/folder/FinalProject], chp. 3 "From Topics to Questions".
+- [Booth](https://utexas.instructure.com/courses/1216881/files/folder/FinalProject), chp. 3 "From Topics to Questions".
 #### For discussion
 - Borgman chp. 1 "Provocations"
+- Marche, Stephen. “Literature Is not Data: Against Digital Humanities.” *Los Angeles Review of Books*, October 28th, 2012.
+                      [https://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities](https://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities)
+- Padilla, T. ["On a Collections as Data Imperative."](http://digitalpreservation.gov/meetings/dcs16/tpadilla_OnaCollectionsasDataImperative_final.pdf).
 - Read in order:
 1. Manovich,  Lev.  2008. [“The Next Big Thing in Humanities, Arts, and Social Science Computing: Cultural Analytics”](https://www.hpcwire.com/2008/07/29/the_next_big_thing_in_humanities_arts_and_social_science_computing_cultural_analytics/). HPC Wire, July 29.
 2. Manovich,  Lev. 2009. [“Cultural Analytics: Visualizing Cultural Patterns in the Era of ‘More Media.’""](http://manovich.net/content/04-projects/063-cultural-analytics-visualizing-cultural-patterns/60_article_2009.pdf) Software Studies Initiative [website](http://lab.softwarestudies.com/)).
 3. Hall, Gary. “Toward a Postdigital Humanities: Cultural Analytics and the Computational Turn to Data-Driven Scholarship.” *American Literature* 85, no. 4 (January 1, 2013): 781–809.
-- Marche, Stephen. “Literature Is not Data: Against Digital Humanities.” *Los Angeles Review of Books*, October 28th, 2012.
-                      [https://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities](https://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities)
-- Padilla, T. ["On a Collections as Data Imperative."](http://digitalpreservation.gov/meetings/dcs16/tpadilla_OnaCollectionsasDataImperative_final.pdf).
 
 #### Optional
 - Posner, Miriam. “Humanities Data: A Necessary Contradiction.” *Miriam Posner’s Blog*, June 25, 2015. [http://miriamposner.com/blog/humanities-data-a-necessary-contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction)
@@ -126,19 +126,8 @@ All other readings will either be available online and linked below or [posted o
 - Introna, L. D. “The Enframing of Code: Agency, Originality and the Plagiarist.” *Theory, Culture & Society* 28, no. 6 (November 1, 2011): 113–41.
 - Montfort “Why Program?” (p.267–77)
 - Vee, Annette. "Sociomaterialities of Programming and Writing." Coding Literacy: How Computer Programming Is Changing Writing. The MIT Press, 2017.
+- Shieber, Stuart M., [*Programming for Humanists*](http://blogs.harvard.edu/programmingforhumanists/files/2014/12/proghum.pdf) pages 1–4, 2014. [http://blogs.harvard.edu/programmingforhumanists/files/2014/12/proghum.pdf]
 
-<!--
-### Optional
-
--   Shieber, Stuart M., *Programming for Humanists* pages 1–28, 2014. [http://blogs.harvard.edu/programmingforhumanists/files/2014/12/proghum.pdf](http://blogs.harvard.edu/programmingforhumanists/files/2014/12/proghum.pdf)
-
-
--   Stephenson, Neal. “In the Beginning Was the Command Line.” Cryptonomicon, 1999. <http://www.cryptonomicon.com/beginning.html>. [TXT](http://www.cryptonomicon.com/command.zip).
-
-
--  Marini, Joe. “Up and Running with Python.” Lynda.com.
-            [http://www.lynda.com/Python-tutorials/Welcome/122467/142550-4.html](http://www.lynda.com/Python-tutorials/Welcome/122467/142550-4.html)
--->
 
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
@@ -174,11 +163,11 @@ All other readings will either be available online and linked below or [posted o
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_5)
 #### For discussion
 - Borgman chp. 3 "Data Scholarship"
+- Liu. [“Drafts for Against the Cultural Singularity”](http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity/) Alan Liu. 2 May 2016.
 - Read in order:
 1. Winner, Langdon. “Do Artifacts Have Politics?” *Daedalus* 109, no. 1 (1980): 121–36.
 2. Joerges, B. “Do Politics Have Artefacts?” *Social Studies of Science* 29, no. 3 (June 1, 1999): 411–31.
 3. Sacasas, Michael. “Do Artifacts Have Ethics?” *The Frailest Thing*, November 29, 2014. [http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics](http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics/)
-- Liu. [“Drafts for Against the Cultural Singularity”](http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity/) Alan Liu. 2 May 2016.
 
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
@@ -203,7 +192,6 @@ In class presentations of Data Set Reviews
 - Montfort chp. 6 "Text I"
 - Albon, Chris. “String Operations.” [http://chrisalbon.com/python/string_operations.html](http://chrisalbon.com/python/string_operations.html)
 - [“HTML Introduction”](http://www.w3schools.com/html/html_intro.asp) and [“HTML5 Introduction”](http://www.w3schools.com/html/html5_intro.asp), W3Schools.
-
 #### For discussion
 - Hitchcock, Tim. “Digital Searching and the Re-formulation of Historical Knowledge” 2008. In *The Virtual Representation of the Past*, edited by Mark Greenglass and Lorna Hughes, 81-90. Ashgate: 2008.
 - Liu, Alan. “The Meaning of the Digital Humanities.” *PMLA* 128, no. 2 (March 2013): 409–23.
@@ -373,7 +361,9 @@ In class presentations of Data Set Reviews
 ----------------------------------------------------------------
 # Additional resources:
 **[Installation Tutorials](tutorials/)**
-[Jeroen Janssens Seven Command Line Tools for Data Science (2013) workbench.](https://hub.docker.com/r/wlanderson/dsatclwb/)
-Juola, P. and Ramsay, S. [Six Septembers: Mathematics for the Humanist](http://digitalcommons.unl.edu/zeabook/55/). Zea E-Books.
-Karsdorp, Folgert. [Python Programming for the Humanities](http://www.karsdorp.io/python-course/)
-Williamson, Evan Peter. [Fetching and Parsing Data from the Web with OpenRefine](https://programminghistorian.org/lessons/fetch-and-parse-data-with-openrefine#start-sonnets-project)
+- [Jeroen Janssens Seven Command Line Tools for Data Science (2013) workbench.](https://hub.docker.com/r/wlanderson/dsatclwb/)
+- Juola, P. and Ramsay, S. [Six Septembers: Mathematics for the Humanist](http://digitalcommons.unl.edu/zeabook/55/). Zea E-Books.
+- Karsdorp, Folgert. [Python Programming for the Humanities](http://www.karsdorp.io/python-course/)
+- Marini, Joe. [“Up and Running with Python.”](http://www.lynda.com/Python-tutorials/Welcome/122467/142550-4.html) Lynda.com.
+- Shieber, Stuart M., [*Programming for Humanists*](http://blogs.harvard.edu/programmingforhumanists/files/2014/12/proghum.pdf) pages 1–4, 2014. [http://blogs.harvard.edu/programmingforhumanists/files/2014/12/proghum.pdf]
+- Williamson, Evan Peter. [Fetching and Parsing Data from the Web with OpenRefine](https://programminghistorian.org/lessons/fetch-and-parse-data-with-openrefine#start-sonnets-project)
