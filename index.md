@@ -70,9 +70,9 @@ All other readings will either be available online and linked below or [posted o
 ### [Final Project: Critical Data Analysis Research Paper (40%)](https://utexas.instructure.com/courses/1216881/assignments/4240878)
 
 ----------------------------------------------------------------
+# I. Cultural Data Analysis
 
-
-# <a name="week1"></a>Week 1 (1/22): Introduction to Cultural Data Analysis
+## <a name="week1"></a>Week 1 (1/22): Introduction to Cultural Data Analysis
 
 ### Readings
 
@@ -83,11 +83,11 @@ All other readings will either be available online and linked below or [posted o
 - Bod, Rens. "Introduction: the Quest for Principles and Patterns." A New History of the Humanities: The Search for Principles and Patterns from Antiquity to the Present. Oxford University Press, 2013, pp. 1 - 12. *Note: You must be logged in as a UT student to retrieve this text*: [http://catalog.lib.utexas.edu/record=b8902003~S29](http://catalog.lib.utexas.edu/record=b8902003~S29)
 
 
-##### [▸ In-class outline](week-01.md)
+#### [▸ In-class outline](week-01.md)
 
 ----------------------------------------------------------------
 
-# <a name="week2"></a>Week 2 (1/28): Provocations
+## <a name="week2"></a>Week 2 (1/28): Provocations
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)
 #### Coding, writing, and exercises
@@ -111,12 +111,12 @@ All other readings will either be available online and linked below or [posted o
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
-### [▸ In-class outline](week-02.md)
+#### [▸ In-class outline](week-02.md)
 
 
 ----------------------------------------------------------------
 
-# <a name="week3"></a>Week 3 (2/5): Programming
+## <a name="week3"></a>Week 3 (2/5): Programming
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_3)
 #### Coding, writing, and exercises
@@ -124,7 +124,7 @@ All other readings will either be available online and linked below or [posted o
 - Allardice, Simon. “Foundations of Programming: Fundamentals, parts 1-3; part 5, just "part 5, Breaking your code apart"; and part 14, just “Python” and “Libraries and frameworks”. [http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html](http://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html) [To access Lynda.com. follow links below, click “Log in,” then “Organizational Login,” and enter your UT EID and password.]
 #### For discussion
 - Introna, L. D. “The Enframing of Code: Agency, Originality and the Plagiarist.” *Theory, Culture & Society* 28, no. 6 (November 1, 2011): 113–41.
-- Montfort “Why Program?” (p.267–77);
+- Montfort “Why Program?” (p.267–77)
 - Vee, Annette. "Sociomaterialities of Programming and Writing." Coding Literacy: How Computer Programming Is Changing Writing. The MIT Press, 2017.
 
 <!--
@@ -144,12 +144,12 @@ All other readings will either be available online and linked below or [posted o
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 
-### [▸ In-class outline](week-03.md)
+#### [▸ In-class outline](week-03.md)
 
 
 ----------------------------------------------------------------
 
-# <a name="week4"></a>Week 4 (2/12): Data
+## <a name="week4"></a>Week 4 (2/12): Data
 
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_4)
@@ -163,13 +163,13 @@ All other readings will either be available online and linked below or [posted o
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
-### [▸ In-class outline](week-04.md)
+#### [▸ In-class outline](week-04.md)
 
 
 ----------------------------------------------------------------
 
 
-# <a name="week5"></a>Week 5 (2/19): Scholarship
+## <a name="week5"></a>Week 5 (2/19): Scholarship
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_5)
 #### For discussion
@@ -182,36 +182,28 @@ All other readings will either be available online and linked below or [posted o
 
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
-<!--
-##### [▸ In-class outline](week-05.md)
--->
+
+
 ----------------------------------------------------------------
 
 
-# <a name="week6"></a>Week 6 (2/26): Data Set Reviews
+## <a name="week6"></a>Week 6 (2/26): Data Set Reviews
 In class presentations of Data Set Reviews
-### Readings
-- [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/)
+
 ### Assignment
 [Data Set Review](https://utexas.instructure.com/courses/1216881/assignments/4249399)
 
-
-<!--
-##### [▸ In-class outline](week-06.md)
--->
-
 ----------------------------------------------------------------
-
-# <a name="week7"></a>Week 7 (3/5): Data and Interpretive Framing: Audience
+# II. Interpretive Framing with Data
+## <a name="week7"></a>Week 7 (3/5): Audience
 
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_7)
 #### Coding, writing, and exercises
 - Montfort chp. 6 "Text I"
 - Albon, Chris. “String Operations.” [http://chrisalbon.com/python/string_operations.html](http://chrisalbon.com/python/string_operations.html)
-- “HTML Introduction” and “HTML5 Introduction.” W3Schools.
-    - [http://www.w3schools.com/html/html_intro.asp](http://www.w3schools.com/html/html_intro.asp)
-    - [http://www.w3schools.com/html/html5_intro.asp](http://www.w3schools.com/html/html5_intro.asp)
+- [“HTML Introduction”](http://www.w3schools.com/html/html_intro.asp) and [“HTML5 Introduction”](http://www.w3schools.com/html/html5_intro.asp), W3Schools.
+
 #### For discussion
 - Hitchcock, Tim. “Digital Searching and the Re-formulation of Historical Knowledge” 2008. In *The Virtual Representation of the Past*, edited by Mark Greenglass and Lorna Hughes, 81-90. Ashgate: 2008.
 - Liu, Alan. “The Meaning of the Digital Humanities.” *PMLA* 128, no. 2 (March 2013): 409–23.
@@ -224,12 +216,12 @@ In class presentations of Data Set Reviews
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
-##### [▸ In-class outline](week-07.md)
+#### [▸ In-class outline](week-07.md)
 
 ----------------------------------------------------------------
 # SPRING BREAK (3/12)
 
-# <a name="week8"></a>Week 8 (3/19): Data and Interpretive Framing: Data Models
+## <a name="week8"></a>Week 8 (3/19): Data Models
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_8)
 #### Coding, writing, and exercises
@@ -238,6 +230,7 @@ In class presentations of Data Set Reviews
 #### For discussion
 - Borgman chp. 4 "Data Diversity"
 - van Hooland, Seth, and Ruben Verborgh. “Modelling.” In *Linked Data for Libraries, Archives and Museums: How to Clean, Link and Publish Your Metadata*, 11–70. Chicago: Neal-Schuman, 2014.
+- Swartz, Aaron. “Building a Platform: Providing APIs.” In *Aaron Swartz’s ‘A Programmable Web’: An Unfinished Work*, 31–39. San Rafael, CA: Morgan & Claypool Publishers, 2013.
 ### Optional Readings
 -   Code of Best Practices in Fair Use for Academic and Research Libraries*. Association of Research Libraries, 2012*. [http://www.arl.org/storage/documents/publications/code-of-best-practices-fair-use.pdf](http://www.arl.org/storage/documents/publications/code-of-best-practices-fair-use.pdf)
 -   “The Digital Public Library of America Policy Statement on Metadata,” 2013. [http://dp.la/info/wp-content/uploads/2013/04/DPLAMetadataPolicy.pdf](http://dp.la/info/wp-content/uploads/2013/04/DPLAMetadataPolicy.pdf)
@@ -248,10 +241,10 @@ In class presentations of Data Set Reviews
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
-##### [▸ In-class outline](week-08.md)
+#### [▸ In-class outline](week-08.md)
 
 ----------------------------------------------------------------
-# <a name="week9"></a>Week 9 (3/26): Data and Interpretive Framing: Open Access
+## <a name="week9"></a>Week 9 (3/26): Open Access
 
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_9)
@@ -260,7 +253,6 @@ In class presentations of Data Set Reviews
 #### For discussion
 - Christen, Kim. “Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness.” International Journal of Communication 6 (2012), 2870–2893.
 - Peters, Justin. *The Idealist: Aaron Swartz and the Rise of Free Culture on the Internet*, Chapters 7 and 8. New York: Scribner, 2016.
-- Swartz, Aaron. “Building a Platform: Providing APIs.” In *Aaron Swartz’s ‘A Programmable Web’: An Unfinished Work*, 31–39. San Rafael, CA: Morgan & Claypool Publishers, 2013.
 - O’Sullivan, Michael. “Aaron Swartz, New Technologies, and the Myth of Open Access.” In *Academic Barbarism, Universities and Inequality*. Palgrave Critical University Studies. Houndmills, Basingstoke, Hampshire ; New York, NY: Palgrave Macmillan, 2016.
 - Kelly, Chelsea Emelie. “Beyond Digital: Open Collections & Cultural Institutions,” 2014.  [https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions](https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions)
 
@@ -272,13 +264,13 @@ In class presentations of Data Set Reviews
 ### Assignment
 [Due: Proposal](https://utexas.instructure.com/courses/1216881/assignments/4166696)
 
-##### [▸ In-class outline](week-09.md)
+#### [▸ In-class outline](week-09.md)
 
 
 ----------------------------------------------------------------
 
 
-# <a name="week10"></a>Week 10 (4/2): Data and Interpretive Framing: Theory
+## <a name="week10"></a>Week 10 (4/2): Theory
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_10)
 #### Coding, writing, and exercises
@@ -292,11 +284,11 @@ In class presentations of Data Set Reviews
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
-##### [▸ In-class outline](week-10.md)
+#### [▸ In-class outline](week-10.md)
 
 ----------------------------------------------------------------
 
-# <a name="week11"></a>Week 11 (4/9): Data and Interpretive Framing: Methods
+## <a name="week11"></a>Week 11 (4/9): Methods
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_11)
 #### Coding, writing, and exercises
@@ -322,13 +314,12 @@ In class presentations of Data Set Reviews
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
-##### [▸ In-class outline](week-11.md)
+#### [▸ In-class outline](week-11.md)
 
 
 ----------------------------------------------------------------
 
-# <a name="week12"></a>Week 12 (4/16): Data and Interpretive Framing: Statistics and Visualization
-
+## <a name="week12"></a>Week 12 (4/16): Statistics and Visualization
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_12)
 #### Coding, writing, and exercises
@@ -350,13 +341,11 @@ In class presentations of Data Set Reviews
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
-
-##### [▸ In-class outline](week-13.md)
+#### [▸ In-class outline](week-13.md)
 
 ----------------------------------------------------------------
 
-# <a name="week13"></a>Week 13 (4/23): Data and Interpretive Framing: features
-
+## <a name="week13"></a>Week 13 (4/23): Features
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_13)
 #### Coding, writing, and exercises
@@ -370,12 +359,12 @@ In class presentations of Data Set Reviews
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
-##### [▸ In-class outline](week-12.md)
+#### [▸ In-class outline](week-12.md)
 
 
 ----------------------------------------------------------------
 
-# <a name="week14"></a>Week 14 (4/30): Final Presentations
+## <a name="week14"></a>Week 14 (4/30): Final Presentations
 
 [Final Presentation due](https://utexas.instructure.com/courses/1216881/assignments/4166564)
 
