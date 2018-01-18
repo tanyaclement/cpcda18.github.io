@@ -1,25 +1,8 @@
 ## Week 6
 
-
-
-
 ### Objectives
 [Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
 
-#### Conditions
-* conditions
-* indentation
-* if
-* elif
-* else
-* True
-* False
-* empty objects are false
-* not
-* in
-* and
-* or
-* multiple conditions
 
 Open Terminal in macOS and launch our Docker container:
 

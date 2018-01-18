@@ -48,7 +48,6 @@ docker run --name pcda_ubuntu -ti -p 8889:8889 --volume C:\Users\***username_her
 Open any browser and type (your Juypter Notebook will launch):
 ```
 localhost:8889
-
 ```
 <!--
 #### Working with JSON

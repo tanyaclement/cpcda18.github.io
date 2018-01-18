@@ -1,5 +1,8 @@
 ## Week 8: Text II
 ###Objectives
+<!--
+Look at Python cookbook chapter 6 in week 8 files on Canvas.
+-->
 Right click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
 [Karsdorp, Chapter 3:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%203%20-%20Text%20analysis.ipynb)
 - Sentence tokenization
@@ -49,6 +52,8 @@ Enter the following address in your browser’s URL bar to open the application.
 
 
 <!--
+Look at Python cookbook chapter 6 in week 8 files on Canvas.
+
 Click `Create Project`, then `Choose Files` and choose `V_and_A_ivory.csv`. Click `Next`. In the following window, click `Create Project` in the upper right corner.
 
 At the top of the “place” column, click the dropdown button and choose “Text Facet.” A list of places will appear in the left column. Click “Paris” to display only works created there.

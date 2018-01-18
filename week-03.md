@@ -34,6 +34,12 @@ docker rm -f pcda_ubuntu
 docker pull pcda17/ubuntu-container
 docker run --name pcda_ubuntu -ti -p 8889:8889 --volume C:\Users\***username_here***\Desktop\sharedfolder:/sharedfolder/ pcda17/ubuntu-container
 ```
+
+Open any browser and type (your Juypter Notebook will launch):
+```
+localhost:8889
+
+```
 <!--
 
 #### CSV I/O in Python

@@ -93,7 +93,8 @@ All other readings will either be available online and linked below or [posted o
 #### Coding, writing, and exercises
 - Montfort, chp. 1 "Introduction"; "Installation and Setup" (for your information); chp. 2 "Calculating"
 - “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
-- [Booth](https://utexas.instructure.com/courses/1216881/files/folder/FinalProject), chp. 3 "From Topics to Questions".
+- Booth, Wayne C., et al., chp. 3 "From Topics to Questions". [*The Craft of Research*](https://utexas.instructure.com/courses/1216881/files/folder/FinalProject), Third Ed. University Of Chicago Press, 2008.
+
 #### For discussion
 - Borgman chp. 1 "Provocations"
 - Marche, Stephen. “Literature Is not Data: Against Digital Humanities.” *Los Angeles Review of Books*, October 28th, 2012.
@@ -185,7 +186,6 @@ In class presentations of Data Set Reviews
 ----------------------------------------------------------------
 # II. Interpretive Framing with Data
 ## <a name="week7"></a>Week 7 (3/5): Audience
-
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_7)
 #### Coding, writing, and exercises
@@ -198,8 +198,7 @@ In class presentations of Data Set Reviews
 - Pound, Scott. “Kenneth Goldsmith and the Poetics of Information.” PMLA, vol. 130, no. 2, Mar. 2015, pp. 315–30.
 - Neff, Gina, Tanweer, Anissa, Fiore-Gartland, Brittany, Osburn, Laura  Critique and Contribute: A Practice-Based Framework for Improving Critical Data Studies and Data Science. *Big Data* 5, no. 2, 2017.
 ### Optional Readings
-- Greenwald, Glenn. “Chapter 1: Contact.” In *No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State*, 2015.
-- American Civil Liberties Union. "First Amendment Lawsuit Brought on Behalf of Academic Researchers and Journalists Who Fear Prosecution Under the Computer Fraud and Abuse Act." [https://www.aclu.org/news/aclu-challenges-law-preventing-studies-big-data-discrimination](https://www.aclu.org/news/aclu-challenges-law-preventing-studies-big-data-discrimination)
+
 
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
@@ -247,6 +246,8 @@ In class presentations of Data Set Reviews
 ### Optional Readings
 - Sims, Nancy. “Library Licensing and Criminal Law: The Aaron Swartz Case.” *College & Research Libraries News* 72, no. 9 (2011): 534–37. [http://crln.acrl.org/content/72/9/534.short](http://crln.acrl.org/content/72/9/534.short).
 - Day, Ronald E. “Governing Expression: Social Big Data and Neoliberalism.” In *Indexing It All: The Subject in the Age of Documentation*, Information, and Data, 123–44. History and Foundations of Information Science. Cambridge, Massachusetts: The MIT Press, 2014.
+- Greenwald, Glenn. “Chapter 1: Contact.” In *No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State*, 2015.
+- American Civil Liberties Union. "First Amendment Lawsuit Brought on Behalf of Academic Researchers and Journalists Who Fear Prosecution Under the Computer Fraud and Abuse Act." [https://www.aclu.org/news/aclu-challenges-law-preventing-studies-big-data-discrimination](https://www.aclu.org/news/aclu-challenges-law-preventing-studies-big-data-discrimination)
 - Sanger, David E., and Eric Schmitt. “Snowden Used Low-Cost Tool to Best N.S.A.” The New York Times. February 8, 2014. [http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html](http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html)
 
 ### Assignment
@@ -265,9 +266,13 @@ In class presentations of Data Set Reviews
 - Montfort chp. 9 "Image II"
 - Final project directory: Booth chp. 4 "From Questions to a Problem"
 #### For discussion
+- Conley, Tara L. "Decoding Black Feminist Hashtags as Becoming" The Black Scholar Vol. 47 , Iss. 3, 2017.
 - Klein, Lauren. ["Distant Reading after Moretti"](http://lklein.com/2018/01/distant-reading-after-moretti/). MLA Conference, January 2018.
 - Ramsay, Stephen. “Chapter 1: An Algorithmic Criticism.” In *Reading Machines: Toward an Algorithmic Criticism*, 1–17. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2011.
+- Underwood, T. ["Theorizing Research Practices We Forgot to Theorize Twenty Years Ago"](https://www.ideals.illinois.edu/bitstream/handle/2142/48906/theorizing.pdf?sequence=2). *Representations*, Vol. 127 No. 1, Summer 2014; (pp. 64-72).
+<!--
 - Freelon, Deen Goodwin, Charlton D. McIlwain, and Meredith D. Clark. “Beyond the Hashtags: #Ferguson, #Blacklivesmatter, and the Online Struggle for Offline Justice,” 2016. [http://cmsimpact.org/wp-content/uploads/2016/03/beyond_the_hashtags_2016.pdf](http://cmsimpact.org/wp-content/uploads/2016/03/beyond_the_hashtags_2016.pdf)
+-->
 
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
@@ -281,23 +286,20 @@ In class presentations of Data Set Reviews
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_11)
 #### Coding, writing, and exercises
 - Montfort chp. 10 "Text III"
-- Kazil, Jacqueline, and Katharine Jarmul. “PDFs and Problem Solving in Python.” In *Data Wrangling with Python: Tips and Tools to Make Your Life Easier*, 91–126. O’Reilly, 2016.
-- Albon, Chris. “Parse JSON File.” [http://chrisalbon.com/python/json_parse_file.html](https://github.com/chrisalbon/code_py/blob/master/json_parse_file.ipynb)
-- Lundh, Fredrik. “Elements and Element Trees.” [http://effbot.org/zone/element.htm](http://effbot.org/zone/element.htm) [Python XML tutorial]
-- Beazley, David, and Brian K. Jones. “Chapter 6: Data Encoding and Processing.” In Python Cookbook: *recipes for Mastering Python 3*, 3. ed., 175–216. Bejing: O’Reilly, 2013.
 - “Working With Text Data.” scikit-learn. [http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
-- Baharudin, Baharum, Lam Hong Lee, and Khairullah Khan. “A Review of Machine Learning Algorithms for Text-Documents Classification.” *Journal of Advances in Information Technology* 1, no. 1 (February 1, 2010).
-- Wolfram, S. Machine Learning for Middle Schoolers. Stephen Wolfram Blog. 11 May 2017. [http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments](http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments)
+- Khan, Khairullah, Baharudin, Baharum, Lam Hong Lee. “A Review of Machine Learning Algorithms for Text-Documents Classification.” *Journal of Advances in Information Technology* 1, no. 1 (February 1, 2010).
 - Norvig, Peter. “Natural Language Corpus Data.” In *Beautiful Data: The Stories Behind Elegant Data Solutions*, edited by Toby Segaran and Jeff Hammerbacher, 1st ed. Beijing ; Sebastopol, CA: O’Reilly, 2009.
+- Wolfram, S. Machine Learning for Middle Schoolers. Stephen Wolfram Blog. 11 May 2017. [http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments](http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments)
 #### For discussion
-- Schmidt, B. "Do Digital Humanists Need to Understand Algorithms? <http://dhdebates.gc.cuny.edu/debates/text/99>
-- Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingdom of Knowledge.” New Literary History 47 (2): 353–75.
+- Schmidt, B. ["Do Digital Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99).
+- Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingdom of Knowledge.” *New Literary History* 47 (2): 353–75.
 “Textual Analysis.”
-- Underwood, Ted. A Genealogy of Distant Reading *Digital Humanities Quarterly* Volume 11, Number 2, 2017.
+- Underwood, Ted. ["A Genealogy of Distant Reading"](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html). *Digital Humanities Quarterly* Volume 11, Number 2, 2017.
 
 ### Optional Reading
+- Borgman chp. 7
 - Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica. “Machine Bias.” *ProPublica*. May 23, 2016. [https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
-- Berendt, Bettina, Preibusch, Soren. Toward Accountable Discrimination-Aware Data Mining: The Importance of Keeping the Human in the Loop—and Under the Looking Glass.Big DataVolume 5, Number 2, 2017.
+- Berendt, Bettina, Preibusch, Soren. Toward Accountable Discrimination-Aware Data Mining: The Importance of Keeping the Human in the Loop—and Under the Looking Glass. *Big Data*. Volume 5, Number 2, 2017.
 
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
@@ -313,13 +315,13 @@ In class presentations of Data Set Reviews
 #### Coding, writing, and exercises
 - Montfort chp. 11 “Statistics and Visualization.”
 - Brew, Chris. “Language Processing: Statistical Methods.” In Encyclopedia of Language & Linguistics, edited by Keith Brown, 2nd ed., 12:597–604. Elsevier, 2006.
-- Gries, Stefan. “Useful statistics for corpus linguistics.” <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.9846&rep=rep1&type=pdf>
+- Gries, Stefan. [“Useful statistics for corpus linguistics.”](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.9846&rep=rep1&type=pdf).
 - McCandles, David. *Information is Beautiful*. *http://www.informationisbeautiful.net*
 #### For discussion
 - Burrows, John. [“Textual Analysis.”](http://digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&doc.view=print&chunk.id=ss1-4-4&toc.depth=1&toc.id=0) In Companion to Digital Humanities, edited by Susan Schreibman, Ray Siemens, and John Unsworth.
 - Catherine D’Ignazio and Lauren F. Klein, [“Feminist Data Visualization”](http://www.kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf) IEEE VIS Conference, Baltimore, October, 23-28, 2016. 7, 2016
 - Lev Manovich. ["Cultural Data Possibilities and limitations of the digital data universe"](http://manovich.net/content/04-projects/102-cultural-data/cultural_data_article.pdf). Oliver Grau, ed., with Wendy Coones and Viola Rühse, Museum and Archive on the Move. Changing Cultural Institutions in the Digital Era (Berlin, Boston: De Gruyter, 2017), 259-276.
-- Underwood, T. ["Theorizing Research Practices We Forgot to Theorize Twenty Years Ago"](https://www.ideals.illinois.edu/bitstream/handle/2142/48906/theorizing.pdf?sequence=2). *Representations*, Vol. 127 No. 1, Summer 2014; (pp. 64-72). or GEANEALOGY?
+
 ### Optional Readings
 - Thompson, Clive. “The Surprising History of the Infographic.” <http://www.smithsonianmag.com/history/surprising-history-infographic-180959563/?no-ist>
 - Manovich, Lev. “What Is Visualisation?” *Visual Studies* 26, no. 1 (March 15, 2011): 36–49. <http://www.tandfonline.com/doi/abs/10.1080/1472586X.2011.548488>.
@@ -337,9 +339,12 @@ In class presentations of Data Set Reviews
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_13)
 #### Coding, writing, and exercises
-**[Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_12)**
+- Kazil, Jacqueline, and Katharine Jarmul. “PDFs and Problem Solving in Python.” In *Data Wrangling with Python: Tips and Tools to Make Your Life Easier*, 91–126. O’Reilly, 2016.
+- Albon, Chris. “Parse JSON File.” [http://chrisalbon.com/python/json_parse_file.html](https://github.com/chrisalbon/code_py/blob/master/json_parse_file.ipynb)
+- Lundh, Fredrik. “Elements and Element Trees.” [http://effbot.org/zone/element.htm](http://effbot.org/zone/element.htm) [Python XML tutorial]
+- Beazley, David, and Brian K. Jones. “Chapter 6: Data Encoding and Processing.” In Python Cookbook: *recipes for Mastering Python 3*, 3. ed., 175–216. Bejing: O’Reilly, 2013.
 #### For discussion
-- Clement, T. and McLaughlin, S. “Measured Applause: Toward a Cultural Analysis of Audio Collections.” Cultural Analytics, vol. 1, no. 1, 2016. [http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/](http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/)
+- Clement, T. and McLaughlin, S. [“Measured Applause: Toward a Cultural Analysis of Audio Collections.”](http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/) *Cultural Analytics*, vol. 1, no. 1, 2016.
 - Seaver, Nick ["Algorithms as culture: Some tactics for the ethnography of algorithmic systems"](http://journals.sagepub.com/doi/10.1177/2053951717738104) Big Data and Society. 9 Nov. 2017
 - Hammond, Adam. "The double bind of validation: distant reading and the digital humanities' 'trough of disillusionment." *Literature Compass* 14, no. 8 (August 1, 2017): no. pg.
 - Jockers, Matthew Lee. “Chapter 8: Theme.” In *Macroanalysis: Digital Methods and Literary History*, 118–53. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2013.
