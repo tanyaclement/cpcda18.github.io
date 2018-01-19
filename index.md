@@ -64,8 +64,8 @@ All other readings will either be available online and linked below or [posted o
 
 ## Assignments
 ### [Class Attendance and Participation (10%)](https://utexas.instructure.com/courses/1216881/assignments/4276538)
-### [Discussion Lead (5%)](https://utexas.instructure.com/courses/1216881/assignments/4276501)
-### [Weekly Discussion Posts (30%)](https://utexas.instructure.com/courses/1216881/assignments/4240876)
+### [Discussion Lead (10%)](https://utexas.instructure.com/courses/1216881/assignments/4276501)
+### [Weekly Discussion Posts (25%)](https://utexas.instructure.com/courses/1216881/assignments/4240876)
 ### [Data Set Review (15%)](http://culturalanalytics.org/2017/10/introducing-data-sets-a-new-section/)
 ### [Final Project: Critical Data Analysis Research Paper (40%)](https://utexas.instructure.com/courses/1216881/assignments/4240878)
 
@@ -195,7 +195,7 @@ In class presentations of Data Set Reviews
 - Borgman chp. 4 "Data Diversity"
 - Hitchcock, Tim. “Digital Searching and the Re-formulation of Historical Knowledge” 2008. In *The Virtual Representation of the Past*, edited by Mark Greenglass and Lorna Hughes, 81-90. Ashgate: 2008.
 - Pound, Scott. “Kenneth Goldsmith and the Poetics of Information.” PMLA, vol. 130, no. 2, Mar. 2015, pp. 315–30.
-### Optional Readings
+### Optional
 - Liu, Alan. “The Meaning of the Digital Humanities.” *PMLA* 128, no. 2 (March 2013): 409–23.
 - Neff, Gina, Tanweer, Anissa, Fiore-Gartland, Brittany, Osburn, Laura  Critique and Contribute: A Practice-Based Framework for Improving Critical Data Studies and Data Science. *Big Data* 5, no. 2, 2017.
 
@@ -216,7 +216,7 @@ In class presentations of Data Set Reviews
 #### For discussion
 - van Hooland, Seth, and Ruben Verborgh. “Modelling.” In *Linked Data for Libraries, Archives and Museums: How to Clean, Link and Publish Your Metadata*, 11–70. Chicago: Neal-Schuman, 2014.
 - Swartz, Aaron. “Building a Platform: Providing APIs.” In *Aaron Swartz’s ‘A Programmable Web’: An Unfinished Work*, 31–39. San Rafael, CA: Morgan & Claypool Publishers, 2013.
-#### Optional Readings
+#### Optional
 - Manzo, Christina, Geoff Kaufman, Sukdith Punjasthitkul, and Mary Flanagan. “‘By the People, For the People’: Assessing the Value of Crowdsourced, User-Generated Metadata.” *Digital Humanities Quarterly* 9, no. 1 (2015). [http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html](http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html)
 - Pomerantz, Jeffrey. “The Future of Metadata.” In *Metadata*. The MIT Press Essential Knowledge Series. Cambridge, MA ; London, England: The MIT Press, 2015.
 ### Assignment
@@ -236,7 +236,7 @@ In class presentations of Data Set Reviews
 - Peters, Justin. *The Idealist: Aaron Swartz and the Rise of Free Culture on the Internet*, Chapters 7 and 8. New York: Scribner, 2016.
 - O’Sullivan, Michael. “Aaron Swartz, New Technologies, and the Myth of Open Access.” In *Academic Barbarism, Universities and Inequality*. Palgrave Critical University Studies. Houndmills, Basingstoke, Hampshire ; New York, NY: Palgrave Macmillan, 2016.
 - Kelly, Chelsea Emelie. [“Beyond Digital: Open Collections & Cultural Institutions,”](https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions) 2014.
-### Optional Readings
+### Optional
 - Day, Ronald E. “Governing Expression: Social Big Data and Neoliberalism.” In *Indexing It All: The Subject in the Age of Documentation*, Information, and Data, 123–44. History and Foundations of Information Science. Cambridge, Massachusetts: The MIT Press, 2014.
 - Greenwald, Glenn. “Chapter 1: Contact.” In *No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State*, 2015.
 
@@ -261,7 +261,7 @@ In class presentations of Data Set Reviews
 - Ramsay, Stephen. “Chapter 1: An Algorithmic Criticism.” In *Reading Machines: Toward an Algorithmic Criticism*, 1–17. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2011.
 - Underwood, T. ["Theorizing Research Practices We Forgot to Theorize Twenty Years Ago"](https://www.ideals.illinois.edu/bitstream/handle/2142/48906/theorizing.pdf?sequence=2). *Representations*, Vol. 127 No. 1, Summer 2014; (pp. 64-72).
 #### Optional
-- Risam, R. "Beyond the Margins: Intersectionality and the Digital Humanities" Digital Humanities Quarterly, Vol. 9 No. 2, 2015.
+- Risam, R. ["Beyond the Margins: Intersectionality and the Digital Humanities"](http://www.digitalhumanities.org/dhq/vol/9/2/000208/000208.html) *Digital Humanities Quarterly*, Vol. 9 No. 2, 2015.
 - Presner, Todd. ["Critical Theory and the Mangle of Digital Humanities"](http://www.toddpresner.com/wp-content/uploads/2012/09/Presner_2012_DH_FINAL.pdf)[draft version; 2012)
 
 ### Assignment
@@ -278,16 +278,14 @@ In class presentations of Data Set Reviews
 - Montfort chp. 10 "Text III"
 - “Working With Text Data.” scikit-learn. [http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
 - Khan, Khairullah, Baharudin, Baharum, Lam Hong Lee. “A Review of Machine Learning Algorithms for Text-Documents Classification.” *Journal of Advances in Information Technology* 1, no. 1 (February 1, 2010).
-- Norvig, Peter. “Natural Language Corpus Data.” In *Beautiful Data: The Stories Behind Elegant Data Solutions*, edited by Toby Segaran and Jeff Hammerbacher, 1st ed. Beijing ; Sebastopol, CA: O’Reilly, 2009.
 - Wolfram, S. Machine Learning for Middle Schoolers. Stephen Wolfram Blog. 11 May 2017. [http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments](http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments)
 #### For discussion
-- Schmidt, B. ["Do Digital Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99).
-- Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingdom of Knowledge.” *New Literary History* 47 (2): 353–75.
-“Textual Analysis.”
+- Griffiths, Devin. "The Comparative Method and the History of the Modern Humanities" *History of Humanities*, Volume 2, Number 2, 2017.
+- Moretti, F. ["Conjectures in World Literature"](https://newleftreview.org/II/1/franco-moretti-conjectures-on-world-literature) *New Left Review* 1, January-February 2000.
+- Seaver, Nick ["Algorithms as culture: Some tactics for the ethnography of algorithmic systems"](http://journals.sagepub.com/doi/10.1177/2053951717738104) Big Data and Society. 9 Nov. 2017
 - Underwood, Ted. ["A Genealogy of Distant Reading"](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html). *Digital Humanities Quarterly* Volume 11, Number 2, 2017.
-### Optional Reading
+#### Optional
 - Borgman chp. 7
-- Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica. “Machine Bias.” *ProPublica*. May 23, 2016. [https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 - Berendt, Bettina, Preibusch, Soren. Toward Accountable Discrimination-Aware Data Mining: The Importance of Keeping the Human in the Loop—and Under the Looking Glass. *Big Data*. Volume 5, Number 2, 2017.
 
 ### Assignment
@@ -306,12 +304,13 @@ In class presentations of Data Set Reviews
 - Brew, Chris. “Language Processing: Statistical Methods.” In *Encyclopedia of Language & Linguistics*, edited by Keith Brown, 2nd ed., 12:597–604. Elsevier, 2006.
 - Gries, Stefan. [“Useful statistics for corpus linguistics.”](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.160.9846&rep=rep1&type=pdf).
 - McCandles, David. [*Information is Beautiful*](http://www.informationisbeautiful.net).
+- Norvig, Peter. “Natural Language Corpus Data.” In *Beautiful Data: The Stories Behind Elegant Data Solutions*, edited by Toby Segaran and Jeff Hammerbacher, 1st ed. Beijing ; Sebastopol, CA: O’Reilly, 2009.
 #### For discussion
 - Burrows, John. [“Textual Analysis.”](http://digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&doc.view=print&chunk.id=ss1-4-4&toc.depth=1&toc.id=0) In Companion to Digital Humanities, edited by Susan Schreibman, Ray Siemens, and John Unsworth.
 - Catherine D’Ignazio and Lauren F. Klein, [“Feminist Data Visualization”](http://www.kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf) IEEE VIS Conference, Baltimore, October, 23-28, 2016. 7, 2016
 - Lev Manovich. ["Cultural Data Possibilities and limitations of the digital data universe"](http://manovich.net/content/04-projects/102-cultural-data/cultural_data_article.pdf). Oliver Grau, ed., with Wendy Coones and Viola Rühse, Museum and Archive on the Move. Changing Cultural Institutions in the Digital Era (Berlin, Boston: De Gruyter, 2017), 259-276.
 - Thompson, Clive. [“The Surprising History of the Infographic.”](http://www.smithsonianmag.com/history/surprising-history-infographic-180959563/?no-ist)
-### Optional Readings
+#### Optional
 - Moretti, Franco. “Graphs.” In *Graphs, Maps, Trees: Abstract Models for Literary History*, 3–33. London ; New York: Verso, 2007.
 - Ramsay, Stephen. “Chapter 3: Potential Readings.” In *Reading Machines: Toward an Algorithmic Criticism*, 33–57. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2011.
 
@@ -331,11 +330,12 @@ In class presentations of Data Set Reviews
 - Lundh, Fredrik. “Elements and Element Trees.” [http://effbot.org/zone/element.htm](http://effbot.org/zone/element.htm) [Python XML tutorial]
 - Beazley, David, and Brian K. Jones. “Chapter 6: Data Encoding and Processing.” In Python Cookbook: *recipes for Mastering Python 3*, 3. ed., 175–216. Bejing: O’Reilly, 2013.
 #### For discussion
-- Seaver, Nick ["Algorithms as culture: Some tactics for the ethnography of algorithmic systems"](http://journals.sagepub.com/doi/10.1177/2053951717738104) Big Data and Society. 9 Nov. 2017
+- Schmidt, B. ["Do Digital Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99).
 - Hammond, Adam. "The double bind of validation: distant reading and the digital humanities' 'trough of disillusionment." *Literature Compass* 14, no. 8 (August 1, 2017): no. pg.
-- Devin Griffiths, "The Comparative Method and the History of the Modern Humanities" *History of Humanities*, Volume 2, Number 2, 2017.
-#### Optional
+- Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingdom of Knowledge.” *New Literary History* 47 (2): 353–75.
+“Textual Analysis.”
 - Jockers, Matthew Lee. “Chapter 8: Theme.” In *Macroanalysis: Digital Methods and Literary History*, 118–53. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2013.
+#### Optional
 - Clement, T. and McLaughlin, S. [“Measured Applause: Toward a Cultural Analysis of Audio Collections.”](http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/) *Cultural Analytics*, vol. 1, no. 1, 2016.
 
 ### Assignment
