@@ -208,40 +208,42 @@ In class presentations of Data Set Reviews
 # SPRING BREAK (3/12)
 ----------------------------------------------------------------
 
-## <a name="week8"></a>Week 8 (3/19): Data Models
+## <a name="week8"></a>Week 8 (3/19): Open Access
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_8)
 #### Coding, writing, and exercises
+- Montfort chp. 8 "Image I"
 - Zhuang, Atima Han, Ishita Vedvyas, and Rishikesh Dole. “Tutorial: OpenRefine,” 2013. [http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf](http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf)
+
 #### For discussion
-- van Hooland, Seth, and Ruben Verborgh. “Modelling.” In *Linked Data for Libraries, Archives and Museums: How to Clean, Link and Publish Your Metadata*, 11–70. Chicago: Neal-Schuman, 2014.
-- Swartz, Aaron. “Building a Platform: Providing APIs.” In *Aaron Swartz’s ‘A Programmable Web’: An Unfinished Work*, 31–39. San Rafael, CA: Morgan & Claypool Publishers, 2013.
-#### Optional
-- Manzo, Christina, Geoff Kaufman, Sukdith Punjasthitkul, and Mary Flanagan. “‘By the People, For the People’: Assessing the Value of Crowdsourced, User-Generated Metadata.” *Digital Humanities Quarterly* 9, no. 1 (2015). [http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html](http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html)
-- Pomerantz, Jeffrey. “The Future of Metadata.” In *Metadata*. The MIT Press Essential Knowledge Series. Cambridge, MA ; London, England: The MIT Press, 2015.
+- Christen, Kim. “Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness.” *International Journal of Communication* 6 (2012), 2870–2893.
+- Day, Ronald E. “Governing Expression: Social Big Data and Neoliberalism.” In *Indexing It All: The Subject in the Age of Documentation*, Information, and Data, 123–44. History and Foundations of Information Science. Cambridge, Massachusetts: The MIT Press, 2014.
+- Peters, Justin. *The Idealist: Aaron Swartz and the Rise of Free Culture on the Internet*, Chapters 7 and 8. New York: Scribner, 2016.
+
+### Optional
+- O’Sullivan, Michael. “Aaron Swartz, New Technologies, and the Myth of Open Access.” In *Academic Barbarism, Universities and Inequality*. Palgrave Critical University Studies. Houndmills, Basingstoke, Hampshire ; New York, NY: Palgrave Macmillan, 2016.
+
 ### Assignment
-[Due: Proposal](https://utexas.instructure.com/courses/1216881/assignments/4166696)
+[Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 #### [▸ In-class outline](week-08.md)
 
 ----------------------------------------------------------------
-## <a name="week9"></a>Week 9 (3/26): Open Access
+## <a name="week9"></a>Week 9 (3/26): Data Models
 
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_9)
-#### Coding, writing, and exercises
-- Montfort chp. 8 "Image I"
+
 #### For discussion
-- Christen, Kim. “Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness.” *International Journal of Communication* 6 (2012), 2870–2893.
-- Peters, Justin. *The Idealist: Aaron Swartz and the Rise of Free Culture on the Internet*, Chapters 7 and 8. New York: Scribner, 2016.
-- O’Sullivan, Michael. “Aaron Swartz, New Technologies, and the Myth of Open Access.” In *Academic Barbarism, Universities and Inequality*. Palgrave Critical University Studies. Houndmills, Basingstoke, Hampshire ; New York, NY: Palgrave Macmillan, 2016.
+- Swartz, Aaron. “Building a Platform: Providing APIs.” In *Aaron Swartz’s ‘A Programmable Web’: An Unfinished Work*, 31–39. San Rafael, CA: Morgan & Claypool Publishers, 2013.
+- van Hooland, Seth, and Ruben Verborgh. “Modelling.” In *Linked Data for Libraries, Archives and Museums: How to Clean, Link and Publish Your Metadata*, 11–70. Chicago: Neal-Schuman, 2014.
 - Kelly, Chelsea Emelie. [“Beyond Digital: Open Collections & Cultural Institutions,”](https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions) 2014.
-### Optional
-- Day, Ronald E. “Governing Expression: Social Big Data and Neoliberalism.” In *Indexing It All: The Subject in the Age of Documentation*, Information, and Data, 123–44. History and Foundations of Information Science. Cambridge, Massachusetts: The MIT Press, 2014.
-- Greenwald, Glenn. “Chapter 1: Contact.” In *No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State*, 2015.
+- Pomerantz, Jeffrey. “The Future of Metadata.” In *Metadata*. The MIT Press Essential Knowledge Series. Cambridge, MA ; London, England: The MIT Press, 2015.
+#### Optional
+- Manzo, Christina, Geoff Kaufman, Sukdith Punjasthitkul, and Mary Flanagan. “‘By the People, For the People’: Assessing the Value of Crowdsourced, User-Generated Metadata.” *Digital Humanities Quarterly* 9, no. 1 (2015). [http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html](http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html)
 
 ### Assignment
-[Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
+[Due: Proposal](https://utexas.instructure.com/courses/1216881/assignments/4166696)
 
 #### [▸ In-class outline](week-09.md)
 
@@ -330,13 +332,13 @@ In class presentations of Data Set Reviews
 - Lundh, Fredrik. “Elements and Element Trees.” [http://effbot.org/zone/element.htm](http://effbot.org/zone/element.htm) [Python XML tutorial]
 - Beazley, David, and Brian K. Jones. “Chapter 6: Data Encoding and Processing.” In Python Cookbook: *recipes for Mastering Python 3*, 3. ed., 175–216. Bejing: O’Reilly, 2013.
 #### For discussion
-- Schmidt, B. ["Do Digital Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99).
 - Hammond, Adam. "The double bind of validation: distant reading and the digital humanities' 'trough of disillusionment." *Literature Compass* 14, no. 8 (August 1, 2017): no. pg.
 - Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingdom of Knowledge.” *New Literary History* 47 (2): 353–75.
 “Textual Analysis.”
 - Jockers, Matthew Lee. “Chapter 8: Theme.” In *Macroanalysis: Digital Methods and Literary History*, 118–53. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2013.
 #### Optional
 - Clement, T. and McLaughlin, S. [“Measured Applause: Toward a Cultural Analysis of Audio Collections.”](http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/) *Cultural Analytics*, vol. 1, no. 1, 2016.
+- Schmidt, B. ["Do Digital Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99).
 
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
