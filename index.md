@@ -114,7 +114,6 @@ All other readings will either be available online and linked below or [posted o
 
 #### [▸ In-class outline](week-02.md)
 
-
 ----------------------------------------------------------------
 
 ## <a name="week3"></a>Week 3 (2/5): Programming
@@ -157,9 +156,13 @@ All other readings will either be available online and linked below or [posted o
 ----------------------------------------------------------------
 
 
-## <a name="week5"></a>Week 5 (2/19): Scholarship
+## <a name="week5"></a>Week 5 (2/19): Data Scholarship
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_5)
+#### Coding, writing, and exercises
+- Montfort chp. 6 "Text I"
+- Albon, Chris. “String Operations.” [http://chrisalbon.com/python/string_operations.html](http://chrisalbon.com/python/string_operations.html)
+- [“HTML Introduction”](http://www.w3schools.com/html/html_intro.asp) and [“HTML5 Introduction”](http://www.w3schools.com/html/html5_intro.asp), W3Schools.
 #### For discussion
 - Borgman chp. 3 "Data Scholarship"
 - Liu. [“Drafts for Against the Cultural Singularity”](http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity/) Alan Liu. 2 May 2016.
@@ -169,7 +172,7 @@ All other readings will either be available online and linked below or [posted o
 3. Sacasas, Michael. “Do Artifacts Have Ethics?” *The Frailest Thing*, November 29, 2014. [http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics](http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics/)
 
 ### Assignment
-[Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
+[REQUIRED Discussion post, 4 points](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 
 ----------------------------------------------------------------
@@ -187,15 +190,14 @@ In class presentations of Data Set Reviews
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_7)
 #### Coding, writing, and exercises
-- Montfort chp. 6 "Text I"
-- Albon, Chris. “String Operations.” [http://chrisalbon.com/python/string_operations.html](http://chrisalbon.com/python/string_operations.html)
-- [“HTML Introduction”](http://www.w3schools.com/html/html_intro.asp) and [“HTML5 Introduction”](http://www.w3schools.com/html/html5_intro.asp), W3Schools.
+- Montfort chp. 7 "Text II"
 #### For discussion
+- Borgman chp. 4 "Data Diversity"
 - Hitchcock, Tim. “Digital Searching and the Re-formulation of Historical Knowledge” 2008. In *The Virtual Representation of the Past*, edited by Mark Greenglass and Lorna Hughes, 81-90. Ashgate: 2008.
 - Pound, Scott. “Kenneth Goldsmith and the Poetics of Information.” PMLA, vol. 130, no. 2, Mar. 2015, pp. 315–30.
-- Neff, Gina, Tanweer, Anissa, Fiore-Gartland, Brittany, Osburn, Laura  Critique and Contribute: A Practice-Based Framework for Improving Critical Data Studies and Data Science. *Big Data* 5, no. 2, 2017.
 ### Optional Readings
 - Liu, Alan. “The Meaning of the Digital Humanities.” *PMLA* 128, no. 2 (March 2013): 409–23.
+- Neff, Gina, Tanweer, Anissa, Fiore-Gartland, Brittany, Osburn, Laura  Critique and Contribute: A Practice-Based Framework for Improving Critical Data Studies and Data Science. *Big Data* 5, no. 2, 2017.
 
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
@@ -204,22 +206,21 @@ In class presentations of Data Set Reviews
 
 ----------------------------------------------------------------
 # SPRING BREAK (3/12)
+----------------------------------------------------------------
 
 ## <a name="week8"></a>Week 8 (3/19): Data Models
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_8)
 #### Coding, writing, and exercises
-- Montfort chp. 7 "Text II"
 - Zhuang, Atima Han, Ishita Vedvyas, and Rishikesh Dole. “Tutorial: OpenRefine,” 2013. [http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf](http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf)
 #### For discussion
-- Borgman chp. 4 "Data Diversity"
 - van Hooland, Seth, and Ruben Verborgh. “Modelling.” In *Linked Data for Libraries, Archives and Museums: How to Clean, Link and Publish Your Metadata*, 11–70. Chicago: Neal-Schuman, 2014.
 - Swartz, Aaron. “Building a Platform: Providing APIs.” In *Aaron Swartz’s ‘A Programmable Web’: An Unfinished Work*, 31–39. San Rafael, CA: Morgan & Claypool Publishers, 2013.
 #### Optional Readings
 - Manzo, Christina, Geoff Kaufman, Sukdith Punjasthitkul, and Mary Flanagan. “‘By the People, For the People’: Assessing the Value of Crowdsourced, User-Generated Metadata.” *Digital Humanities Quarterly* 9, no. 1 (2015). [http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html](http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html)
 - Pomerantz, Jeffrey. “The Future of Metadata.” In *Metadata*. The MIT Press Essential Knowledge Series. Cambridge, MA ; London, England: The MIT Press, 2015.
 ### Assignment
-[Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
+[Due: Proposal](https://utexas.instructure.com/courses/1216881/assignments/4166696)
 
 #### [▸ In-class outline](week-08.md)
 
@@ -240,7 +241,7 @@ In class presentations of Data Set Reviews
 - Greenwald, Glenn. “Chapter 1: Contact.” In *No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State*, 2015.
 
 ### Assignment
-[Due: Proposal](https://utexas.instructure.com/courses/1216881/assignments/4166696)
+[Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 #### [▸ In-class outline](week-09.md)
 
@@ -284,7 +285,6 @@ In class presentations of Data Set Reviews
 - Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingdom of Knowledge.” *New Literary History* 47 (2): 353–75.
 “Textual Analysis.”
 - Underwood, Ted. ["A Genealogy of Distant Reading"](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html). *Digital Humanities Quarterly* Volume 11, Number 2, 2017.
-
 ### Optional Reading
 - Borgman chp. 7
 - Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica. “Machine Bias.” *ProPublica*. May 23, 2016. [https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
