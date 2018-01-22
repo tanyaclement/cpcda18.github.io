@@ -145,7 +145,7 @@ We have been using the bash shell in macOS to learn some basic command-line voca
 
 For more details on how Docker works, see this [overview](https://docs.docker.com/engine/docker-overview/).
 
-How to use Docker from the iSchool Macs (in the classroom and in the lab):
+On your own computer, you'll have to download Docker (instructions are in the Discussion post for this week). At the iSchool, you can use Docker from the iSchool Macs (in the classroom and in the lab):
 
 1. Open a new terminal window.
 
@@ -197,11 +197,9 @@ Enter `wget` followed by any URL to download the web page or file at that URL. T
 
 ![](week/1/Image-9.png)
 
-If you’re connected to the Internet, you should see feedback in the shell that looks something like the above. In this case, Wget has saved Google’s "index.html" file to the desktop. Either view the file in the shell using `less` or open it in your text editor.
+If you’re connected to the Internet, you should see feedback in the shell that looks something like the above. In this case, Wget has saved Google’s "index.html" file to the desktop. Either view the file in the shell using `less`.
 
 ![](week/1/Image-10.png)
-
-To make the file more readable in Atom, go to the toolbar and select `View > Toggle Soft Wrap`.
 
 Wget is an amazingly versatile tool, and we will use it many times in this course. Enter the following command to view Wget's user manual.
 
