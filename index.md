@@ -58,7 +58,7 @@ Learning goals:
 
 There is one required text for this course:
 
-Montfort, Nick. Exploratory Programming for the Arts and Humanities. Cambridge, MA: The MIT Press, 2016.
+_Montfort, Nick. Exploratory Programming for the Arts and Humanities. Cambridge, MA: The MIT Press, 2016._
 
 All other readings will either be available online and linked below or [posted on Canvas](https://utexas.instructure.com/courses/1216881/files).
 
