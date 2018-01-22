@@ -77,10 +77,8 @@ All other readings will either be available online and linked below or [posted o
 ### Readings
 
 - danah boyd & Kate Crawford (2012) "Critical Questions for Big Data," *Information, Communication & Society*, 15:5, 662-679.
-
 - Piper, Andrew. "There will be Numbers." *Journal of Cultural Analytics* 1, no. 1 (May 23, 2016). [http://culturalanalytics.org/2016/05/there-will-be-numbers/](http://culturalanalytics.org/2016/05/there-will-be-numbers/)
-
-- Bod, Rens. "Introduction: the Quest for Principles and Patterns." A New History of the Humanities: The Search for Principles and Patterns from Antiquity to the Present. Oxford University Press, 2013, pp. 1 - 12. *Note: You must be logged in as a UT student to retrieve this text*: [http://catalog.lib.utexas.edu/record=b8902003~S29](http://catalog.lib.utexas.edu/record=b8902003~S29)
+- Bod, Rens. "Introduction: the Quest for Principles and Patterns." *A New History of the Humanities: The Search for Principles and Patterns from Antiquity to the Present.* Oxford University Press, 2013, pp. 1 - 12. *Note: You must be logged in as a UT student to retrieve this text*: [http://catalog.lib.utexas.edu/record=b8902003~S29](http://catalog.lib.utexas.edu/record=b8902003~S29)
 
 
 #### [▸ In-class outline](week-01.md)
@@ -94,7 +92,6 @@ All other readings will either be available online and linked below or [posted o
 - Montfort, chp. 1 "Introduction"; "Installation and Setup" (for your information); chp. 2 "Calculating"
 - “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
 - Booth, Wayne C., et al., chp. 3 "From Topics to Questions". [*The Craft of Research*](https://utexas.instructure.com/courses/1216881/files/folder/FinalProject), Third Ed. University Of Chicago Press, 2008.
-
 #### For discussion
 - Borgman chp. 1 "Provocations"
 - Marche, Stephen. “Literature Is not Data: Against Digital Humanities.” *Los Angeles Review of Books*, October 28th, 2012.
@@ -104,7 +101,6 @@ All other readings will either be available online and linked below or [posted o
 1. Manovich,  Lev.  2008. [“The Next Big Thing in Humanities, Arts, and Social Science Computing: Cultural Analytics”](https://www.hpcwire.com/2008/07/29/the_next_big_thing_in_humanities_arts_and_social_science_computing_cultural_analytics/). HPC Wire, July 29.
 2. Manovich,  Lev. 2009. [“Cultural Analytics: Visualizing Cultural Patterns in the Era of ‘More Media.’""](http://manovich.net/content/04-projects/063-cultural-analytics-visualizing-cultural-patterns/60_article_2009.pdf) Software Studies Initiative [website](http://lab.softwarestudies.com/)).
 3. Hall, Gary. “Toward a Postdigital Humanities: Cultural Analytics and the Computational Turn to Data-Driven Scholarship.” *American Literature* 85, no. 4 (January 1, 2013): 781–809.
-
 #### Optional
 - Posner, Miriam. “Humanities Data: A Necessary Contradiction.” *Miriam Posner’s Blog*, June 25, 2015. [http://miriamposner.com/blog/humanities-data-a-necessary-contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction)
 - Gallinger, M. and Daniel Chudnov "Library of Congress Lab: Library of Congress Digital Scholars Lab Pilot Project Report."
@@ -194,9 +190,9 @@ In class presentations of Data Set Reviews
 #### For discussion
 - Borgman chp. 4 "Data Diversity"
 - Hitchcock, Tim. “Digital Searching and the Re-formulation of Historical Knowledge” 2008. In *The Virtual Representation of the Past*, edited by Mark Greenglass and Lorna Hughes, 81-90. Ashgate: 2008.
+- Piper, A. Think Small: On Literary Modeling. Author: Andrew Piper. Source: PMLA, Volume 132, Number 3, May 2017, pp. 651–658 (8).
 - Pound, Scott. “Kenneth Goldsmith and the Poetics of Information.” PMLA, vol. 130, no. 2, Mar. 2015, pp. 315–30.
 ### Optional
-- Liu, Alan. “The Meaning of the Digital Humanities.” *PMLA* 128, no. 2 (March 2013): 409–23.
 - Neff, Gina, Tanweer, Anissa, Fiore-Gartland, Brittany, Osburn, Laura  Critique and Contribute: A Practice-Based Framework for Improving Critical Data Studies and Data Science. *Big Data* 5, no. 2, 2017.
 
 ### Assignment
@@ -214,12 +210,11 @@ In class presentations of Data Set Reviews
 #### Coding, writing, and exercises
 - Montfort chp. 8 "Image I"
 - Zhuang, Atima Han, Ishita Vedvyas, and Rishikesh Dole. “Tutorial: OpenRefine,” 2013. [http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf](http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf)
-
 #### For discussion
 - Christen, Kim. “Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness.” *International Journal of Communication* 6 (2012), 2870–2893.
 - Day, Ronald E. “Governing Expression: Social Big Data and Neoliberalism.” In *Indexing It All: The Subject in the Age of Documentation*, Information, and Data, 123–44. History and Foundations of Information Science. Cambridge, Massachusetts: The MIT Press, 2014.
 - Peters, Justin. *The Idealist: Aaron Swartz and the Rise of Free Culture on the Internet*, Chapters 7 and 8. New York: Scribner, 2016.
-
+- Pomerantz, Jeffrey. “The Future of Metadata.” In *Metadata*. The MIT Press Essential Knowledge Series. Cambridge, MA ; London, England: The MIT Press, 2015.
 ### Optional
 - O’Sullivan, Michael. “Aaron Swartz, New Technologies, and the Myth of Open Access.” In *Academic Barbarism, Universities and Inequality*. Palgrave Critical University Studies. Houndmills, Basingstoke, Hampshire ; New York, NY: Palgrave Macmillan, 2016.
 
@@ -229,21 +224,20 @@ In class presentations of Data Set Reviews
 #### [▸ In-class outline](week-08.md)
 
 ----------------------------------------------------------------
-## <a name="week9"></a>Week 9 (3/26): Data Models
+## <a name="week9"></a>Week 9 (3/26): Data Modeling
 
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_9)
-
 #### For discussion
+- Kreiss, D., M. Finn, and F. Turner. “The Limits of Peer Production: Some Reminders from Max Weber for the Network Society.” New Media & Society 13, no. 2 (March 1, 2011): 243–59.
 - Swartz, Aaron. “Building a Platform: Providing APIs.” In *Aaron Swartz’s ‘A Programmable Web’: An Unfinished Work*, 31–39. San Rafael, CA: Morgan & Claypool Publishers, 2013.
 - van Hooland, Seth, and Ruben Verborgh. “Modelling.” In *Linked Data for Libraries, Archives and Museums: How to Clean, Link and Publish Your Metadata*, 11–70. Chicago: Neal-Schuman, 2014.
 - Kelly, Chelsea Emelie. [“Beyond Digital: Open Collections & Cultural Institutions,”](https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions) 2014.
-- Pomerantz, Jeffrey. “The Future of Metadata.” In *Metadata*. The MIT Press Essential Knowledge Series. Cambridge, MA ; London, England: The MIT Press, 2015.
 #### Optional
 - Manzo, Christina, Geoff Kaufman, Sukdith Punjasthitkul, and Mary Flanagan. “‘By the People, For the People’: Assessing the Value of Crowdsourced, User-Generated Metadata.” *Digital Humanities Quarterly* 9, no. 1 (2015). [http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html](http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html)
 
 ### Assignment
-[Due: Proposal](https://utexas.instructure.com/courses/1216881/assignments/4166696)
+[*Proposal due Friday, March 23 at 11:59pm; Peer reviews due by class March 26 at 3pm*](https://utexas.instructure.com/courses/1216881/assignments/4166696)
 
 #### [▸ In-class outline](week-09.md)
 
@@ -319,7 +313,7 @@ In class presentations of Data Set Reviews
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
-#### [▸ In-class outline](week-13.md)
+#### [▸ In-class outline](week-12.md)
 
 ----------------------------------------------------------------
 
@@ -333,9 +327,9 @@ In class presentations of Data Set Reviews
 - Beazley, David, and Brian K. Jones. “Chapter 6: Data Encoding and Processing.” In Python Cookbook: *recipes for Mastering Python 3*, 3. ed., 175–216. Bejing: O’Reilly, 2013.
 #### For discussion
 - Hammond, Adam. "The double bind of validation: distant reading and the digital humanities' 'trough of disillusionment." *Literature Compass* 14, no. 8 (August 1, 2017): no. pg.
+- Liu, Alan. “The Meaning of the Digital Humanities.” *PMLA* 128, no. 2 (March 2013): 409–23.
 - Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingdom of Knowledge.” *New Literary History* 47 (2): 353–75.
 “Textual Analysis.”
-- Jockers, Matthew Lee. “Chapter 8: Theme.” In *Macroanalysis: Digital Methods and Literary History*, 118–53. Topics in the Digital Humanities. Urbana: University of Illinois Press, 2013.
 #### Optional
 - Clement, T. and McLaughlin, S. [“Measured Applause: Toward a Cultural Analysis of Audio Collections.”](http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/) *Cultural Analytics*, vol. 1, no. 1, 2016.
 - Schmidt, B. ["Do Digital Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99).
@@ -343,7 +337,7 @@ In class presentations of Data Set Reviews
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
-#### [▸ In-class outline](week-12.md)
+#### [▸ In-class outline](week-13.md)
 
 
 ----------------------------------------------------------------
