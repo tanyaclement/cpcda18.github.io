@@ -1,13 +1,13 @@
 ## Week 1 Outline: Introductions &
 
 ### Objectives
-#### Command Line Basics
-#### Exploring the File System
-#### Text I/O from the Command Line
-#### Using Docker
-#### Download a web page from the command line
-#### Download a video with youtube-dl and create an excerpt with FFmpeg
-#### Closing Docker
+- Command Line Basics
+- Exploring the File System
+- Text I/O from the Command Line
+- Using Docker
+- Download a web page from the command line
+- Download a video with youtube-dl and create an excerpt with FFmpeg
+- Closing Docker
 
 #### Command Line Basics
 While the terms "command line," "terminal," and "shell" are sometimes used interchangeably, each has a slightly different denotation.
