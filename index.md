@@ -96,11 +96,11 @@ All other readings will either be available online and linked below or [posted o
 - Borgman chp. 1 "Provocations"
 - Marche, Stephen. “Literature Is not Data: Against Digital Humanities.” *Los Angeles Review of Books*, October 28th, 2012.
                       [https://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities](https://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities)
-- Padilla, T. ["On a Collections as Data Imperative."](http://digitalpreservation.gov/meetings/dcs16/tpadilla_OnaCollectionsasDataImperative_final.pdf).
 - Read in order:
 1. Manovich,  Lev.  2008. [“The Next Big Thing in Humanities, Arts, and Social Science Computing: Cultural Analytics”](https://www.hpcwire.com/2008/07/29/the_next_big_thing_in_humanities_arts_and_social_science_computing_cultural_analytics/). HPC Wire, July 29.
 2. Manovich,  Lev. 2009. [“Cultural Analytics: Visualizing Cultural Patterns in the Era of ‘More Media.’""](http://manovich.net/content/04-projects/063-cultural-analytics-visualizing-cultural-patterns/60_article_2009.pdf) Software Studies Initiative [website](http://lab.softwarestudies.com/)).
 3. Hall, Gary. “Toward a Postdigital Humanities: Cultural Analytics and the Computational Turn to Data-Driven Scholarship.” *American Literature* 85, no. 4 (January 1, 2013): 781–809.
+- Padilla, T. ["On a Collections as Data Imperative."](http://digitalpreservation.gov/meetings/dcs16/tpadilla_OnaCollectionsasDataImperative_final.pdf).
 #### Optional
 - Posner, Miriam. “Humanities Data: A Necessary Contradiction.” *Miriam Posner’s Blog*, June 25, 2015. [http://miriamposner.com/blog/humanities-data-a-necessary-contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction)
 - Gallinger, M. and Daniel Chudnov "Library of Congress Lab: Library of Congress Digital Scholars Lab Pilot Project Report."
@@ -190,7 +190,7 @@ In class presentations of Data Set Reviews
 #### For discussion
 - Borgman chp. 4 "Data Diversity"
 - Hitchcock, Tim. “Digital Searching and the Re-formulation of Historical Knowledge” 2008. In *The Virtual Representation of the Past*, edited by Mark Greenglass and Lorna Hughes, 81-90. Ashgate: 2008.
-- Piper, A. Think Small: On Literary Modeling. Author: Andrew Piper. Source: PMLA, Volume 132, Number 3, May 2017, pp. 651–658 (8).
+- Piper, A. Think Small: On Literary Modeling. *PMLA*, Volume 132, Number 3, May 2017, pp. 651–658.
 - Pound, Scott. “Kenneth Goldsmith and the Poetics of Information.” PMLA, vol. 130, no. 2, Mar. 2015, pp. 315–30.
 ### Optional
 - Neff, Gina, Tanweer, Anissa, Fiore-Gartland, Brittany, Osburn, Laura  Critique and Contribute: A Practice-Based Framework for Improving Critical Data Studies and Data Science. *Big Data* 5, no. 2, 2017.
