@@ -1,10 +1,15 @@
-## Week 1 Outline: Introductions & Command Line Basics
+## Week 1 Outline: Introductions &
 
-
-#### Student and instructor introductions
+### Objectives
+#### Command Line Basics
+#### Exploring the File System
+#### Text I/O from the Command Line
+#### Using Docker
+#### Download a web page from the command line
+#### Download a video with youtube-dl and create an excerpt with FFmpeg
+#### Closing Docker
 
 #### Command Line Basics
-
 While the terms "command line," "terminal," and "shell" are sometimes used interchangeably, each has a slightly different denotation.
 
 "**Command line**" has the broadest scope, referring to a style of interface. A command-line interface, also known as a command-line interpreter (CLI) is any system in which all interaction occurs via text-based commands issued through a keyboard.
@@ -243,139 +248,8 @@ When FFmpeg is finished, open `Bucket_clip.mp4` in VLC Media Player and see how 
 As usual, the command `man ffmpeg` will display FFmpeg’s manual.
 
 
-#### Programming basics in Python (as much as time permits)
-To get started using Python, simply enter `python3` in the shell.
 
-    python3
-
-We’ve just switched from the standard shell to the Python environment, which you can tell at a glance by the "\>\>\>" to the left of your cursor. We’re in what’s known as a language shell or a read-eval-print loop (REPL), in which any commands we enter will be interpreted as Python code. You can leave Python at any time by entering the `quit()` command.
-
-We’ll begin by assigning some data to variables.
-
-    x = 5
-    y = 5.0
-    z = "Hello"
-
-If you type `x` and hit return, you’ll notice the variable’s current value is output on the line below. Trying the same with `x+2` will return 7.
-
-    x + 2
-
-> *Output:*
->
->     7
-
-Note that `x + x` gives a result of 10, while `x + y` returns 10.0. That’s because 5 and 5.0 are different data types in Python. The former is an **int**, or integer, while the latter is a **float**, or floating point value.
-
-
-Now try using the `+` operator on two strings.
-
-    z + " world"
-
-> *Output:*
->
->     'Hello world'
-
-Note that `+` is used for two entirely different purposes: adding numbers and concatenating strings. When the same symbol performs multiple tasks in different contexts, it’s described as overloaded.
-
-By the way, you can use single or double quotes to enclose string text in Python. We’ll talk more about this next week.
-
-Next we’ll link a series of values using Python’s list data type. There several ways to represent an ordered sequence of items in Python, but we’ll be using list most frequently.
-
-    eu_countries = ['Austria', 'Belgium', 'Bulgaria', 'Croatia', 'Republic of Cyprus', 'Czech Republic', 'Denmark', 'Estonia', 'Finland', 'France', 'Germany', 'Greece', 'Hungary', 'Ireland', 'Italy', 'Latvia', 'Lithuania', 'Luxembourg', 'Malta', 'Netherlands', 'Poland', 'Portugal', 'Romania', 'Slovakia', 'Slovenia', 'Spain', 'Sweden', 'UK']
-
-We can now refer to individual list members using bracket annotation.
-
-    eu_countries[3]
-
-The command above returns the string "Croatia," which is located at index 3. As in most programming languages, we begin counting from 0 when working with ordered data.
-
-If you try to access an out-of-range index value you’ll get an error.
-
-    eu_countries[99]
-
-We can also create a subset of a list using Python’s slice notation. The following will return a list containing four items, beginning at index 3 in `eu_countries`.
-
-    eu_countries[3:7]
-
-Leaving one side of the colon blank will include all items on that end of the list.
-
-    eu_countries[5:]
-    eu_countries[:10]
-
-We can also use negative numbers to count backwards from the end of a list. The following will return "UK," the final string in the list.
-
-    eu_countries[-1]
-
-Under the hood, every string in Python is actually a list of individual characters. In the example below, `word[7]` returns the letter "e," while `word[7:20]` returns "establishment."
-
-    word = "antidisestablishmentarianism"
-    word[7]
-    word[7:20]
-
-If we need to know the length of a list or string, the `len` function can tell us.
-
-    len(eu_countries)
-    len(word)
-
-Conditional statements are a fundamental part of all programming languages. We use the `if` operator to evaluate conditionals.
-
-    number = 12
-    if number == 12:
-         print("The value is 12, an integer.")
-
-By adding `else`, we can tell Python to do something if the conditional isn’t true.
-
-    number = 10
-    if number == 12:
-         print("The value is 12, an integer.")
-    else:
-         print("The value is not 12.")
-
-A **for loop** is a structure that lets us iterate through lists and other data structures so we can refer to each item one at a time.
-
-    for country in eu_countries:
-        print(country + ' is great.')
-
-Finally, we can create functions to automate repetitive processes. Use the `def` declaration to start s function definition. The code below will produce the same output as the last example.
-
-```python
-def is_great(word):
-    return word + ' is great.'
-
-for country in eu_countries:
-    print(is_great(country))
-```
-
-In this case we’re not saving much effort, but as we proceed you’ll find that functions will help you write simpler, more readable code.
-
-#### **11.** Accessing the shell from Python with the `os` package (if time permits)
-The next section is intended as an instructor demonstration, to be included if time permits.
-
-First, check the length of the film with `exiftool`. Open a new terminal window and enter the following.
-    cd /sharedfolder
-    exiftool A_Bucket_of_Blood.mp4
-
-The file comes to 1:05:57, or 3907 seconds. Extract 10 5-second clips at random and combine them to create a new video.
-
- ```python
-import os
-import random
-
-total_time = 3907
-clip_time = 5
-
-def random_start():
-    return random.random()*(total_time - clip_time)
-
-os.chdir('/sharedfolder/')
-
-for i in range(5):
-    os.system("ffmpeg -i A_Bucket_of_Blood.mp4 -ss " + str(random_start()) + " -t 4 clip" + str(i) + ".ts")
-
-os.system('''ffmpeg -i "concat:clip0.ts|clip1.ts|clip2.ts|clip3.ts|clip4.ts" Bucket_collage.mp4''')
-```
-
-#### **12.** Closing Docker
+#### Closing Docker
 
 To leave a Docker interactive terminal session and return to your main operating system's shell, press `ctrl + p` followed by `ctrl + q`.
 
