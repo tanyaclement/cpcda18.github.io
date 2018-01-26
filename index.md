@@ -89,7 +89,7 @@ All other readings will either be available online and linked below or [posted o
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_2)
 #### Coding, writing, and exercises
-- Montfort, chp. 1 "Introduction"; "Installation and Setup" (for your information); chp. 2 "Calculating"
+- Montfort, chp. 1 "Introduction"; "Installation and Setup" (for your information); chp. 1 "Modifying a Program"; chp. 2 "Calculating"
 - “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
 - Booth, Wayne C., et al., chp. 3 "From Topics to Questions". [*The Craft of Research*](https://utexas.instructure.com/courses/1216881/files/folder/FinalProject), Third Ed. University Of Chicago Press, 2008.
 #### For discussion
@@ -172,6 +172,7 @@ All other readings will either be available online and linked below or [posted o
 ### Assignment
 [REQUIRED Discussion post, 4 points](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
+### Speaker: Maria Fernandez
 
 ----------------------------------------------------------------
 
@@ -199,6 +200,8 @@ In class presentations of Data Set Reviews
 
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
+
+### Speaker: Maria Fernandez
 
 #### [▸ In-class outline](week-07.md)
 
@@ -289,6 +292,7 @@ In class presentations of Data Set Reviews
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
+### Speaker: Maria Fernandez
 #### [▸ In-class outline](week-11.md)
 
 
