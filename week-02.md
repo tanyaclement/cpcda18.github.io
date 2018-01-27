@@ -1,12 +1,12 @@
 ## Week 2: Python Intro
 
 ### Objectives
-#### Defining data structures
-#### Using Docker
-#### Programming basics in Python
-#### Launching Jupyter
-#### Defining basics
-#### String manipulation
+- Defining data structures
+- Using Docker
+- Programming basics in Python
+- Launching Jupyter
+- Defining basics
+- String manipulation
 
 #### Defining data structures
 See [Python tutorial on data structures](https://docs.python.org/3/tutorial/datastructures.html)
