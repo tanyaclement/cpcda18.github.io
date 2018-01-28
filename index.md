@@ -93,7 +93,7 @@ All other readings will either be available online and linked below or [posted o
 - “The Jupyter Notebook.” [http://jupyter-notebook.readthedocs.io/en/latest/notebook.html](http://jupyter-notebook.readthedocs.io/en/latest/notebook.html)
 - Booth, Wayne C., et al., chp. 3 "From Topics to Questions". [*The Craft of Research*](https://utexas.instructure.com/courses/1216881/files/folder/FinalProject), Third Ed. University Of Chicago Press, 2008.
 #### For discussion
-- Borgman chp. 1 "Provocations"
+- Borgman chp. 1 "Provocations" *Big Data, Little Data, No Data: Scholarship in the Networked World.* The MIT Press, 2015.
 - Marche, Stephen. “Literature Is not Data: Against Digital Humanities.” *Los Angeles Review of Books*, October 28th, 2012.
                       [https://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities](https://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities)
 - Read in order:
@@ -140,7 +140,7 @@ All other readings will either be available online and linked below or [posted o
 #### Coding, writing, and exercises
 - Montfort chp 4. "Programming Fundamentals"; Montfort, chp. 5 "Standard Starting Points";
 #### For discussion
-- Borgman, chp 2 "What are Data?" *Big Data, Little Data, No Data: Scholarship in the Networked World.* The MIT Press, 2015.
+- Borgman, chp 2 "What are Data?"
 - Krumme, Coco. “What Data Doesn’t Do.” In *Beautiful Data: The Stories behind Elegant Data Solutions*, edited by Toby Segaran and Jeff Hammerbacher, 1st ed. Beijing ; Sebastopol, CA: O’Reilly, 2009.
 - Rosenthal, "Data Before the Fact." In Gitelman, Lisa *"Raw Data" is an Oxymoron*. Cambridge: MIT Press, 2013.
 #### Optional
