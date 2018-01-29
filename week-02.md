@@ -12,33 +12,33 @@
 See [Python glossary on data models](https://docs.python.org/3/reference/datamodel.html)
 
 #### Using Docker
-1. Open a new terminal window.
+Open a new terminal window.
 
-2. View all current Docker containers:
+View all current Docker containers:
 
 ```
 docker ps -a
 ```
 
-3. Close and remove the container we started last time if it's still open, use `docker rm -f` followed by its name, like so:
+Close and remove the container we started last time if it's still open, use `docker rm -f` followed by its name, like so:
 
 ```
 docker rm -f pcda_ubuntu
 ```
 
-4. To close and remove all current Docker containers, enter the following command:
+To close and remove all current Docker containers, enter the following command:
 
 ```
 docker rm $(docker ps -aq)
 ```
 
-5. Enter the following command in the terminal window to download the Docker image files we'll be using. This could take several minutes.
+Enter the following command in the terminal window to download the Docker image files we'll be using. This could take several minutes.
 
 ```
 docker pull pcda17/ubuntu-container
 ```
 
-4. When the download is complete, enter the following command to run the container. This will create or be directed to your new directory called `sharedfolder` on your desktop.
+When the download is complete, enter the following command to run the container. This will create or be directed to your new directory called `sharedfolder` on your desktop.
 
 ```
 docker run --name pcda_ubuntu -ti -p 8889:8889 --volume ~/Desktop/sharedfolder/:/sharedfolder/ pcda17/ubuntu-container bash
