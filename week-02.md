@@ -79,21 +79,25 @@ Note that `+` is used for two entirely different purposes: adding numbers and co
 
 
 Next we’ll link a series of values using Python’s list data type. There several ways to represent an ordered sequence of items in Python, but we’ll be using list most frequently.
+
     ```
     eu_countries=['Austria', 'Belgium', 'Bulgaria', 'Croatia', 'Republic of Cyprus', 'Czech Republic', 'Denmark', 'Estonia', 'Finland', 'France', 'Germany', 'Greece', 'Hungary', 'Ireland', 'Italy', 'Latvia', 'Lithuania', 'Luxembourg', 'Malta', 'Netherlands', 'Poland', 'Portugal', 'Romania', 'Slovakia', 'Slovenia', 'Spain', 'Sweden', 'UK']
     ```
 
 We can now refer to individual list members using bracket annotation.
+
     ```
     eu_countries[3]
     ```
 The command above returns the string “Croatia,” which is located at index 3. As in most programming languages, we begin counting from 0 when working with ordered data.
 
 If you try to access an out-of-range index value you’ll get an error.
+
     ```
     eu_countries[99]
     ```
 We can also create a subset of a list using Python’s slice notation. The following will return a list containing four items, beginning at index 3 in `eu_countries`.
+
     ```
     eu_countries[3:7]
     ```
@@ -121,11 +125,11 @@ Conditional statements are a fundamental part of all programming languages. We u
 
 > **Tip:** It is significant in Python to use the tab when you see a tabbed space in the code such as in the example below. Below, you will be given a new line after the colon `:`  but you will still need to tab once before typing the `print` command or you'll get an error. Further, you must hit 'return' twice after the final line to run the piece of code.
 
-    ```
+
     number=12
     if number==12:
         print("The value is 12, an integer.")
-    ```
+
 
 By adding `else`, we can tell Python to do something if the conditional isn’t true.
     > **Tip:** The tabs can be kind of tricky with this one. In this example, be sure to tab once before each `print`  command.
