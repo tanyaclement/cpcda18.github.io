@@ -374,3 +374,4 @@ In class presentations of Data Set Reviews
 - American Civil Liberties Union. ["First Amendment Lawsuit Brought on Behalf of Academic Researchers and Journalists Who Fear Prosecution Under the Computer Fraud and Abuse Act."](https://www.aclu.org/news/aclu-challenges-law-preventing-studies-big-data-discrimination)
 - Sanger, David E., and Eric Schmitt. “Snowden Used Low-Cost Tool to Best N.S.A.” The New York Times. February 8, 2014. [http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html](http://www.nytimes.com/2014/02/09/us/snowden-used-low-cost-tool-to-best-nsa.html)
 - Sims, Nancy. [“Library Licensing and Criminal Law: The Aaron Swartz Case.”](http://crln.acrl.org/index.php/crlnews/article/view/8637/9062) *College & Research Libraries News* 72, no. 9 (2011): 534–37.
+- [Python tutorials](https://www.programiz.com/python-programming#tutorial) at [Programiz](https://www.programiz.com/).
