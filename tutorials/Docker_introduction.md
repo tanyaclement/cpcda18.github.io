@@ -4,15 +4,7 @@ We have been using the bash shell in macOS to learn some basic command-line voca
 
 For more details on how Docker works, [see this overview](https://docs.docker.com/engine/docker-overview/).
 
-On your own computer, you'll have to download Docker:
-
- [Install Docker for macOS](https://docs.docker.com/docker-for-mac/install/#install-and-run-docker-for-mac)
- [Install Docker for Windows 10](https://pcda17.github.io/tutorials/Docker_install_Windows)
- [Install Docker Toolbox for Windows 7 or 8](https://docs.docker.com/toolbox/toolbox_install_windows/)
-
-
-### Getting started on your own computer using Docker for supporting Jupyter notebook
-At the iSchool, you can use Docker from the iSchool Macs (in the classroom and in the lab):
+### Getting started on the iSchool Macs (in the classroom and in the lab):
 
 1. Open a new terminal window.
 
@@ -55,10 +47,18 @@ echo "Hello!" > sample_file.txt
 
 Open the `sharedfolder` directory on your desktop, and you should see the file we just created, `sample_file.txt`. The `sharedfolder` directory is like a portal between Ubuntu and your primary OS; both can read and write files located there, and any changes you make will instantly be visible in both operating systems.
 
-### Getting started on your own computer using Docker for supporting Jupyter notebook
-In macOS, open Terminal and enter the following commands to launch the Docker container:
+### Getting started on your own computer using Docker
+1. On your own computer, you'll have to download Docker:
 
-```python
+- [Install Docker for macOS](https://docs.docker.com/docker-for-mac/install/#install-and-run-docker-for-mac)
+- [Install Docker for Windows 10](https://pcda17.github.io/tutorials/Docker_install_Windows)
+- [Install Docker Toolbox for Windows 7 or 8](https://docs.docker.com/toolbox/toolbox_install_windows/)
+
+
+2. Launch the Docker container
+In macOS, open Terminal and enter the following commands to remove any current running containers and to launch a new one:
+
+```
 docker rm -f pcda_ubuntu
 docker pull pcda17/ubuntu-container
 docker run --name pcda_ubuntu -ti -p 8889:8889 --volume ~/Desktop/sharedfolder/:/sharedfolder/ pcda17/ubuntu-container
@@ -66,7 +66,7 @@ docker run --name pcda_ubuntu -ti -p 8889:8889 --volume ~/Desktop/sharedfolder/:
 
 In Windows 10, open PowerShell and enter the following commands to launch the Docker container:
 
-```python
+```
 docker rm -f pcda_ubuntu
 docker pull pcda17/ubuntu-container
 docker run --name pcda_ubuntu -ti -p 8889:8889 --volume C:\Users\***username_here***\Desktop\sharedfolder:/sharedfolder/ pcda17/ubuntu-container
@@ -76,4 +76,25 @@ Open any browser and type (your Juypter Notebook will launch):
 ```
 localhost:8889
 
+```
+#### Closing Docker
+
+To leave a Docker interactive terminal session and return to your main operating system's shell, press `ctrl + p` followed by `ctrl + q`.
+
+To view all current Docker containers, enter the following command:
+
+```
+docker ps -a
+```
+
+To close and remove a container, use `docker rm -f` followed by its name, like so:
+
+```
+docker rm -f pcda_ubuntu
+```
+
+To close and remove all current Docker containers, enter the following command:
+
+```
+docker rm $(docker ps -aq)
 ```
