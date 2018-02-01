@@ -75,7 +75,7 @@ docker run --name pcda_ubuntu -ti -p 8889:8889 --volume C:\Users\***username_her
 
 3. Launch Jupyter Notebook
 
-Open any browser and type:
+- Open any browser and type:
 ```
 localhost:8889
 
