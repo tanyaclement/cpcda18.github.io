@@ -47,7 +47,7 @@ echo "Hello!" > sample_file.txt
 
 Open the `sharedfolder` directory on your desktop, and you should see the file we just created, `sample_file.txt`. The `sharedfolder` directory is like a portal between Ubuntu and your primary OS; both can read and write files located there, and any changes you make will instantly be visible in both operating systems.
 
-### Getting started on your own computer using Docker
+### Getting started on your own computer using Docker (and open a Jupyter Notebook)
 1. On your own computer, you'll have to download Docker:
 
 - [Install Docker for macOS](https://docs.docker.com/docker-for-mac/install/#install-and-run-docker-for-mac)
