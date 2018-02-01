@@ -56,7 +56,8 @@ Open the `sharedfolder` directory on your desktop, and you should see the file w
 
 
 2. Launch the Docker container
-In macOS, open Terminal and enter the following commands to remove any current running containers and to launch a new one:
+
+- In macOS, open Terminal and enter the following commands to remove any current running containers and to launch a new one:
 
 ```
 docker rm -f pcda_ubuntu
@@ -64,7 +65,7 @@ docker pull pcda17/ubuntu-container
 docker run --name pcda_ubuntu -ti -p 8889:8889 --volume ~/Desktop/sharedfolder/:/sharedfolder/ pcda17/ubuntu-container
 ```
 
-In Windows 10, open PowerShell and enter the following commands to launch the Docker container:
+- In Windows 10, open PowerShell and enter the following commands to launch the Docker container:
 
 ```
 docker rm -f pcda_ubuntu
@@ -72,7 +73,9 @@ docker pull pcda17/ubuntu-container
 docker run --name pcda_ubuntu -ti -p 8889:8889 --volume C:\Users\***username_here***\Desktop\sharedfolder:/sharedfolder/ pcda17/ubuntu-container
 ```
 
-Open any browser and type (your Juypter Notebook will launch):
+3. Launch Jupyter Notebook
+
+Open any browser and type:
 ```
 localhost:8889
 
