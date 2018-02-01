@@ -80,7 +80,7 @@ docker run --name pcda_ubuntu -ti -p 8889:8889 --volume C:\Users\***username_her
 localhost:8889
 
 ```
-#### Closing Docker
+### Closing Docker
 
 To leave a Docker interactive terminal session and return to your main operating system's shell, press `ctrl + p` followed by `ctrl + q`.
 
