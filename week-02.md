@@ -196,6 +196,7 @@ print("Hello Jupyter!")
 Note that each cell’s output is displayed right below to the the code that produced it, which is a major benefit of working in Jupyter.
 
 ### Exercises
+Right click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
 [Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
 Do *Defining basics* through *String manipulation*
 
