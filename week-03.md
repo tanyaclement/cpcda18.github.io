@@ -11,6 +11,13 @@
 * .remove()
 * .sort()
 
+####Dictionaries
+* dictionary
+* indexing or accessing keys of dictionaries
+* adding items to a dictionary
+* .keys()
+* .values()
+
 ### Getting started
 In macOS, open Terminal and enter the following commands to launch the Docker container:
 
@@ -36,3 +43,4 @@ localhost:8889
 ### Exercises
 You should already have this notebook in your shared folder from last week, but if not, click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
 [Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
+Work through

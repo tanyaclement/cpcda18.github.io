@@ -5,12 +5,6 @@
 Right click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
 [Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
 
-####Dictionaries
-* dictionary
-* indexing or accessing keys of dictionaries
-* adding items to a dictionary
-* .keys()
-* .values()
 
 #### Conditions
 * conditions
