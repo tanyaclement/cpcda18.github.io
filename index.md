@@ -75,7 +75,6 @@ All other readings will either be available online and linked below or [posted o
 ## <a name="week1"></a>Week 1 (1/22): Introduction to Cultural Data Analysis
 
 ### Readings
-
 - danah boyd & Kate Crawford (2012) "Critical Questions for Big Data," *Information, Communication & Society*, 15:5, 662-679.
 - Piper, Andrew. "There will be Numbers." *Journal of Cultural Analytics* 1, no. 1 (May 23, 2016). [http://culturalanalytics.org/2016/05/there-will-be-numbers/](http://culturalanalytics.org/2016/05/there-will-be-numbers/)
 - Bod, Rens. "Introduction: the Quest for Principles and Patterns." *A New History of the Humanities: The Search for Principles and Patterns from Antiquity to the Present.* Oxford University Press, 2013, pp. 1 - 12. *Note: You must be logged in as a UT student to retrieve this text*: [http://catalog.lib.utexas.edu/record=b8902003~S29](http://catalog.lib.utexas.edu/record=b8902003~S29)
@@ -139,6 +138,7 @@ All other readings will either be available online and linked below or [posted o
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_4)
 #### Coding, writing, and exercises
 - Montfort chp 4. "Programming Fundamentals"; Montfort, chp. 5 "Standard Starting Points";
+- Albon, Chris. “String Operations.” [http://chrisalbon.com/python/string_operations.html](http://chrisalbon.com/python/string_operations.html)
 #### For discussion
 - Borgman, chp 2 "What are Data?"
 - Krumme, Coco. “What Data Doesn’t Do.” In *Beautiful Data: The Stories behind Elegant Data Solutions*, edited by Toby Segaran and Jeff Hammerbacher, 1st ed. Beijing ; Sebastopol, CA: O’Reilly, 2009.
@@ -160,7 +160,6 @@ All other readings will either be available online and linked below or [posted o
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_5)
 #### Coding, writing, and exercises
 - Montfort chp. 6 "Text I"
-- Albon, Chris. “String Operations.” [http://chrisalbon.com/python/string_operations.html](http://chrisalbon.com/python/string_operations.html)
 - [“HTML Introduction”](http://www.w3schools.com/html/html_intro.asp) and [“HTML5 Introduction”](http://www.w3schools.com/html/html5_intro.asp), W3Schools.
 #### For discussion
 - Borgman chp. 3 "Data Scholarship"
@@ -337,7 +336,6 @@ In class presentations of Data Set Reviews
 - Hammond, Adam. "The double bind of validation: distant reading and the digital humanities' 'trough of disillusionment." *Literature Compass* 14, no. 8 (August 1, 2017): no. pg.
 - Liu, Alan. “The Meaning of the Digital Humanities.” *PMLA* 128, no. 2 (March 2013): 409–23.
 - Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingdom of Knowledge.” *New Literary History* 47 (2): 353–75.
-“Textual Analysis.”
 #### Optional
 - Clement, T. and McLaughlin, S. [“Measured Applause: Toward a Cultural Analysis of Audio Collections.”](http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/) *Cultural Analytics*, vol. 1, no. 1, 2016.
 - Schmidt, B. ["Do Digital Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99).
