@@ -8,7 +8,8 @@ For more details on how Docker works, [see this overview](https://docs.docker.co
 
 Easier reads:
 
-[What is Docker and why is it so darn popular?](http://www.zdnet.com/article/what-is-docker-and-why-is-it-so-darn-popular/) ZDNet
+* [What is Docker and why is it so darn popular?](http://www.zdnet.com/article/what-is-docker-and-why-is-it-so-darn-popular/) ZDNet
+* [Docker Containers on the Desktop](https://blog.jessfraz.com/post/docker-containers-on-the-desktop/) Jessie Frazelle's Blog, 21 February 2015
 
 ### Getting started on the iSchool Macs (in the classroom and in the lab):
 
