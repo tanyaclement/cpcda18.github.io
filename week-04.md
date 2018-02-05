@@ -1,11 +1,5 @@
-## Week 4: Collections as Data: Data Models
-
-
+## Week 4
 ##Objectives
-Right click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
-[Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
-
-
 #### Conditions
 * conditions
 * indentation
@@ -21,6 +15,15 @@ Right click the following link and save the Jupyter notebook file to `sharedfold
 * or
 * multiple conditions
 
+#### Loops
+* loop
+* for statement
+* iterable objects
+* variable assignment in a for loop
+
+### Exercises
+Right click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
+[Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
 
 ### Getting started
 In macOS, open Terminal and enter the following commands to launch the Docker container:

@@ -1,15 +1,33 @@
-##Week 7: Text I
+##Week 7
 ###Objectives
-Right click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
-[Karsdorp, Chapter 2:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%202%20-%20First%20steps.ipynb)
-- Reading files
-- Writing a function
-- Text clean up
-- Writing results to a file
+- Type casting
+- String Manipulation
+* split()
+* join()
+* find()
+* replace()
+* strip() and newlines
+* lower() and upper() - Changing Case
+
+- Iterables, Iteration & Loops¶
+* Tuples & Sets
+* enumerate()
+* zip()
+* sorted() and reverse()
+* min(), max() and sum()
+
+- List comprehensions
+- Importing external modules
+- While loop
+- File Input/Output
+- Functions
 
 <!--
 explain Rest APIs by showing how a google search can change by changing the URL
 -->
+### Exercises
+Right click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
+[Karsdorp, Chapter 2: The Basics](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/answerbook/Chapter%202%20-%20The%20basics.ipynb)
 
 ### Getting started
 In macOS, open Terminal and enter the following commands to launch the Docker container:

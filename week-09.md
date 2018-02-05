@@ -1,23 +1,28 @@
-## Week 9: Your Culture, Your Data / Machine Learning 1
+## Week 9:
+###Objectives
+<!--
+Look at Python cookbook chapter 6 in week 8 files on Canvas.
+-->
+- Introducing OpenRefine
 
+### Exercises
 
+OpenRefine is very easy to download and run from your computer. You can get the download here: [http://openrefine.org/](http://openrefine.org/).
 
-Open Terminal in macOS and launch our Docker container:
+*Note: Today's OpenRefine tutorial is in this week's files on Canvas.* If you would like to run OpenRefine from Docker, see below.
+
+### Getting started running OpenRefine from Docker
+
+Open a new terminal window and run the following command to download and run a Dockerized copy of the tabular data cleaning program OpenRefine.
 
 ```
-docker rm -f pcda_ubuntu
-docker pull pcda17/ubuntu-container
-docker run --name pcda_ubuntu -ti -p 8889:8889 --volume ~/Desktop/sharedfolder/:/sharedfolder/ pcda17/ubuntu-container
+docker run --name openrefine -d -p 3334:3333 psychemedia/docker-openrefine
 ```
 
-In Windows 10, open PowerShell and enter the following to launch the Docker container:
+Enter the following address in your browser’s URL bar to open the application.
 
-```
-docker rm -f pcda_ubuntu
-docker pull pcda17/ubuntu-container
-docker run --name pcda_ubuntu -ti -p 8889:8889 --volume C:\Users\***username_here***\Desktop\sharedfolder:/sharedfolder/ pcda17/ubuntu-container
-```
-
+- [http://127.0.0.1:3334/](http://127.0.0.1:3334/)
+<!--
 Right click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
 
 
@@ -25,3 +30,4 @@ Right click the following link and save the Jupyter notebook file to `sharedfold
 
 
 Navigate to [localhost:8889](localhost:8889) in your browser to open the notebook.
+-->

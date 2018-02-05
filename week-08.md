@@ -1,15 +1,17 @@
-## Week 8: Text II
+## Week 8
 ###Objectives
+- Sentence Splitting
+- Simple Tokenisation¶
+- Extracting n-grams
+- Computing a Frequency Distribution
+- Finding files and reading a corpus
+ * Generators
 <!--
 Look at Python cookbook chapter 6 in week 8 files on Canvas.
 -->
+### Exercises
 Right click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
-[Karsdorp, Chapter 3:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%203%20-%20Text%20analysis.ipynb)
-- Sentence tokenization
-- General Text Statistics
-- Exploratory data analysis
-- Visualizing general statistics
-- Introducing OpenRefine
+[Karsdorp, Chapter 3: Text Processing](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%203%20-%20Text%20analysis.ipynb)
 
 ### Getting started
 In macOS, open Terminal and enter the following commands to launch the Docker container:
@@ -32,23 +34,7 @@ Open any browser and type (your Juypter Notebook will launch):
 ```
 localhost:8889
 ```
-#### OpenRefine
 
-OpenRefine is very easy to download and run from your computer. You can get the download here: [http://openrefine.org/](http://openrefine.org/).
-
-*Note: Today's OpenRefine tutorial is in this week's files on Canvas.* If you would like to run OpenRefine from Docker, see below.
-
-*Running OpenRefine from Docker*
-
-Open a new terminal window and run the following command to download and run a Dockerized copy of the tabluar data cleaning program OpenRefine.
-
-```
-docker run --name openrefine -d -p 3334:3333 psychemedia/docker-openrefine
-```
-
-Enter the following address in your browser’s URL bar to open the application.
-
-- [http://127.0.0.1:3334/](http://127.0.0.1:3334/)
 
 
 <!--
