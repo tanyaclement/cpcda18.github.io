@@ -335,10 +335,13 @@ In class presentations of Data Set Reviews
 #### For discussion
 - Hammond, Adam. "The double bind of validation: distant reading and the digital humanities' 'trough of disillusionment." *Literature Compass* 14, no. 8 (August 1, 2017): no. pg.
 - Liu, Alan. “The Meaning of the Digital Humanities.” *PMLA* 128, no. 2 (March 2013): 409–23.
+- Schmidt, B. ["Do Digital Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99).
 - Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingdom of Knowledge.” *New Literary History* 47 (2): 353–75.
+#### Have some fun!
+- Scroll through [these examples of neural networks inventing things based on example](http://aiweirdness.com/) such as insect names, thesis titles, guinea pig names, and pie
+- “Transparency” through end-user parameter modification or [Change your algorithm for what Spotify picks for you](https://www.theverge.com/tldr/2018/2/5/16974194/spotify-recommendation-algorithm-playlist-hack-nelson)
 #### Optional
 - Clement, T. and McLaughlin, S. [“Measured Applause: Toward a Cultural Analysis of Audio Collections.”](http://culturalanalytics.org/2016/05/measured-applause-toward-a-cultural-analysis-of-audio-collections/) *Cultural Analytics*, vol. 1, no. 1, 2016.
-- Schmidt, B. ["Do Digital Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99).
 
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
