@@ -174,6 +174,8 @@ All other readings will either be available online and linked below or [posted o
 
 ### Speaker: Maria Fernandez
 
+#### [▸ In-class outline](week-05.md)
+
 ----------------------------------------------------------------
 
 
