@@ -29,8 +29,7 @@
 
 - OpenRefine is very easy to download and run from your computer. You can get the download here: [http://openrefine.org/](http://openrefine.org/).
 
-*Note: Today's OpenRefine tutorial is in this week's files on Canvas.* If you would like to run OpenRefine from Docker, see below.
-
+*Note: Today's OpenRefine tutorial is in a zip file in this week's files on Canvas.* If you would like to run OpenRefine from Docker, see below.
 
 ### Getting started
 In macOS, open Terminal and enter the following commands to launch the Docker container:

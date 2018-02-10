@@ -8,8 +8,9 @@
 - Writing results to a file
 
 ### Exercises
-Right click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
+1. Right click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
 [Karsdorp, Chapter 2: First Steps](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%202%20-%20First%20steps.ipynb)
+2. The exercise calls for some data files that you'll need to have in your `sharedfolder` too. You can get these from the Github repository: [https://github.com/fbkarsdorp/python-course/tree/master/data](https://github.com/fbkarsdorp/python-course/tree/master/data) by clicking on the file you need, selecting `raw` and then `save as` onto your computer. You can also use Wget, a free software package for scraping files but we're not doing that until next week! *note: your first command says your file is in `data/austen-emma-excerpt.txt`, but is it??*
 
 ### Getting started
 In macOS, open Terminal and enter the following commands to launch the Docker container:
