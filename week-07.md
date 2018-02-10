@@ -26,8 +26,8 @@
 explain Rest APIs by showing how a google search can change by changing the URL
 -->
 ### Exercises
-Right click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
-[Karsdorp, Chapter 2: The Basics](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/answerbook/Chapter%202%20-%20The%20basics.ipynb)
+- Select `Raw` at the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
+[Karsdorp, Chapter 2: The Basics](https://github.com/tanyaclement/cpcda18.github.io/blob/master/Chapter%202%20-%20The%20basics.ipynb)
 
 ### Getting started
 In macOS, open Terminal and enter the following commands to launch the Docker container:
