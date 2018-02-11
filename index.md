@@ -185,6 +185,8 @@ In class presentations of Data Set Reviews
 ### Assignment
 [Data Set Review](https://utexas.instructure.com/courses/1216881/assignments/4249399)
 
+#### [▸ In-class outline](week-06.md)
+
 ----------------------------------------------------------------
 # II. Interpretive Framing with Data
 ## <a name="week7"></a>Week 7 (3/5): Audience
