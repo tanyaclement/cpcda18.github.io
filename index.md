@@ -142,7 +142,7 @@ All other readings will either be available online and linked below or [posted o
 #### For discussion
 - Borgman, chp 2 "What are Data?"
 - Krumme, Coco. “What Data Doesn’t Do.” In *Beautiful Data: The Stories behind Elegant Data Solutions*, edited by Toby Segaran and Jeff Hammerbacher, 1st ed. Beijing ; Sebastopol, CA: O’Reilly, 2009.
-- Rosenthal, "Data Before the Fact." In Gitelman, Lisa *"Raw Data" is an Oxymoron*. Cambridge: MIT Press, 2013.
+- Rosenberg, "Data Before the Fact." In Gitelman, Lisa *"Raw Data" is an Oxymoron*. Cambridge: MIT Press, 2013.
 #### Optional
 - Fortune, Stephen. “A Brief History of Databases.” *Avant*, February 27th 2014. [https://web.archive.org/web/20150220031213/http://avant.org/media/history-of-databases](https://web.archive.org/web/20150220031213/http://avant.org/media/history-of-databases)
 
