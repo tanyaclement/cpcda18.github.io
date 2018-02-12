@@ -145,7 +145,10 @@ All other readings will either be available online and linked below or [posted o
 - Rosenberg, "Data Before the Fact." In Gitelman, Lisa *"Raw Data" is an Oxymoron*. Cambridge: MIT Press, 2013.
 #### Optional
 - Borges, Luis. ["The Analytical Language of John Wilkins."](http://www.alamut.com/subj/artiface/language/johnWilkins.html)
+- Nunberg, Geoffrey. "Google's Book Search: A Disaster for Scholars." *Chronicle of Higher Education.* 31 Aug. 2009.
 - Fortune, Stephen. “A Brief History of Databases.” *Avant*, February 27th 2014. [https://web.archive.org/web/20150220031213/http://avant.org/media/history-of-databases](https://web.archive.org/web/20150220031213/http://avant.org/media/history-of-databases)
+- Pechenick, Eitan Adam, et al. “Characterizing the Google Books Corpus: Strong Limits to Inferences of Socio-Cultural and Linguistic Evolution.” PLOS ONE, vol. 10, no. 10, Oct. 2015, p. e0137041.
+- Zhang, Sarah. “The Pitfalls Of Using Google Ngram To Study Language.” *Wired.* 12 October 2015.
 
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
