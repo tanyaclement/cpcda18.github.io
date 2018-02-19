@@ -209,7 +209,6 @@ In class presentations of Data Set Reviews
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
-### Speaker: Maria Fernandez
 
 #### [▸ In-class outline](week-07.md)
 
@@ -233,6 +232,8 @@ In class presentations of Data Set Reviews
 
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
+
+### Speaker: Maria Fernandez
 
 #### [▸ In-class outline](week-08.md)
 
@@ -341,7 +342,7 @@ In class presentations of Data Set Reviews
 - Lundh, Fredrik. “Elements and Element Trees.” [http://effbot.org/zone/element.htm](http://effbot.org/zone/element.htm) [Python XML tutorial]
 - Beazley, David, and Brian K. Jones. “Chapter 6: Data Encoding and Processing.” In Python Cookbook: *recipes for Mastering Python 3*, 3. ed., 175–216. Bejing: O’Reilly, 2013.
 #### For discussion
-- Brown and Mandell, ["The Identity Issue: An Introduction."](http://culturalanalytics.org/2018/02/the-identity-issue-an-introduction/) *Journal of Cultural Analytics* 13 February 2018. 
+- Brown and Mandell, ["The Identity Issue: An Introduction."](http://culturalanalytics.org/2018/02/the-identity-issue-an-introduction/) *Journal of Cultural Analytics* 13 February 2018.
 - Hammond, Adam. "The double bind of validation: distant reading and the digital humanities' 'trough of disillusionment." *Literature Compass* 14, no. 8 (August 1, 2017): no. pg.
 - Schmidt, B. ["Do Digital Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99).
 - Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingdom of Knowledge.” *New Literary History* 47 (2): 353–75.
