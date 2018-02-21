@@ -1,5 +1,5 @@
 ##Week 7
-###Objectives
+### Objectives
 - Type casting
 - String Manipulation
 * split()
