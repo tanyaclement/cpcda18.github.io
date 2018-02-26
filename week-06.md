@@ -13,6 +13,8 @@ Wget and Applied Archival Downloading
 
 2. ["Fetching and Parsing Data from the Web with OpenRefine"](https://programminghistorian.org/lessons/fetch-and-parse-data-with-openrefine) *Example 1: Fetching and Parsing HTML and Example 2: URL Queries and Parsing JSON* in Programming Historian by Evan Peter Williamson
 
+*hints* refer to [Week 4](https://tanyaclement.github.io/cpcda18.github.io/week-04.html) if you are having trouble opening OpenRefine.
+
 Open Terminal in macOS and launch our Docker container:
 
 ```
