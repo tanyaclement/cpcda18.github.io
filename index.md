@@ -211,6 +211,8 @@ In class presentations of Data Set Reviews
 
 
 #### [▸ In-class outline](week-07.md)
+- Getting Files
+- Revisiting the basics
 
 ----------------------------------------------------------------
 # SPRING BREAK (3/12)
@@ -236,6 +238,7 @@ In class presentations of Data Set Reviews
 ### Speaker: Maria Fernandez
 
 #### [▸ In-class outline](week-08.md)
+- Text Processing
 
 ----------------------------------------------------------------
 ## <a name="week9"></a>Week 9 (3/26): Data Modeling
@@ -254,7 +257,7 @@ In class presentations of Data Set Reviews
 [*Proposal due Friday, March 23 at 11:59pm; Peer reviews due by class March 26 at 3pm*](https://utexas.instructure.com/courses/1216881/assignments/4166696)
 
 #### [▸ In-class outline](week-09.md)
-
+- Text Analysis
 
 ----------------------------------------------------------------
 
@@ -278,7 +281,7 @@ In class presentations of Data Set Reviews
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 #### [▸ In-class outline](week-10.md)
-
+- Classification: topic modeling, supervised, unsupervised
 ----------------------------------------------------------------
 
 ## <a name="week11"></a>Week 11 (4/9): Methods
@@ -303,7 +306,7 @@ In class presentations of Data Set Reviews
 
 ### Speaker: Maria Fernandez
 #### [▸ In-class outline](week-11.md)
-
+- Classification: topic modeling, supervised, unsupervised
 
 ----------------------------------------------------------------
 
@@ -330,7 +333,7 @@ In class presentations of Data Set Reviews
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 #### [▸ In-class outline](week-12.md)
-
+- Tableau
 ----------------------------------------------------------------
 
 ## <a name="week13"></a>Week 13 (4/23): Features
