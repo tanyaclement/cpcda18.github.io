@@ -1,56 +1,5 @@
-## Week 9
+## Week 11: discussion
 
-### Objectives
-- Sentence tokenization
-- General Text Statistics
-- Exploratory data analysis
-- Visualizing general statistics
-
-### Exercises
-Right click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
-[Karsdorp, Chapter 3: Text Analysis](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/answerbook/Chapter%203%20-%20Text%20analysis.ipynb)
-
-<!--
-Look at Python cookbook chapter 6 in week 8 files on Canvas.
--->
-### Getting started
-Open Terminal in macOS and launch our Docker container:
-
-```
-docker rm -f pcda_ubuntu
-docker pull pcda17/ubuntu-container
-docker run --name pcda_ubuntu -ti -p 8889:8889 --volume ~/Desktop/sharedfolder/:/sharedfolder/ pcda17/ubuntu-container
-```
-
-In Windows 10, open PowerShell and enter the following to launch the Docker container:
-
-```
-docker rm -f pcda_ubuntu
-docker pull pcda17/ubuntu-container
-docker run --name pcda_ubuntu -ti -p 8889:8889 --volume C:\Users\***username_here***\Desktop\sharedfolder:/sharedfolder/ pcda17/ubuntu-container
-```
-
-Open any browser and type (your Juypter Notebook will launch):
-```
-localhost:8889
-```
-
-
-<!--
-Look at Python cookbook chapter 6 in week 8 files on Canvas.
--->
-
-<!--
-Right click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
-
-
-- [Machine Learning 1](https://raw.githubusercontent.com/pcda17/pcda17.github.io/master/Week-09_Machine-Learning.ipynb)
-
-
-Navigate to [localhost:8889](localhost:8889) in your browser to open the notebook.
--->
-
-<!--
 #### Working with JSON
 JSON data is a representation of key-value pairs, very much like a dictionary in Python. For the following example we’ll download a JSON version of the artwork metadata we’ve been working with.
 
@@ -161,3 +110,25 @@ with open(out_path, 'w') as fo:
 ```
 
 Open your CSV in LibreOffice or Excel.
+
+
+Open Terminal in macOS and launch our Docker container:
+
+```
+docker rm -f pcda_ubuntu
+docker pull pcda17/ubuntu-container
+docker run --name pcda_ubuntu -ti -p 8889:8889 --volume ~/Desktop/sharedfolder/:/sharedfolder/ pcda17/ubuntu-container
+```
+
+In Windows 10, open PowerShell and enter the following to launch the Docker container:
+
+```
+docker rm -f pcda_ubuntu
+docker pull pcda17/ubuntu-container
+docker run --name pcda_ubuntu -ti -p 8889:8889 --volume C:\Users\***username_here***\Desktop\sharedfolder:/sharedfolder/ pcda17/ubuntu-container
+```
+
+Download a Jupyter notebook from the list below to `sharedfolder` on your desktop.
+
+
+Navigate to [localhost:8889](localhost:8889) in your browser to open the notebook.
