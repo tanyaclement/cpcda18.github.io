@@ -64,8 +64,8 @@ All other readings will either be available online and linked below or [posted o
 
 ## Assignments
 ### [Class Attendance and Participation (10%)](https://utexas.instructure.com/courses/1216881/assignments/4276538)
-### [Discussion Lead (10%)](https://utexas.instructure.com/courses/1216881/assignments/4276501)
-### [Weekly Discussion Posts (25%)](https://utexas.instructure.com/courses/1216881/assignments/4240876)
+### [Discussion Lead (5%)](https://utexas.instructure.com/courses/1216881/assignments/4276501)
+### [Weekly Discussion Posts (30%)](https://utexas.instructure.com/courses/1216881/assignments/4240876)
 ### [Data Set Review (15%)](http://culturalanalytics.org/2017/10/introducing-data-sets-a-new-section/)
 ### [Final Project: Critical Data Analysis Research Paper (40%)](https://utexas.instructure.com/courses/1216881/assignments/4240878)
 
@@ -138,7 +138,7 @@ All other readings will either be available online and linked below or [posted o
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_4)
 #### Coding, writing, and exercises
 - Montfort chp 4. "Programming Fundamentals"; Montfort, chp. 5 "Standard Starting Points";
-- Albon, Chris. “String Operations.” [http://chrisalbon.com/python/string_operations.html](http://chrisalbon.com/python/string_operations.html)
+- Zhuang, Atima Han, Ishita Vedvyas, and Rishikesh Dole. “Tutorial: OpenRefine,” 2013. [http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf](http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf)
 #### For discussion
 - Borgman, chp 2 "What are Data?"
 - Krumme, Coco. “What Data Doesn’t Do.” In *Beautiful Data: The Stories behind Elegant Data Solutions*, edited by Toby Segaran and Jeff Hammerbacher, 1st ed. Beijing ; Sebastopol, CA: O’Reilly, 2009.
@@ -221,13 +221,13 @@ In class presentations of Data Set Reviews
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_8)
 #### Coding, writing, and exercises
 - Montfort chp. 8 "Image I"
-- Zhuang, Atima Han, Ishita Vedvyas, and Rishikesh Dole. “Tutorial: OpenRefine,” 2013. [http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf](http://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf)
+- Albon, Chris. “String Operations.” [http://chrisalbon.com/python/string_operations.html](https://chrisalbon.com/python/basics/string_operations/)
 #### For discussion
 - Christen, Kim. “Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness.” *International Journal of Communication* 6 (2012), 2870–2893.
 - Day, Ronald E. “Governing Expression: Social Big Data and Neoliberalism.” In *Indexing It All: The Subject in the Age of Documentation*, Information, and Data, 123–44. History and Foundations of Information Science. Cambridge, Massachusetts: The MIT Press, 2014.
-- Peters, Justin. *The Idealist: Aaron Swartz and the Rise of Free Culture on the Internet*, Chapters 7 and 8. New York: Scribner, 2016.
 - Pomerantz, Jeffrey. “The Future of Metadata.” In *Metadata*. The MIT Press Essential Knowledge Series. Cambridge, MA ; London, England: The MIT Press, 2015.
 ### Optional
+- Peters, Justin. *The Idealist: Aaron Swartz and the Rise of Free Culture on the Internet*, Chapters 7 and 8. New York: Scribner, 2016.
 - O’Sullivan, Michael. “Aaron Swartz, New Technologies, and the Myth of Open Access.” In *Academic Barbarism, Universities and Inequality*. Palgrave Critical University Studies. Houndmills, Basingstoke, Hampshire ; New York, NY: Palgrave Macmillan, 2016.
 
 ### Assignment
