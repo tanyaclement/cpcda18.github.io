@@ -1,7 +1,7 @@
 ## Week 8
 ### Objectives
 - Sentence Splitting
-- Simple Tokenisation¶
+- Simple Tokenisation
 - Extracting n-grams
 - Computing a Frequency Distribution
 - Finding files and reading a corpus
