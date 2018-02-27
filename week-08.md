@@ -5,7 +5,6 @@
 - Extracting n-grams
 - Computing a Frequency Distribution
 - Finding files and reading a corpus
- * Generators
 <!-- Look at Python cookbook chapter 6 in week 8 files on Canvas.-->
 
 ### Exercises
