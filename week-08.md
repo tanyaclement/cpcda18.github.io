@@ -6,12 +6,11 @@
 - Computing a Frequency Distribution
 - Finding files and reading a corpus
  * Generators
-<!--
-Look at Python cookbook chapter 6 in week 8 files on Canvas.
--->
+<!-- Look at Python cookbook chapter 6 in week 8 files on Canvas.-->
+
 ### Exercises
-1. Right click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
-[Karsdorp, Chapter 3: Text Processing](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%203%20-%20Text%20analysis.ipynb)
+1. Save the Jupyter notebook file to `sharedfolder` on your desktop.
+[Karsdorp, Chapter 3: Text Processing](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/old/Appendix%20-%20Text%20Preprocessing.ipynb)
 
 2. Sample datasets from The Museum of Modern Art (MoMA) [via GitHub](https://github.com/MuseumofModernArt/collection). Download these files to your /sharedfolder/ on your desktop.
 - [Artists.csv](https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artists.csv)
