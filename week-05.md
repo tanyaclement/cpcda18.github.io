@@ -8,9 +8,9 @@
 - Writing results to a file
 
 ### Exercises
-1. Click the following link and save the Jupyter notebook file. You can either select the "download" icon in the upper right of the page or choose `File>Save Page As` but be sure you are working with a file that has .ipynb as a suffix.  Move the to `sharedfolder` on your desktop. 
+1. Click the following link and save the Jupyter notebook file. It works differently for different computers. You could right click this link here  and choose "Save Link As" or you might click through on the link and select the "download" icon in the upper right of the page or choose `File>Save Page As` but be sure you are working with a file that has .ipynb as a suffix.  In all cases, move the file to `sharedfolder` on your desktop.
 [Karsdorp, Chapter 2: First Steps](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%202%20-%20First%20steps.ipynb)
-2. The exercise calls for some data files that you'll need to have in your `sharedfolder` too. You can get these from the Github repository: [https://github.com/fbkarsdorp/python-course/tree/master/data](https://github.com/fbkarsdorp/python-course/tree/master/data) by clicking on the file you need, selecting `raw` and then `save as` onto your computer. You can also use Wget, a free software package for scraping files but we're not doing that until next week! *note: your first command says your file is in `data/austen-emma-excerpt.txt`, but is it?? You may have to edit the location . . . *
+2. The exercise calls for some data files that you'll need to have in your `sharedfolder` too. You can get these from the Github repository: [https://github.com/fbkarsdorp/python-course/tree/master/data](https://github.com/fbkarsdorp/python-course/tree/master/data) by clicking on the file you need, selecting `raw` and then `save as` onto your computer. You can also use Wget, a free software package for scraping files but we're not doing that until next week! *note: your first command says your file is in `data/austen-emma-excerpt.txt`, but is it?? You may have to edit the location . . .*
 
 ### Getting started
 In macOS, open Terminal and enter the following commands to launch the Docker container:
