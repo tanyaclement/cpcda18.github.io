@@ -1,7 +1,5 @@
 ## Week 10
 
-
-
 ## *> Review Exercises*
 
 ```
