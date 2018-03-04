@@ -205,6 +205,7 @@ In class presentations of Data Set Reviews
 - Pound, Scott. “Kenneth Goldsmith and the Poetics of Information.” PMLA, vol. 130, no. 2, Mar. 2015, pp. 315–30.
 ### Optional
 - Neff, Gina, Tanweer, Anissa, Fiore-Gartland, Brittany, Osburn, Laura  Critique and Contribute: A Practice-Based Framework for Improving Critical Data Studies and Data Science. *Big Data* 5, no. 2, 2017.
+- Oualline, Steve. [“The End of Line Puzzle.” The Practical Programmer.](http://www.oualline.com/practical.programmer/eol.html)
 
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
