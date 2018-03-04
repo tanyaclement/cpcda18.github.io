@@ -163,7 +163,7 @@ All other readings will either be available online and linked below or [posted o
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_5)
 #### Coding, writing, and exercises
-- Montfort chp. 6 "Text I"
+- Montfort chp. 6 "Text I" ([some hints on possible errors](https://github.com/tanyaclement/cpcda18.github.io/blob/master/montfort6-7.md))
 - [“HTML Introduction”](http://www.w3schools.com/html/html_intro.asp) and [“HTML5 Introduction”](http://www.w3schools.com/html/html5_intro.asp), W3Schools.
 #### For discussion
 - Borgman chp. 3 "Data Scholarship"
@@ -197,7 +197,7 @@ In class presentations of Data Set Reviews
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_7)
 #### Coding, writing, and exercises
-- Montfort chp. 7 "Text II"
+- Montfort chp. 7 "Text II" ([some hints on possible errors](https://github.com/tanyaclement/cpcda18.github.io/blob/master/montfort6-7.md))
 #### For discussion
 - Borgman chp. 4 "Data Diversity"
 - Hitchcock, Tim. “Digital Searching and the Re-formulation of Historical Knowledge” 2008. In *The Virtual Representation of the Past*, edited by Mark Greenglass and Lorna Hughes, 81-90. Ashgate: 2008.
@@ -209,7 +209,9 @@ In class presentations of Data Set Reviews
 
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
-
+<!--
+Add Montfort Text II exercise into a discussion post pg. 145.
+-->
 
 #### [▸ In-class outline](week-07.md)
 - Getting Files
