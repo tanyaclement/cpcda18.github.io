@@ -16,7 +16,7 @@ Wget and Applied Archival Downloading
   !wget -i urls.txt -r --no-parent -nd -w 2 --limit-rate=100k
   ```
 - Reference the [Wget Manual](https://www.gnu.org/software/wget/manual/wget.html) if you are curious about the code bits.
-- And, if you're really stuck, [check out the workaround](https://github.com/tanyaclement/cpcda18.github.io/blob/master/Week_06_ProgrammingHistorian_workaround.ipynb).
+- And, if you're really stuck, [check out the  workaround](https://github.com/tanyaclement/cpcda18.github.io/blob/master/Week_06_ProgrammingHistorian_workaround.ipynb).
 - There is also one thing that has changed since this tutorial was written:  
 This:
 "http://chroniclingamerica.loc.gov/search/pages/results/?state=" + value.escape('url') + "&date1=" + cells['year'].value.escape('url') + "&date2=" + cells['year'].value.escape('url') + "&dateFilterType=yearRange&sequence=1&sort=date&rows=5&format=json"
