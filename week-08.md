@@ -8,14 +8,13 @@
 <!-- Look at Python cookbook chapter 6 in week 8 files on Canvas.-->
 
 ### Exercises
-1. Save the Jupyter notebook file to `sharedfolder` on your desktop.
-[Karsdorp, Chapter 3: Text Processing](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/old/Appendix%20-%20Text%20Preprocessing.ipynb)
-
-2. Sample datasets from The Museum of Modern Art (MoMA) [via GitHub](https://github.com/MuseumofModernArt/collection). Download these files to your /sharedfolder/ on your desktop.
+1. 
+2.
+3. Sample datasets from The Museum of Modern Art (MoMA) [via GitHub](https://github.com/MuseumofModernArt/collection). Download these files to your /sharedfolder/ on your desktop.
 - [Artists.csv](https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artists.csv)
 - [Artworks.csv](https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artworks.csv)
 
-#### Run Docker container
+#### Getting Started
 
 In macOS, open Terminal and enter the following commands to launch the Docker container:
 
@@ -32,8 +31,6 @@ docker rm -f pcda_ubuntu
 docker pull pcda17/ubuntu-container
 docker run --name pcda_ubuntu -ti -p 8889:8889 --volume C:\Users\***username_here***\Desktop\sharedfolder:/sharedfolder/ pcda17/ubuntu-container
 ```
-
-#### Open Jupyter Notebook
 
 #### CSV I/O in Python
 Paste the following code snippet into a new Jupyter notebook.
