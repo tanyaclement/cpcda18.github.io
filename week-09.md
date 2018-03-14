@@ -2,6 +2,11 @@
 
 ### Objectives
 - Sentence tokenization
+- Sentence Splitting
+- Simple Tokenization
+- Extracting n-grams
+- Computing a Frequency Distribution
+- Finding files and reading a corpus
 - General Text Statistics
 - Exploratory data analysis
 - Visualizing general statistics
