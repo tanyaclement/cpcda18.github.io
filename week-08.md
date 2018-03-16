@@ -12,7 +12,6 @@ CSV Input/Output in Python](https://github.com/tanyaclement/cpcda18.github.io/bl
 2. Sample datasets from The Museum of Modern Art (MoMA) [via GitHub](https://github.com/MuseumofModernArt/collection). Download these files to your /sharedfolder/ on your desktop.
 - [Artists.csv](https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artists.csv)
 - [Artworks.csv](https://media.githubusercontent.com/media/MuseumofModernArt/collection/master/Artworks.csv)
-
 #### CSV I/O in Python
 Paste the following code snippet into a new Jupyter notebook.
 
