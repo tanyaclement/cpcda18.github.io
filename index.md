@@ -241,7 +241,7 @@ Add Montfort Text II exercise into a discussion post pg. 145.
 ### Speaker: Maria Fernandez
 
 #### [▸ In-class outline](week-08.md)
-- Text Processing
+- CSV Input/Output in Python
 
 ----------------------------------------------------------------
 ## <a name="week9"></a>Week 9 (3/26): Data Modeling
