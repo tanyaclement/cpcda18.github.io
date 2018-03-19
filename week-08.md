@@ -6,8 +6,7 @@
 
 ### Exercises
 1. Download these Notebooks into your `/sharedfolder` directory:
-- [
-CSV Input/Output in Python](https://github.com/tanyaclement/cpcda18.github.io/blob/master/week-08.1_CSV-Input-Output.ipynb)
+- [week-08.1_CSV-Input-Output](https://github.com/tanyaclement/cpcda18.github.io/blob/master/week-08.1_CSV-Input-Output.ipynb)
 - [Week_08.2_CSV_InputOutput_Python_MOMA](https://github.com/tanyaclement/cpcda18.github.io/blob/master/Week_08.2_CSV_InputOutput_Python_MOMA.ipynb)
 
 
