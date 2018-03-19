@@ -4,9 +4,11 @@
 - Supervised learning: Naive Bayes classification
 
 ### Exercises
-- Select `Raw` at the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
+Select `Raw` at the following link and save the Jupyter notebook files to `sharedfolder` on your desktop.
 
-[https://github.com/tanyaclement/cpcda18.github.io/blob/master/Week-10_Machine-Learning.ipynb](https://github.com/tanyaclement/cpcda18.github.io/blob/master/Week-10_Machine-Learning.ipynb)
+1. [Karsdorp, Chapter 3: Text Analysis](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/answerbook/Chapter%203%20-%20Text%20analysis.ipynb)
+
+2. [https://github.com/tanyaclement/cpcda18.github.io/blob/master/Week-10_Machine-Learning.ipynb](https://github.com/tanyaclement/cpcda18.github.io/blob/master/Week-10_Machine-Learning.ipynb)
 
 ### Getting started
 Open Terminal in macOS and launch our Docker container:

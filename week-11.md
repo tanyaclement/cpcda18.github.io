@@ -6,6 +6,7 @@
 
 1. [New York Times article scrape](https://github.com/tanyaclement/cpcda18.github.io/blob/master/Week-11_NYT_Article_Scrape.ipynb)
 2. [Supervised Learning](https://github.com/tanyaclement/cpcda18.github.io/blob/master/Week-11.2_Supervised-learning.ipynb)
+3. - [Unsupervised Learning: k-means clustering](https://github.com/pcda17/pcda17.github.io/blob/master/Week-11.1_Clustering.ipynb)
 
 ### Getting started
 Open Terminal in macOS and launch our Docker container:
