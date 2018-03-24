@@ -4,18 +4,14 @@
 check out Python cookbook on processing different data models:
 https://utexas.instructure.com/courses/1216881/files/folder/Week_13?preview=44193290
 -->
-
+### Other resources:
+- [https://github.com/tanyaclement/cpcda18.github.io/blob/master/tools_data.md](https://github.com/tanyaclement/cpcda18.github.io/blob/master/tools_data.md)
 
 ### Jupyter Notebooks
 
 - [Reference Snippets: Strings and Lists](https://github.com/pcda17/pcda17.github.io/blob/master/Reference_Snippets_--_Strings_and_Lists.ipynb)
 
-- [Unsupervised Learning: k-means clustering](https://github.com/pcda17/pcda17.github.io/blob/master/Week-11.1_Clustering.ipynb)
-
 - [Supervised Learning](https://github.com/pcda17/pcda17.github.io/blob/master/Week-11.2_Supervised-learning.ipynb)
-
-- [New York Times Article Scraper](https://github.com/pcda17/pcda17.github.io/blob/master/Week-11_NYT_Article_Scrape.ipynb)
-
 
 ### Resources
 

@@ -1,4 +1,4 @@
-## Week 8: Word-Level Text Analysis
+## Week 8: Discussion Exercises
 
 
 

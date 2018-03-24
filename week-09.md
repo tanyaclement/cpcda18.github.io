@@ -1,15 +1,10 @@
 ## Week 9
 
 ### Objectives
-- Sentence tokenization
-- Sentence Splitting
-- Simple Tokenization
-- Extracting n-grams
-- Computing a Frequency Distribution
-- Finding files and reading a corpus
-- General Text Statistics
-- Exploratory data analysis
-- Visualizing general statistics
+- Using the Google Books REST API
+- New York Times article scrape
+- Scraping and Parsing XML
+- Fetching and Parsing Data from the Web with OpenRefine, APIs
 
 ### Exercises
 Save the following Jupyter notebook files to `sharedfolder` on your desktop.
@@ -18,9 +13,12 @@ Save the following Jupyter notebook files to `sharedfolder` on your desktop.
 
 2. [New York Times article scrape](https://github.com/tanyaclement/cpcda18.github.io/blob/master/Week-09.2_NYT_Article_Scrape.ipynb)
 
-3. Save the Jupyter notebook file to `sharedfolder` on your desktop.
-[Karsdorp, Chapter 3: Text Processing](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/old/Appendix%20-%20Text%20Preprocessing.ipynb)
-- You'll want to be sure that you have completed [Chapter 2: The Basics](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/answerbook/Chapter%202%20-%20The%20basics.ipynb) before tackling these exercises. Chapter 2 is also a great reference if you need a reminder of what different functions do.
+3. [Scraping and Parsing XML](https://github.com/tanyaclement/cpcda18.github.io/blob/master/Week-09.3_Scraping-and-Parsing-XML.ipynb)
+
+4. [Fetching and Parsing Data from the Web with OpenRefine, APIs](https://programminghistorian.org/lessons/fetch-and-parse-data-with-openrefine) *Example 2: URL Queries and Parsing JSON*
+
+- Using OpenRefine: Start the application on the lab computer on the Mac side. It only works through a
+browser window. If the browser window doesn’t open automagically after doubleclicking on the application, copy and paste http://127.0.0.1:3333/ into your browser window.
 
 <!--
 Look at Python cookbook chapter 6 in week 8 files on Canvas.

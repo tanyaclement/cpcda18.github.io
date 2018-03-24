@@ -154,6 +154,7 @@ All other readings will either be available online and linked below or [posted o
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 #### [▸ In-class outline](week-04.md)
+- OpenRefine
 
 
 ----------------------------------------------------------------
@@ -190,6 +191,8 @@ In class presentations of Data Set Reviews
 [Data Set Review](https://utexas.instructure.com/courses/1216881/assignments/4249399)
 
 #### [▸ In-class outline](week-06.md)
+- Downloading with Wget
+- Fetching and Parsing Data from the Web with OpenRefine
 
 ----------------------------------------------------------------
 # II. Interpretive Framing with Data
@@ -255,12 +258,16 @@ Add Montfort Text II exercise into a discussion post pg. 145.
 - Kelly, Chelsea Emelie. [“Beyond Digital: Open Collections & Cultural Institutions,”](https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions) 2014.
 #### Optional
 - Manzo, Christina, Geoff Kaufman, Sukdith Punjasthitkul, and Mary Flanagan. “‘By the People, For the People’: Assessing the Value of Crowdsourced, User-Generated Metadata.” *Digital Humanities Quarterly* 9, no. 1 (2015). [http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html](http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html)
+- Veltman, Noah. [Web APIs for non-programmers](https://schoolofdata.org/2013/11/18/web-apis-for-non-programmers/). November 18, 2013. *School of Data*. 
 
 ### Assignment
 [*Proposal due Friday, March 23 at 11:59pm; Peer reviews due by class March 26 at 3pm*](https://utexas.instructure.com/courses/1216881/assignments/4166696)
 
 #### [▸ In-class outline](week-09.md)
-- Text Analysis
+- Using the Google Books REST API
+- New York Times article scrape
+- Scraping and Parsing XML
+- Fetching and Parsing Data from the Web with OpenRefine, APIs
 
 ----------------------------------------------------------------
 
@@ -269,7 +276,7 @@ Add Montfort Text II exercise into a discussion post pg. 145.
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_10)
 #### Coding, writing, and exercises
-- Montfort chp. 9 "Image II"
+- Montfort chp. 10 "Text III"
 - Final project directory: Booth chp. 4 "From Questions to a Problem"
 #### For discussion
 - Conley, Tara L. "Decoding Black Feminist Hashtags as Becoming" The Black Scholar Vol. 47 , Iss. 3, 2017.
@@ -284,14 +291,16 @@ Add Montfort Text II exercise into a discussion post pg. 145.
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 #### [▸ In-class outline](week-10.md)
-- Classification: topic modeling, supervised, unsupervised
+- Unsupervised learning: Latent Dirichlet allocation (LDA) topic modeling
+- Supervised learning: Naive Bayes classification
+- Fetching and Parsing Data from the Web with OpenRefine, Advanced APIs
 ----------------------------------------------------------------
 
 ## <a name="week11"></a>Week 11 (4/9): Methods
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_11)
 #### Coding, writing, and exercises
-- Montfort chp. 10 "Text III"
+
 - “Working With Text Data.” scikit-learn. [http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
 - Khan, Khairullah, Baharudin, Baharum, Lam Hong Lee. “A Review of Machine Learning Algorithms for Text-Documents Classification.” *Journal of Advances in Information Technology* 1, no. 1 (February 1, 2010).
 - Wolfram, S. Machine Learning for Middle Schoolers. Stephen Wolfram Blog. 11 May 2017. [http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments](http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments)
@@ -309,7 +318,7 @@ Add Montfort Text II exercise into a discussion post pg. 145.
 
 ### Speaker: Maria Fernandez
 #### [▸ In-class outline](week-11.md)
-- Classification: topic modeling, supervised, unsupervised
+- Supervised learning with multiple classifiers: Naive Bayes, k-nearest neighbor, Logistic Regression, Support Vector Machine (SVM), Multi-layer perceptron classifier
 
 ----------------------------------------------------------------
 
