@@ -291,10 +291,10 @@ Add Montfort Text II exercise into a discussion post pg. 145.
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 #### [▸ In-class outline](week-10.md)
-
 - Unsupervised learning: Latent Dirichlet allocation (LDA) topic modeling
 - Supervised learning: Naive Bayes classification
 - Fetching and Parsing Data from the Web with OpenRefine, Advanced APIs
+
 ----------------------------------------------------------------
 
 ## <a name="week11"></a>Week 11 (4/9): Methods
@@ -346,8 +346,8 @@ Add Montfort Text II exercise into a discussion post pg. 145.
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 #### [▸ In-class outline](week-12.md)
-
 - Tableau
+
 ----------------------------------------------------------------
 
 ## <a name="week13"></a>Week 13 (4/23): Features
