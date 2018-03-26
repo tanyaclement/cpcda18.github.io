@@ -258,7 +258,7 @@ Add Montfort Text II exercise into a discussion post pg. 145.
 - Kelly, Chelsea Emelie. [“Beyond Digital: Open Collections & Cultural Institutions,”](https://artmuseumteaching.com/2014/11/06/beyond-digital-open-collections-cultural-institutions) 2014.
 #### Optional
 - Manzo, Christina, Geoff Kaufman, Sukdith Punjasthitkul, and Mary Flanagan. “‘By the People, For the People’: Assessing the Value of Crowdsourced, User-Generated Metadata.” *Digital Humanities Quarterly* 9, no. 1 (2015). [http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html](http://www.digitalhumanities.org/dhq/vol/9/1/000204/000204.html)
-- Veltman, Noah. [Web APIs for non-programmers](https://schoolofdata.org/2013/11/18/web-apis-for-non-programmers/). November 18, 2013. *School of Data*. 
+- Veltman, Noah. [Web APIs for non-programmers](https://schoolofdata.org/2013/11/18/web-apis-for-non-programmers/). November 18, 2013. *School of Data*.
 
 ### Assignment
 [*Proposal due Friday, March 23 at 11:59pm; Peer reviews due by class March 26 at 3pm*](https://utexas.instructure.com/courses/1216881/assignments/4166696)
