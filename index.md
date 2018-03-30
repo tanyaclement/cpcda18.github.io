@@ -276,6 +276,7 @@ Add Montfort Text II exercise into a discussion post pg. 145.
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_10)
 #### Coding, writing, and exercises
+<!-- Liu meaning reading would be great here with Text III -->
 - Montfort chp. 10 "Text III"
 - Final project directory: Booth chp. 4 "From Questions to a Problem"
 #### For discussion
@@ -307,12 +308,14 @@ Add Montfort Text II exercise into a discussion post pg. 145.
 - Wolfram, S. Machine Learning for Middle Schoolers. Stephen Wolfram Blog. 11 May 2017. [http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments](http://blog.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/#comments)
 #### For discussion
 - Griffiths, Devin. "The Comparative Method and the History of the Modern Humanities" *History of Humanities*, Volume 2, Number 2, 2017.
-- Moretti, F. ["Conjectures in World Literature"](https://newleftreview.org/II/1/franco-moretti-conjectures-on-world-literature) *New Left Review* 1, January-February 2000.
+- Schmidt, B. ["Do Digital Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99).
 - Seaver, Nick ["Algorithms as culture: Some tactics for the ethnography of algorithmic systems"](http://journals.sagepub.com/doi/10.1177/2053951717738104) Big Data and Society. 9 Nov. 2017
-- Underwood, Ted. ["A Genealogy of Distant Reading"](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html). *Digital Humanities Quarterly* Volume 11, Number 2, 2017.
+- Underwood, Ted. ["A Genealogy of Distant Reading"](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html).
+ *Digital Humanities Quarterly* Volume 11, Number 2, 2017.
 #### Optional
 - Borgman chp. 7
 - Berendt, Bettina, Preibusch, Soren. Toward Accountable Discrimination-Aware Data Mining: The Importance of Keeping the Human in the Loop—and Under the Looking Glass. *Big Data*. Volume 5, Number 2, 2017.
+- Moretti, F. ["Conjectures in World Literature"](https://newleftreview.org/II/1/franco-moretti-conjectures-on-world-literature) *New Left Review* 1, January-February 2000.
 
 ### Assignment
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
@@ -361,7 +364,6 @@ Add Montfort Text II exercise into a discussion post pg. 145.
 #### For discussion
 - Brown and Mandell, ["The Identity Issue: An Introduction."](http://culturalanalytics.org/2018/02/the-identity-issue-an-introduction/) *Journal of Cultural Analytics* 13 February 2018.
 - Hammond, Adam. "The double bind of validation: distant reading and the digital humanities' 'trough of disillusionment." *Literature Compass* 14, no. 8 (August 1, 2017): no. pg.
-- Schmidt, B. ["Do Digital Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99).
 - Witmore, Michael. 2016. “Latour, the Digital Humanities, and the Divided Kingdom of Knowledge.” *New Literary History* 47 (2): 353–75.
 #### Have some fun!
 - Scroll through [these examples of neural networks inventing things based on example](http://aiweirdness.com/) such as insect names, thesis titles, guinea pig names, and pie
