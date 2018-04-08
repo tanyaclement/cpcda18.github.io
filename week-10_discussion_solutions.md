@@ -81,7 +81,7 @@ Create a function that returns the top 20 most frequent words in a given TextBlo
 from operator import itemgetter
 from pprint import pprint
 
-freq_dict = text1.word_counts
+freq_dict = text_1.word_counts
 freq_list = []
 
 for key in freq_dict:
@@ -127,9 +127,9 @@ def topwords(blob):
     sorted_freq_sans_stopwords = sorted(freq_sans_stopwords, key = itemgetter(1))[::-1]
     return sorted_freq_sans_stopwords
 
-pprint(topwords(text1)[:20])
+pprint(topwords(text_1)[:20])
 print()
-pprint(topwords(text2)[:20])
+pprint(topwords(text_2)[:20])
 ```
 
 

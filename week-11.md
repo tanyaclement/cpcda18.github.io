@@ -2,8 +2,8 @@
 ### Objectives
 - Supervised learning with multiple classifiers: Naive Bayes, k-nearest neighbor, Logistic Regression, Support Vector Machine (SVM), Multi-layer perceptron classifier
 ### Exercises
-- Select `Raw` at the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
-1. - [Unsupervised Learning: k-means clustering](https://github.com/pcda17/pcda17.github.io/blob/master/Week-11.1_Clustering.ipynb)
+Select `Raw` at the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
+1. [Unsupervised Learning: k-means clustering](https://github.com/pcda17/pcda17.github.io/blob/master/Week-11.1_Clustering.ipynb)
 2. [Supervised Learning](https://github.com/tanyaclement/cpcda18.github.io/blob/master/Week-11.2_Supervised-learning.ipynb)
 
 
