@@ -276,7 +276,7 @@ Add Montfort Text II exercise into a discussion post pg. 145.
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_10)
 #### Coding, writing, and exercises
-<!-- Liu meaning reading would be great here with Text III -->
+<!-- Liu meaning reading would be great here with Text III; maybe move Griffiths here-->
 - Montfort chp. 10 "Text III"
 - Final project directory: Booth chp. 4 "From Questions to a Problem"
 #### For discussion
@@ -301,6 +301,9 @@ Add Montfort Text II exercise into a discussion post pg. 145.
 ## <a name="week11"></a>Week 11 (4/9): Methods
 ### Readings
 - [Readings in Canvas](https://utexas.instructure.com/courses/1216881/files/folder/Week_11)
+<!--
+perhaps replace all readings with http://sappingattention.blogspot.com/2012/11/reading-digital-sources-case-study-in.html series
+-->
 #### Coding, writing, and exercises
 
 - “Working With Text Data.” scikit-learn. [http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
@@ -322,6 +325,7 @@ Add Montfort Text II exercise into a discussion post pg. 145.
 
 ### Speaker: Maria Fernandez
 #### [▸ In-class outline](week-11.md)
+- Unsupervised learning with K-Means Clustering
 - Supervised learning with multiple classifiers: Naive Bayes, k-nearest neighbor, Logistic Regression, Support Vector Machine (SVM), Multi-layer perceptron classifier
 
 ----------------------------------------------------------------

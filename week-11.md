@@ -1,5 +1,6 @@
 ## Week 11
 ### Objectives
+- Unsupervised learning with K-Means Clustering
 - Supervised learning with multiple classifiers: Naive Bayes, k-nearest neighbor, Logistic Regression, Support Vector Machine (SVM), Multi-layer perceptron classifier
 ### Exercises
 Select `Raw` at the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
