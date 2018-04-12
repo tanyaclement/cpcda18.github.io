@@ -1,5 +1,6 @@
 ## Week 12
 
+Tableau
 
 Open Terminal in macOS and launch our Docker container:
 
@@ -22,9 +23,6 @@ Download a Jupyter notebook from the list below to `sharedfolder` on your deskto
 
 Navigate to [localhost:8889](localhost:8889) in your browser to open the notebook.
 
-### In-Class Demos
-
-- [Link to GitHub](https://github.com/pcda17/pcda17.github.io/tree/master/week/13)
 
 ### Resources
 
