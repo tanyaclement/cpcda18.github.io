@@ -353,7 +353,9 @@ perhaps replace all readings with http://sappingattention.blogspot.com/2012/11/r
 [Discussion post](https://utexas.instructure.com/courses/1216881/discussion_topics)
 
 #### [▸ In-class outline](week-12.md)
+- Matplotlib
 - Tableau
+
 
 ----------------------------------------------------------------
 

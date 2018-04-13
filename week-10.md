@@ -7,8 +7,6 @@
 ### Exercises
 Select `Raw` at the following link and save the Jupyter notebook files to `sharedfolder` on your desktop.
 
-Save the Jupyter notebook file to `sharedfolder` on your desktop.
-
 1. [Week-10_Machine-Learning](https://github.com/tanyaclement/cpcda18.github.io/blob/master/Week-10_Machine-Learning.ipynb)
 
 2. [Karsdorp, Chapter 3: Text Processing](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/old/Appendix%20-%20Text%20Preprocessing.ipynb)

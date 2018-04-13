@@ -1,6 +1,13 @@
 ## Week 12
+### Objectives
+- Tableau
+- Matplotlib
 
-Tableau
+
+### Exercises
+Select `Raw` at the following link and save the Jupyter notebook files to `sharedfolder` on your desktop.
+
+Save the Jupyter notebook file to `sharedfolder` on your desktop.
 
 Open Terminal in macOS and launch our Docker container:
 
