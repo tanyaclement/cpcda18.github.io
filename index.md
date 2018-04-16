@@ -354,6 +354,8 @@ perhaps replace all readings with http://sappingattention.blogspot.com/2012/11/r
 
 #### [▸ In-class outline](week-12.md)
 - Matplotlib
+  - Simple Viz for Sentiment Analysis
+  - Much more Viz
 - Tableau
 
 

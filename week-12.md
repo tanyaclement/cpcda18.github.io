@@ -1,22 +1,21 @@
 ## Week 12
 ### Objectives
 - Matplotlib
+  - Simple Viz for Sentiment Analysis
+  - Much more Viz
 - Tableau
 
 ### Exercises
-
-
-[How to format your data for Tableau](https://public.tableau.com/s/blog/2012/08/how-format-your-data-tableau-public
-https://public.tableau.com/en-us/s/gallery)
-http://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.html
-https://www.tableau.com/learn/tutorials/on-demand/getting-started?edition=unlicensed&version=10.5.0&__full-version=10500.17.1226.1925&platform=mac&status=buy&reg-delay=true
-http://dh101.humanities.ucla.edu/?page_id=163
-
-
+Matplotlib
 Select `Raw` at the following link and save the Jupyter notebook files to `sharedfolder` on your desktop.
+  - [Simple Viz for Sentiment Analysis](https://github.com/tanyaclement/cpcda18.github.io/blob/master/week-12.1_Stats-and-Visualization.ipynb)
+  - [Much more Viz](https://github.com/tanyaclement/cpcda18.github.io/blob/master/week-12.2_Matplotlib_Visualization_Examples.ipynb)
+- Tableau
+Tableau
+-- [free download for students](https://www.tableau.com/academic/students)
+-- [tutorial](http://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.html)
 
-Save the Jupyter notebook file to `sharedfolder` on your desktop.
-
+### Getting started
 Open Terminal in macOS and launch our Docker container:
 
 ```
