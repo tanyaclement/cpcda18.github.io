@@ -1,10 +1,18 @@
 ## Week 12
 ### Objectives
-- Tableau
 - Matplotlib
-
+- Tableau
 
 ### Exercises
+
+
+[How to format your data for Tableau](https://public.tableau.com/s/blog/2012/08/how-format-your-data-tableau-public
+https://public.tableau.com/en-us/s/gallery)
+http://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.html
+https://www.tableau.com/learn/tutorials/on-demand/getting-started?edition=unlicensed&version=10.5.0&__full-version=10500.17.1226.1925&platform=mac&status=buy&reg-delay=true
+http://dh101.humanities.ucla.edu/?page_id=163
+
+
 Select `Raw` at the following link and save the Jupyter notebook files to `sharedfolder` on your desktop.
 
 Save the Jupyter notebook file to `sharedfolder` on your desktop.
@@ -31,11 +39,6 @@ Download a Jupyter notebook from the list below to `sharedfolder` on your deskto
 Navigate to [localhost:8889](localhost:8889) in your browser to open the notebook.
 
 
-### Resources
+### Other Resources
 
 - [Data Visualization LibGuide](https://guides.lib.utexas.edu/data-visualization/resources)
-How to format your data for Tableau: https://public.tableau.com/s/blog/2012/08/how-format-your-data-tableau-public
-https://public.tableau.com/en-us/s/gallery
-http://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.html
-https://www.tableau.com/learn/tutorials/on-demand/getting-started?edition=unlicensed&version=10.5.0&__full-version=10500.17.1226.1925&platform=mac&status=buy&reg-delay=true
-http://dh101.humanities.ucla.edu/?page_id=163
