@@ -7,9 +7,7 @@
 - Tableau
 
 ### Exercises
-Matplotlib
-
-Select `Raw` at the following link and save the Jupyter notebook files to `sharedfolder` on your desktop.
+- Matplotlib: Select `Raw` at the following link and save the Jupyter notebook files to `sharedfolder` on your desktop.
   - [Simple Viz for Sentiment Analysis](https://github.com/tanyaclement/cpcda18.github.io/blob/master/week-12.1_Stats-and-Visualization.ipynb)
   - [Much more Viz](https://github.com/tanyaclement/cpcda18.github.io/blob/master/week-12.2_Matplotlib_Visualization_Examples.ipynb)
 - Tableau
