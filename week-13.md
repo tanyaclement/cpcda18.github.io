@@ -1,4 +1,4 @@
-##Week 13:
+## Week 13:
 
 <!--
 check out Python cookbook on processing different data models:
@@ -11,7 +11,6 @@ https://utexas.instructure.com/courses/1216881/files/folder/Week_13?preview=4419
 
 - [Reference Snippets: Strings and Lists](https://github.com/pcda17/pcda17.github.io/blob/master/Reference_Snippets_--_Strings_and_Lists.ipynb)
 
-- [Supervised Learning](https://github.com/pcda17/pcda17.github.io/blob/master/Week-11.2_Supervised-learning.ipynb)
 
 ### Resources
 
