@@ -200,6 +200,9 @@ Right click the following link and save the Jupyter notebook file to `sharedfold
 [Karsdorp, Chapter 1:](http://nbviewer.jupyter.org/github/fbkarsdorp/python-course/blob/master/Chapter%201%20-%20Getting%20started.ipynb)
 Do *Defining basics* through *String manipulation*
 
+click the following link and save the Jupyter notebook file to `sharedfolder` on your desktop.
+https://github.com/tanyaclement/cpcda18.github.io/blob/master/week-02_IW_Data_Structures.ipynb
+
 ### More exercises
 
 Assign a sentence to the variable `sentence` — in this case the opening line from John Kennedy Toole’s  _A Confederacy of Dunces_. Type the name of the variable and hit shift-return to view your new string.
